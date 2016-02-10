@@ -1,0 +1,10 @@
+et . al	JJ	1
+Projection Based	JJ	1
+for example	RB	1
+for instance	RB	1
+i . e .	RB	1
+s stack of	JJ	1
+is to	RB	1
+are to	RB	1
+visa versa	RB	1
+close to	PP	1

@@ -1,0 +1,220 @@
+SCI_IN_THIS_PAPER in this paper
+SCI_IN_THIS_PAPER in this position paper
+SCI_IN_THIS_PAPER in this work
+SCI_IN_THIS_PAPER in our research
+SCI_IN_THIS_PAPER here
+
+
+LIT_BASED_ON	based on
+LIT_BASED_ON	derived from
+LIT_BASED_ON	copied from
+LIT_BASED_ON	built on
+
+SCI_THIS_PAPER	this paper
+SCI_THIS_PAPER	this work
+SCI_THIS_PAPER	this research
+SCI_THIS_PAPER	this tutorial
+SCI_THIS_PAPER	this design 
+
+SCI_OUR_METHOD	our method
+SCI_OUR_METHOD	our approach
+SCI_OUR_METHOD	the method
+
+SCI_WE	we
+SCI_WE	SCI_THIS_PAPER
+
+
+SCI_ISAPPLIED_PARA	is applied to
+
+SCI_EXPERIMENT	experiment
+
+SCI_EXPERIMENT_RESULTS	experiment results
+
+
+EVALUATION		evaluation
+EVALUATION		performance analysis
+EVALUATION		evaluation METHODOLOGY
+
+SCI_MODEL_TYPE	model
+SCI_MODEL_TYPE	design
+SCI_MODEL_TYPE	framework
+SCI_MODEL_TYPE	architecture
+SCI_MODEL_TYPE	methodology
+SCI_MODEL_TYPE_P	models
+SCI_MODEL_TYPE_P	designs
+SCI_MODEL_TYPE_P	frameworks
+SCI_MODEL_TYPE_P	architectures
+SCI_MODEL_TYPE_P	methodologies
+
+SCI_ASSUME+3	assume
+SCI_ASSUME	hypothesize
+SCI_ASSUME	postulate
+SCI_ASSUME	estimate
+SCI_ASSUME	believe
+
+SCI_FAIR+3	ill-conceived
+SCI_FAIR	astute
+SCI_FAIR+3	fair
+SCI_FAIR	unfair
+SCI_FAIR	idiotic
+SCI_FAIR	unreasonable
+
+SCI_EXPENSIVE	expensive
+SCI_EXPENSIVE	costly
+SCI_EXPENSIVE	cheap
+SCI_EXPENSIVE	flimsy
+SCI_EXPENSIVE	fragile
+
+SCI_GROWTH_ADV	linearly
+SCI_GROWTH_ADV	quadratically
+SCI_GROWTH_ADV	sublinearly
+SCI_GROWTH_ADV	inversely
+SCI_GROWTH_ADV	logarithmically
+SCI_GROWTH_ADV	exponentially
+
+AFFECT		affect
+AFFECT		impact
+AFFECT		influence
+AFFECT		toggle
+AFFECT		adjust
+
+LITTLE		much
+LITTLE		little
+LITTLE		a whole lot
+
+PROVES		proves
+PROVES		proves to the reader
+PROVES		illuminates
+PROVES		sheds light on 
+
+PROVE_THAT	prove that
+PROVE_THAT	show that
+PROVE_THAT	exhibit that
+PROVE_THAT	demonstrate that
+PROVE_THAT	make manifest that
+
+
+MAXIMIZING		maximizing
+MAXIMIZING		minimizing
+MAXIMIZING		optimizing
+MAXIMIZING		improving
+
+IMPROVED		improved
+
+MORE			more
+MORE			less
+MORE			even more
+
+AMBITIOUS		ambitious
+AMBITIOUS		novel
+AMBITIOUS		experimental
+AMBITIOUS		unstable
+AMBITIOUS		complex
+AMBITIOUS		overengineered
+
+DIFFICULT_X		difficult
+DIFFICULT_X		arduous
+DIFFICULT_X		onerous
+
+DIFFICULT		DIFFICULT_X
+DIFFICULT		as DIFFICULT_X as EVAL_MODING
+DIFFICULT		more DIFFICULT_X than with previous systems
+
+EVALUATING		evaluating
+EVALUATING		measuring
+EVALUATING		analyzing
+
+
+IMPACT		impact on
+IMPACT		effect on
+IMPACT		influence on
+IMPACT		inability to effect
+IMPACT		lack of influence on
+
+
+SIMILAR	related
+SIMILAR	similar
+SIMILAR entirely different
+SIMILAR orthogonal
+
+
+ANALYZE		analyze
+ANALYZE		explain
+ANALYZE		shed light on
+ANALYZE		illuminate
+
+
+SCI_BUZZWORD_NOUN technology
+SCI_BUZZWORD_NOUN communication
+SCI_BUZZWORD_NOUN algorithms
+SCI_BUZZWORD_NOUN theory
+SCI_BUZZWORD_NOUN methodologies
+SCI_BUZZWORD_NOUN information
+SCI_BUZZWORD_NOUN models
+SCI_BUZZWORD_NOUN archetypes
+SCI_BUZZWORD_NOUN configurations
+SCI_BUZZWORD_NOUN modalities
+SCI_BUZZWORD_NOUN symmetries
+SCI_BUZZWORD_NOUN epistemologies
+
+SCI_PROBLEM problem
+SCI_PROBLEM issue
+SCI_PROBLEM obstacle
+SCI_PROBLEM grand challenge
+SCI_PROBLEM challenge
+SCI_PROBLEM quandary
+SCI_PROBLEM riddle
+SCI_PROBLEM quagmire
+SCI_PROBLEM question
+
+SCI_PROBLEM_PL problems
+SCI_PROBLEM_PL issues
+SCI_PROBLEM_PL obstacles
+SCI_PROBLEM_PL grand challenges
+SCI_PROBLEM_PL challenges
+
+
+SCI_GOAL goal
+SCI_GOAL mission
+SCI_GOAL objective
+SCI_GOAL purpose
+SCI_GOAL ambition
+SCI_GOAL aim
+SCI_GOAL intent
+
+SCI_GOAL_PL goals
+SCI_GOAL_PL missions
+SCI_GOAL_PL objectives
+SCI_GOAL_PL purposes
+SCI_GOAL_PL ambitions
+
+SCI_GOAL_OR_PROBLEM SCI_PROBLEM
+SCI_GOAL_OR_PROBLEM SCI_GOAL
+
+SCI_APPROACH approach
+SCI_APPROACH solution
+SCI_APPROACH method
+SCI_APPROACH_PL approaches
+SCI_APPROACH_PL solutions
+SCI_APPROACH_PL methods
+
+SCI_DRAWBACK drawback
+SCI_DRAWBACK disadvantage
+SCI_DRAWBACK shortcoming
+SCI_DRAWBACK flaw
+
+WHAT_PL			these results
+WHAT_PL			these algorithms
+WHAT_PL			a more thorough discussion
+
+WHAT			it
+WHAT			this FINDING
+WHAT			such a claim
+WHAT			such a hypothesis
+
+FINDING			result
+FINDING			finding
+FINDING			outcome
+FINDING			discussion
+FINDING			technique
+FINDING+3

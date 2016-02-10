@@ -1,0 +1,26 @@
+Google is offering a new kind of data storage service – and revealing its cloud computing strategy against Amazon Web Services and Microsoft Azure.
+The company said on Wednesday that it would offer a service, called Nearline, for non-essential data. Like an AWS product called Glacier, this storage costs just a penny a month per gigabyte. Microsoft’s cheapest listed online storage is about 2.4 cents a gigabyte
+While Glacier storage has a retrieval time of several hours, though, Google said Nearline data will be available in about three seconds.
+Three seconds, in an online world, is an eternity for something like serving a web page. Nearline data would, however, be suitable for data analysis as well as long-term storage.
+The name is meant to evoke the idea of being nearly online at all times, It is also designed to move easily into other Google storage products, with sub-second data retrieval. That could make it a way to sell more expensive storage, as well as more analytics tools.
+Google’s long game, in other words, is positioning itself as the cloud computing company for all kinds of data analysis, something that it at the heart of its search engine business.
+“It’s not about storage, it’s about what you’ll do with analytics,” said Tom Kershaw, director of product management for the Google Cloud Platform. “Never delete anything, always use data – it’s what Google does.”
+The search giant is indeed notoriously data-driven, down to analyzing people’s drive times to lunch before it decided to offer free lunches, or examining the productivity effect of different heating vents. It has more recently offered several data analysis products to customers.
+The chief one for business, called Big Query, is used for analyzing large sets of data. Another product, Data Flow, is currently in limited release and should become broadly available within a few months. It is used for preparing large amounts of data for specific types of analysis, like sorting medical records for a certain gender and age.
+Mr. Kershaw said other products were likely in the near future.
+In addition, Google announced plans with several existing storage providers, including Veritas/Symantec and NetApp, to encrypt and transport data from their systems onto Nearline.
+Existing consumer services, like Dropbox, charge about $10 a month to store a terabyte of data, which is the same price as Nearline and Glacier. In reality, however, those businesses count on most of their customers storing well below their limit.
+While Microsoft has also been increasing its analytics offerings, Google wants companies to store literally every type of digital data, in perpetuity, Mr. Kershaw said. “Real-time intelligence is only as good as the data you can put against it,” he said. “Think how different Google would be if we couldn’t see all of the analytics around Mother’s Day for the last 15 years.”
+He added, think how amazing it would be if we had all the systems and data all the way back to 1970.
+
+In machine learning, support vector machines (SVMs, also support vector networks[1]) are supervised learning models with associated learning algorithms that analyze data and recognize patterns, used for classification and regression analysis. Given a set of training examples, each marked as belonging to one of two categories, an SVM training algorithm builds a model that assigns new examples into one category or the other, making it a non-probabilistic binary linear classifier. An SVM model is a representation of the examples as points in space, mapped so that the examples of the separate categories are divided by a clear gap that is as wide as possible. New examples are then mapped into that same space and predicted to belong to a category based on which side of the gap they fall on.
+
+In addition to performing linear classification, SVMs can efficiently perform a non-linear classification using what is called the kernel trick, implicitly mapping their inputs into high-dimensional feature spaces.
+Over the past years acquiring subcategorization lexicons from textual corpora has become increasingly popular. Several systems have recently been proposed which are capable of detecting comprehensive sets of subcategorization frames (SCFs) and producing large-scale lexicons which include valuable frequency information. Results from the evaluation of these systems have generally been encouraging. However, the variation in the evaluation methods, the number of target SCFs, test verbs, gold standards, and test corpora have made direct comparison of different results and systems difficult. 
+
+The aim of this website is to provide resources which can be used as a common test bed for evaluating the performance of subcategorization acquisition systems. These resources include an evaluation corpus and a gold standard for a set of 30 test verbs, and software which can be used to automatically evaluate SCF lexicons using several well-established methods. 
+
+As a starting point for inter-system comparison, we make available our results on the evaluation corpus, obtained by the current version of Briscoe and Carroll's (1997) subcategorization acquisition system (Korhonen, 2002). We would be pleased to hear about the results obtained by other systems. 
+He is an american.
+Hmm is shorten for Hidden Markov Model.
+Hmm is a learning model

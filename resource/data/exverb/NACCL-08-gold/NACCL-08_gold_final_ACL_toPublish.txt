@@ -1,0 +1,2367 @@
+-----------
+OriginalSnt:?<p1> Google </p1> assimilates <p2> YouTube </p2> !
+Snt:? Google assimilates YouTube !
+====================
+-----------
+OriginalSnt:finally <p1> google </p1> bought <p2> youtube </p2>
+Snt:finally google bought youtube .
+google;@;bought;@;youtube
+====================
+-----------
+OriginalSnt:<p1> Google </p1> actually bought <p2> YouTube </p2> .
+Snt:Google actually bought YouTube .
+Google;@;actually bought;;bought;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Google </p1> Closes <p2> YouTube </p2> Acquisition
+Snt:Google Closes YouTube Acquisition .
+====================
+-----------
+OriginalSnt:never even saw this coming , but apparently <p1> Adobe </p1> www.msacromedia.com is about to buy <p2> Macromedia </p2> .
+Snt:never even saw this coming , but apparently Adobe www.msacromedia.com is about to buy Macromedia .
+Adobe;@;www.msacromedia.com is about to buy;@;Macromedia
+====================
+-----------
+OriginalSnt:The story was first seen at Techcrunch , the picked up by the Wall Street Journal and has since been the subject of much talk , posts and thoughts over the past few days and finally it has been confirmed that <p1> Google </p1> have purchased <p2> Youtube </p2> for $ 1.65 billion in an official statement .
+Snt:The story was first seen at Techcrunch , the picked up by the Wall Street Journal and has since been the subject of much talk , posts and thoughts over the past few days and finally it has been confirmed that Google have purchased Youtube for $ 1.65 billion in an official statement .
+Google;@;have purchased;@;Youtube
+====================
+-----------
+OriginalSnt:<p1> Google </p1> confirms <p2> YouTube </p2> aquisition - BBC News
+Snt:Google confirms YouTube aquisition - BBC News .
+====================
+-----------
+OriginalSnt:<p1> Novartis </p1> acquired <p2> Eon Labs </p2> and Hexal to create the world s leading manufacturer of generic drugs .
+Snt:Novartis acquired Eon Labs and Hexal to create the world s leading manufacturer of generic drugs .
+Novartis;@;acquired;@;Eon Labs
+====================
+-----------
+OriginalSnt:<p1> Novartis </p1> buys generic drugmakers <p2> Eon </p2> , Hexal
+Snt:Novartis buys generic drugmakers Eon , Hexal .
+Novartis;@;buys generic drugmakers;;buys;@;Eon;;generic drugmakers Eon
+====================
+-----------
+OriginalSnt:<p1> Google </p1> announced Tuesday that it bought <p2> YouTube </p2> for $ 1.65 billion .
+Snt:Google announced Tuesday that it bought YouTube for $ 1.65 billion .
+Google;@;announced Tuesday that it bought;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Adobe </p1> has announced the acquisition of <p2> Macromedia </p2> .
+Snt:Adobe has announced the acquisition of Macromedia .
+Adobe;@;has announced the acquisition of;@;Macromedia
+====================
+-----------
+OriginalSnt:July 11 , 2005 __ __ __ ( Nasdaq : ADBE ) and __ __ __ ( Nasdaq : MACR ) today announced that they have received a Request for Additional Information and Documentary Materials ( a second request ) from the Department of Justice ( DOJ ) in connection with <p1> Adobe </p1> s pending acquisition of <p2> Macromedia </p2> .
+Snt:July 11 , 2005 __ __ __ ( Nasdaq : ADBE ) and __ __ __ ( Nasdaq : MACR ) today announced that they have received a Request for Additional Information and Documentary Materials ( a second request ) from the Department of Justice ( DOJ ) in connection with Adobe s pending acquisition of Macromedia .
+Adobe;@;s pending acquisition of;@;Macromedia
+====================
+-----------
+OriginalSnt:Official - <p1> Google </p1> Acquire <p2> YouTube </p2> For $ 1.65 Billion
+Snt:Official - Google Acquire YouTube For $ 1.65 Billion .
+Google;@;Acquire;@;YouTube
+====================
+-----------
+OriginalSnt:Another example of a statutory merger is software maker <p1> Adobe Systems </p1> acquisition of <p2> Macromedia </p2> ( another software company ) .
+Snt:Another example of a statutory merger is software maker Adobe Systems acquisition of Macromedia ( another software company ) .
+Adobe Systems;@;acquisition of;@;Macromedia
+====================
+-----------
+OriginalSnt:BASEL , Switzerland ( AP ) Swiss giant <p1> Novartis </p1> says it will buy generic drugmakers <p2> Eon Labs </p2> of the United States and Hexal of Germany for more than $ 8 billion in cash .
+Snt:BASEL , Switzerland ( AP ) Swiss giant Novartis says it will buy generic drugmakers Eon Labs of the United States and Hexal of Germany for more than $ 8 billion in cash .
+Novartis;@;says it will buy generic drugmakers;@;Eon Labs
+====================
+-----------
+OriginalSnt:This week in the news we talk about <p1> Google </p1> actually does buy <p2> YouTube </p2> !
+Snt:This week in the news we talk about Google actually does buy YouTube !
+Google;@;actually does buy;@;YouTube
+====================
+-----------
+OriginalSnt:The __ founders talk about <p1> Google </p1> acquiring <p2> Youtube </p2>
+Snt:The __ founders talk about Google acquiring Youtube .
+Google;@;acquiring;@;Youtube
+====================
+-----------
+OriginalSnt:Why did <p1> Google </p1> buy <p2> YouTube </p2> ?
+Snt:Why did Google buy YouTube ?
+Google;@;buy;@;YouTube
+====================
+-----------
+OriginalSnt:Why Did <p1> Adobe </p1> Buy <p2> Macromedia </p2> ?
+Snt:Why Did Adobe Buy Macromedia ?
+Adobe;@;Buy;@;Macromedia
+====================
+-----------
+OriginalSnt:And now that <p1> Google </p1> s got <p2> YouTube </p2> , they re gonna work that same magic on your independent short , hitting the guy in the head with a shovel [ plays video of just that ] .
+Snt:And now that Google s got YouTube , they re gonna work that same magic on your independent short , hitting the guy in the head with a shovel [ plays video of just that ] .
+Google;@;s got;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Novartis </p1> completes acquisition of 98 % of <p2> Eon Labs </p2> , substantially strengthening the leading position of its Sandoz generics unit ( Basel , July 21 , 2005 )
+Snt:Novartis completes acquisition of 98 % of Eon Labs , substantially strengthening the leading position of its Sandoz generics unit ( Basel , July 21 , 2005 ) .
+Novartis;@;completes acquisition of 98 % of;;completes;@;Eon Labs;;acquisition of 98 % of Eon Labs
+====================
+-----------
+OriginalSnt:But who knows , with <p1> Google </p1> ' s " owning " of <p2> YouTube </p2> now...they are now in the " media " department with that deal...so who knows if they will move on to music stuff next : P
+Snt:But who knows , with Google ' s " owning " of YouTube now...they are now in the " media " department with that deal...so who knows if they will move on to music stuff next : P .
+Google;@;' s " owning " of;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Google </p1> snaps up <p2> YouTube </p2> for $ 1.65B
+Snt:Google snaps up YouTube for $ 1.65B .
+Google;@;snaps up;@;YouTube
+====================
+-----------
+OriginalSnt:In October 2006 , <p1> Google </p1> buys <p2> Youtube </p2> for $ 1.65 billion .
+Snt:In October 2006 , Google buys Youtube for $ 1.65 billion .
+Google;@;buys;@;Youtube
+====================
+-----------
+OriginalSnt:<p1> Google </p1> reportedly in talks to buy <p2> YouTube </p2> - Oct. 6 , 2006
+Snt:Google reportedly in talks to buy YouTube - Oct. 6 , 2006 .
+Google;@;reportedly in talks to buy;@;YouTube
+====================
+-----------
+OriginalSnt:On January 31 , 2006 , <p1> Viacom </p1> completed its acquisition of <p2> DreamWorks </p2> LLC ( __ ) , a producer of live - action motion pictures , television programming and home entertainment products .
+Snt:On January 31 , 2006 , Viacom completed its acquisition of DreamWorks LLC ( __ ) , a producer of live - action motion pictures , television programming and home entertainment products .
+Viacom;@;completed its acquisition of;@;DreamWorks
+====================
+-----------
+OriginalSnt:Another <p1> Google </p1> Acquisition : <p2> YouTube </p2>
+Snt:Another Google Acquisition : YouTube .
+Google;@;Acquisition :;@;YouTube
+====================
+-----------
+OriginalSnt:__ - <p1> Adobe </p1> to acquire <p2> Macromedia </p2>
+Snt:__ - Adobe to acquire Macromedia .
+Adobe;@;to acquire;@;Macromedia
+====================
+-----------
+OriginalSnt:Oct. 10 : <p1> Google </p1> buys the online video sharing site <p2> YouTube </p2> for $ 1.65 billion in a deal expected to dramatically improve __ ' s video traffic .
+Snt:Oct. 10 : Google buys the online video sharing site YouTube for $ 1.65 billion in a deal expected to dramatically improve __ ' s video traffic .
+Google;@;buys the online video sharing site;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Google </p1> has acquired <p2> Youtube </p2> , an online video sharing service , for US $ 1.65B in __ stock .
+Snt:Google has acquired Youtube , an online video sharing service , for US $ 1.65B in __ stock .
+Google;@;has acquired;@;Youtube;;Youtube , an online video sharing service
+====================
+-----------
+OriginalSnt:<p1> Adobe </p1> To Purchase <p2> Macromedia </p2>
+Snt:Adobe To Purchase Macromedia .
+Adobe;@;To Purchase;@;Macromedia
+====================
+-----------
+OriginalSnt:Last year Paramount , the <p1> Viacom </p1> - owned studio , bought <p2> Dreamworks </p2> , the studio behind Shrek , for $ 774m and $ 840m in debt .
+Snt:Last year Paramount , the Viacom - owned studio , bought Dreamworks , the studio behind Shrek , for $ 774m and $ 840m in debt .
+Viacom;@;- owned studio , bought;@;Dreamworks
+====================
+-----------
+OriginalSnt:Hmm , interesting question , what ' s in store for GMT now that <p1> Google </p1> announced buying <p2> YouTube </p2> .
+Snt:Hmm , interesting question , what ' s in store for GMT now that Google announced buying YouTube .
+Google;@;announced buying;@;YouTube
+====================
+-----------
+OriginalSnt:In a $ 1.65 billion stock - for - stock transaction , search engine <p1> Google </p1> , will purchase <p2> YouTube </p2> , the consumer video media company .
+Snt:In a $ 1.65 billion stock - for - stock transaction , search engine Google , will purchase YouTube , the consumer video media company .
+Google;@;, will purchase;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Novartis </p1> buys Hexal , <p2> Eon Labs </p2> - Sify.com
+Snt:Novartis buys Hexal , Eon Labs - Sify.com .
+Novartis;@;buys Hexal ,;;buys;@;Eon Labs;;Hexal
+====================
+-----------
+OriginalSnt:In a move that has surprised a few people , <p1> Google </p1> announced today that it would acquire <p2> YouTube </p2> , the fast growing online video sharing site founded by Chad Hurley and Steve Chen , ending months of speculation that You Tube was bound to fail and would be soon a just a vague memory .
+Snt:In a move that has surprised a few people , Google announced today that it would acquire YouTube , the fast growing online video sharing site founded by Chad Hurley and Steve Chen , ending months of speculation that You Tube was bound to fail and would be soon a just a vague memory .
+Google;@;announced today that it would acquire;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Adobe </p1> , <p2> Macromedia </p2> and their directors and executive officers may be deemed to be participants in the solicitation of proxies from the stockholders of __ and __ in connection with the merger transaction .
+Snt:Adobe , Macromedia and their directors and executive officers may be deemed to be participants in the solicitation of proxies from the stockholders of __ and __ in connection with the merger transaction .
+====================
+-----------
+OriginalSnt:On April 18 , 2005 , <p1> Adobe </p1> announced a definitive agreement to acquire <p2> Macromedia </p2> in an all - stock transaction .
+Snt:On April 18 , 2005 , Adobe announced a definitive agreement to acquire Macromedia in an all - stock transaction .
+Adobe;@;announced a definitive agreement to acquire;@;Macromedia
+====================
+-----------
+OriginalSnt:Here is the video of the two __ founders talking about the <p1> Google </p1> acquisition in their <p2> YouTube </p2> way !
+Snt:Here is the video of the two __ founders talking about the Google acquisition in their YouTube way !
+Google;@;acquisition in their;@;YouTube
+====================
+-----------
+OriginalSnt:August 24 , 2005 __ __ __ ( Nasdaq : ADBE ) and __ __ __ ( Nasdaq : MACR ) announced that the stockholders of each company have voted in favor of <p1> Adobe </p1> s proposed acquisition of <p2> Macromedia </p2> at their respective special stockholder meetings held today .
+Snt:August 24 , 2005 __ __ __ ( Nasdaq : ADBE ) and __ __ __ ( Nasdaq : MACR ) announced that the stockholders of each company have voted in favor of Adobe s proposed acquisition of Macromedia at their respective special stockholder meetings held today .
+Adobe;@;s proposed acquisition of;@;Macromedia
+====================
+-----------
+OriginalSnt:<p1> Adobe Systems </p1> to acquire <p2> Macromedia </p2>
+Snt:Adobe Systems to acquire Macromedia .
+Adobe Systems;@;to acquire;@;Macromedia
+====================
+-----------
+OriginalSnt:Update 2 : <p1> Novartis </p1> Buys Drugmakers Hexal and <p2> Eon </p2>
+Snt:Update 2 : Novartis Buys Drugmakers Hexal and Eon .
+Novartis;@;Buys Drugmakers Hexal and;@;Eon
+====================
+-----------
+OriginalSnt:<p1> Google </p1> Closing in on Deal to Buy <p2> YouTube </p2>
+Snt:Google Closing in on Deal to Buy YouTube .
+Google;@;Closing in on Deal to Buy;@;YouTube
+====================
+-----------
+OriginalSnt:__ __ __ ( Nasdaq : ADBE ) and __ __ __ ( Nasdaq : MACR ) announced that the stockholders of each company have voted in favor of <p1> Adobe </p1> ' s proposed acquisition of <p2> Macromedia </p2> at their respective special stockholder meetings held today .
+Snt:__ __ __ ( Nasdaq : ADBE ) and __ __ __ ( Nasdaq : MACR ) announced that the stockholders of each company have voted in favor of Adobe ' s proposed acquisition of Macromedia at their respective special stockholder meetings held today .
+Adobe;@;' s proposed acquisition of;@;Macromedia
+====================
+-----------
+OriginalSnt:In case you ' re interested in that sort of thing , the WSJ has a summary of analyst comments on the <p1> Google </p1> deal for <p2> YouTube </p2> .
+Snt:In case you ' re interested in that sort of thing , the WSJ has a summary of analyst comments on the Google deal for YouTube .
+Google;@;deal for;@;YouTube
+====================
+-----------
+OriginalSnt:I got a media call about <p1> google </p1> buying <p2> YouTube </p2> today .
+Snt:I got a media call about google buying YouTube today .
+google;@;buying;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Adobe </p1> bought <p2> Macromedia </p2> for the Flash Platform and they are going to invest to make it great .
+Snt:Adobe bought Macromedia for the Flash Platform and they are going to invest to make it great .
+Adobe;@;bought;@;Macromedia
+====================
+-----------
+OriginalSnt:In the US , the world ' s largest generics market , <p1> Novartis </p1> is acquiring control of <p2> Eon Labs </p2> , one of the fastest - growing generic pharmaceutical companies .
+Snt:In the US , the world ' s largest generics market , Novartis is acquiring control of Eon Labs , one of the fastest - growing generic pharmaceutical companies .
+Novartis;@;is acquiring control of;;is acquiring;@;Eon Labs;;control of Eon Labs
+====================
+-----------
+OriginalSnt:Streamingmedia.com : <p1> Adobe </p1> Completes <p2> Macromedia </p2> Acquisition
+Snt:Streamingmedia.com : Adobe Completes Macromedia Acquisition .
+====================
+-----------
+OriginalSnt:<p1> Google </p1> eats <p2> YouTube </p2>
+Snt:Google eats YouTube .
+Google;@;eats;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Viacom </p1> nearing deal to acquire <p2> DreamWorks </p2>
+Snt:Viacom nearing deal to acquire DreamWorks .
+Viacom;@;nearing deal to acquire;@;DreamWorks
+====================
+-----------
+OriginalSnt:<p1> Adobe </p1> s <p2> Macromedia </p2> takeover clears final hurdle
+Snt:Adobe s Macromedia takeover clears final hurdle .
+====================
+-----------
+OriginalSnt:<p1> Google </p1> closes <p2> YouTube </p2> acquisition - General News - www.pcauthority.com.au
+Snt:Google closes YouTube acquisition - General News - www.pcauthority.com.au .
+====================
+-----------
+OriginalSnt:<p1> Adobe </p1> acquired <p2> Macromedia! </p2> - sephiroth.it - flash &amp;amp; php
+Snt:Adobe acquired Macromedia! - sephiroth.it - flash &amp;amp; php .
+====================
+-----------
+OriginalSnt:<p1> Google </p1> is going to buy <p2> YouTube </p2> for more money than I can imagine I am picturing a stack of fivers that stands about as tall as Paul Daniels , which is roughly twenty five quid .
+Snt:Google is going to buy YouTube for more money than I can imagine I am picturing a stack of fivers that stands about as tall as Paul Daniels , which is roughly twenty five quid .
+Google;@;is going to buy;@;YouTube
+====================
+-----------
+OriginalSnt:Everybody knows by now that <p1> Google </p1> has just acquired <p2> YouTube </p2> ( Globe and Mail ) , adding the major play in online video clips to its arsenal of services where content meets advertising .
+Snt:Everybody knows by now that Google has just acquired YouTube ( Globe and Mail ) , adding the major play in online video clips to its arsenal of services where content meets advertising .
+Google;@;has just acquired;@;YouTube
+====================
+-----------
+OriginalSnt:I ' m not sure that <p1> Google </p1> will do the deal with <p2> YouTube </p2> ; perhaps it will be Yahoo that will try to level the ad revenue playing field .
+Snt:I ' m not sure that Google will do the deal with YouTube ; perhaps it will be Yahoo that will try to level the ad revenue playing field .
+Google;@;will do the deal with;@;YouTube
+====================
+-----------
+OriginalSnt:RR : Guess how much <p1> Google </p1> paid for <p2> YouTube </p2> .
+Snt:RR : Guess how much Google paid for YouTube .
+Google;@;paid for;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Google </p1> To Acquire <p2> YouTube </p2> for $ 1.65 Billion in Stock at Total Lost in space Says :
+Snt:Google To Acquire YouTube for $ 1.65 Billion in Stock at Total Lost in space Says : .
+Google;@;To Acquire;@;YouTube
+====================
+-----------
+OriginalSnt:The increased output comes a year after <p1> Viacom </p1> acquired <p2> DreamWorks Pictures </p2> ( and , as a result , its __ TV arm ) .
+Snt:The increased output comes a year after Viacom acquired DreamWorks Pictures ( and , as a result , its __ TV arm ) .
+Viacom;@;acquired;@;DreamWorks Pictures
+====================
+-----------
+OriginalSnt:Tags : statistics <p1> google </p1> buys <p2> youtube </p2> __ buy __ care __ + buys
+Snt:Tags : statistics google buys youtube __ buy __ care __ + buys .
+google;@;buys;@;youtube
+====================
+-----------
+OriginalSnt:Interestingly , ShoeMoney announced that <p1> Google </p1> would acquire <p2> YouTube </p2> on Friday , October 6th .
+Snt:Interestingly , ShoeMoney announced that Google would acquire YouTube on Friday , October 6th .
+Google;@;would acquire;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Novartis </p1> Completes Tender Offer For <p2> Eon Labs , Inc. </p2> and Purchase of Majority Stake
+Snt:Novartis Completes Tender Offer For Eon Labs , Inc. and Purchase of Majority Stake .
+Novartis;@;Completes Tender Offer For;@;Eon Labs , Inc.
+====================
+-----------
+OriginalSnt:- Bloomberg - <p1> Adobe Systems </p1> to Acquire <p2> Macromedia </p2> for $ 3.4 Billion
+Snt:- Bloomberg - Adobe Systems to Acquire Macromedia for $ 3.4 Billion .
+Adobe Systems;@;to Acquire;@;Macromedia
+====================
+-----------
+OriginalSnt:Amid all the hubbub over <p1> Google </p1> s swallowing of <p2> YouTube </p2> , we ve heard both considered commentary and over - the - top pontification about whether it s a good deal or a bad deal , for the newly - engorged company and for all those users in TV land .
+Snt:Amid all the hubbub over Google s swallowing of YouTube , we ve heard both considered commentary and over - the - top pontification about whether it s a good deal or a bad deal , for the newly - engorged company and for all those users in TV land .
+Google;@;s swallowing of;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Google </p1> aquires <p2> Youtube </p2> = $ 1.65Billion
+Snt:Google aquires Youtube = $ 1.65Billion .
+Google;@;aquires;@;Youtube
+====================
+-----------
+OriginalSnt:<p1> Google </p1> has officially acquired <p2> YouTube </p2> for a reported $ 1.65 bil .
+Snt:Google has officially acquired YouTube for a reported $ 1.65 bil .
+Google;@;has officially acquired;;has acquired;@;YouTube
+====================
+-----------
+OriginalSnt:Mega - search engine company <p1> Google </p1> bought the profitless <p2> YouTube </p2> for $ 1.65 million yesterday and this silly thank you video from Chad Hurley and Steve Chen shows the two __ twentysomething founders giddy to be billionaires .
+Snt:Mega - search engine company Google bought the profitless YouTube for $ 1.65 million yesterday and this silly thank you video from Chad Hurley and Steve Chen shows the two __ twentysomething founders giddy to be billionaires .
+Google;;Mega-search engine company Google;@;bought the profitless;;bought;@;YouTube;;the profitless YouTube
+====================
+-----------
+OriginalSnt:<p1> Google </p1> looking to buy <p2> YouTube </p2> for $ 1.6B ?
+Snt:Google looking to buy YouTube for $ 1.6B ?
+Google;@;looking to buy;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Google </p1> has acquired social media company , <p2> Youtube </p2> for $ 1.65 billion in a stock - for - stock transaction as announcedby __ __ on October 9 , 2006 .
+Snt:Google has acquired social media company , Youtube for $ 1.65 billion in a stock - for - stock transaction as announcedby __ __ on October 9 , 2006 .
+Google;@;has acquired social media company ,;;has acquired;@;Youtube;;social media company
+====================
+-----------
+OriginalSnt:[ ] In the days leading up to and in the hours immediately following <p1> Google </p1> s $ 1.65 billion buyout of <p2> YouTube </p2> , I noticed that an extrodinary number of visitors were coming to this site through Yahoo searches .
+Snt:[ ] In the days leading up to and in the hours immediately following Google s $ 1.65 billion buyout of YouTube , I noticed that an extrodinary number of visitors were coming to this site through Yahoo searches .
+Google;@;s $ 1.65 billion buyout of;@;YouTube
+====================
+-----------
+OriginalSnt:The War Is Over : <p1> Google </p1> Wins , <p2> YouTube </p2> Gets Bought Soft32.com News
+Snt:The War Is Over : Google Wins , YouTube Gets Bought Soft32.com News .
+====================
+-----------
+OriginalSnt:Search engine giant <p1> Google </p1> has bought video - sharing website <p2> YouTube </p2> in a controversial 883million deal .
+Snt:Search engine giant Google has bought video - sharing website YouTube in a controversial 883million deal .
+Google;;Search engine giant Google;@;has bought video - sharing website;;has bought;@;YouTube;;video-sharing website YouTube
+====================
+-----------
+OriginalSnt:<p1> Google </p1> on Monday announced the acquisition of <p2> YouTube </p2> for US $ 1.65 billion in stock .
+Snt:Google on Monday announced the acquisition of YouTube for US $ 1.65 billion in stock .
+Google;@;on Monday announced the acquisition of;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Google </p1> Buys <p2> YouTube!! </p2> !
+Snt:Google Buys YouTube!! !
+Google;@;Buys;@;YouTube!!
+====================
+-----------
+OriginalSnt:<p1> Adobe </p1> s Acquisition Of <p2> Macromedia </p2> Expected To Close On December 3 , 2005
+Snt:Adobe s Acquisition Of Macromedia Expected To Close On December 3 , 2005 .
+Adobe;@;s Acquisition Of;@;Macromedia
+====================
+-----------
+OriginalSnt:<p1> Adobe </p1> Buys <p2> Macromedia </p2>
+Snt:Adobe Buys Macromedia .
+Adobe;@;Buys;@;Macromedia
+====================
+-----------
+OriginalSnt:Under the terms of a proposed consent order with the Commission , __ is required to divest all the assets necessary to manufacture and market generic desipramine hydrochloride tablets , orphenadrine citrate extended release ( " ER " ) tablets , and rifampin oral capsules in the United States to Amide within 10 days of <p1> Novartis </p1> s acquisition of <p2> Eon </p2> .
+Snt:Under the terms of a proposed consent order with the Commission , __ is required to divest all the assets necessary to manufacture and market generic desipramine hydrochloride tablets , orphenadrine citrate extended release ( " ER " ) tablets , and rifampin oral capsules in the United States to Amide within 10 days of Novartis s acquisition of Eon .
+Novartis;@;s acquisition of;@;Eon
+====================
+-----------
+OriginalSnt:Stock holders of <p1> Adobe Systems Inc. </p1> and <p2> Macromedia Inc. </p2> on Wednesday voted in favor of plan for __ to acquire __ in an all - stock deal expected to close later this year , the companies said in a joint statement .
+Snt:Stock holders of Adobe Systems Inc. and Macromedia Inc. on Wednesday voted in favor of plan for __ to acquire __ in an all - stock deal expected to close later this year , the companies said in a joint statement .
+====================
+-----------
+OriginalSnt:Sumner Redstone , Chairman of the Board and CEO of <p1> Viacom </p1> , said , &amp;amp; ldquoThe acquisition of <p2> DreamWorks </p2> is an enormous step forward in our ongoing work to unlock the full potential of __ &amp;amp; rsquos brands and businesses .
+Snt:Sumner Redstone , Chairman of the Board and CEO of Viacom , said , &amp;amp; ldquoThe acquisition of DreamWorks is an enormous step forward in our ongoing work to unlock the full potential of __ &amp;amp; rsquos brands and businesses .
+====================
+-----------
+OriginalSnt:Where does <p1> Google </p1> ' s $ 1.65 billion <p2> YouTube </p2> acquisition leave Microsoft ?
+Snt:Where does Google ' s $ 1.65 billion YouTube acquisition leave Microsoft ?
+====================
+-----------
+OriginalSnt:What <p1> Google </p1> ' s <p2> YouTube </p2> deal means for Microsoft
+Snt:What Google ' s YouTube deal means for Microsoft .
+====================
+-----------
+OriginalSnt:<p1> GOOGLE </p1> BUYS <p2> YOUTUBE </p2>
+Snt:GOOGLE BUYS YOUTUBE .
+GOOGLE;@;BUYS;@;YOUTUBE
+====================
+-----------
+OriginalSnt:San Jose , Calif. - based <p1> Adobe </p1> announced in April the plans to acquire <p2> Macromedia </p2> , which makes the Flash animation software used to display graphics on Web sites .
+Snt:San Jose , Calif. - based Adobe announced in April the plans to acquire Macromedia , which makes the Flash animation software used to display graphics on Web sites .
+Adobe;@;announced in April the plans to acquire;@;Macromedia
+====================
+-----------
+OriginalSnt:I was thinking about overpaying after reading an article in this morning &amp;amp; rsquos deadtree edition of the Wall Street Journal on the <p1> Viacom </p1> buyout of <p2> Dreamworks SKG </p2> .
+Snt:I was thinking about overpaying after reading an article in this morning &amp;amp; rsquos deadtree edition of the Wall Street Journal on the Viacom buyout of Dreamworks SKG .
+====================
+-----------
+OriginalSnt:- <p1> Viacom </p1> s Paramount Pictures agreed to buy <p2> DreamWorks SKG </p2> for $ 1.6 billion in cash and debt , wresting the movie studio away from NBC Universal and securing the talents of Steven Spielberg .
+Snt:- Viacom s Paramount Pictures agreed to buy DreamWorks SKG for $ 1.6 billion in cash and debt , wresting the movie studio away from NBC Universal and securing the talents of Steven Spielberg .
+Viacom;@;s Paramount Pictures agreed to buy;@;DreamWorks SKG
+====================
+-----------
+OriginalSnt:<p1> Google </p1> ' s 1.65 Billion dollar Purchase of <p2> YouTube </p2> - High Risk investment ?
+Snt:Google ' s 1.65 Billion dollar Purchase of YouTube - High Risk investment ?
+Google;@;' s 1.65 Billion dollar Purchase of;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Novartis </p1> completes acquisition of 98 of <p2> Eon Labs </p2>
+Snt:Novartis completes acquisition of 98 of Eon Labs .
+Novartis;@;completes acquisition of 98 of;;completes;@;Eon Labs;;acquisition of 98 of Eon Labs
+====================
+-----------
+OriginalSnt:[ ... ] More importantly though , between <p1> Google </p1> buying <p2> Youtube </p2> and their own video service , I think __ &amp;amp; #8217 ; s thinking about the future of video .
+Snt:[ ... ] More importantly though , between Google buying Youtube and their own video service , I think __ &amp;amp; #8217 ; s thinking about the future of video .
+====================
+-----------
+OriginalSnt:The Flash Player , developed and distributed by <p1> Adobe Systems </p1> ( who bought <p2> Macromedia </p2> ) , is a client application available in most dominant web browsers .
+Snt:The Flash Player , developed and distributed by Adobe Systems ( who bought Macromedia ) , is a client application available in most dominant web browsers .
+Adobe Systems;@;( who bought;@;Macromedia
+====================
+-----------
+OriginalSnt:<p1> Novartis AG </p1> bought <p2> Eon Labs </p2> ( US ) and Hexal AG ( German ) in a deal worth $ 8.3 billion today both companies being generic drug makers .
+Snt:Novartis AG bought Eon Labs ( US ) and Hexal AG ( German ) in a deal worth $ 8.3 billion today both companies being generic drug makers .
+Novartis AG;@;bought;@;Eon Labs
+====================
+-----------
+OriginalSnt:The deal will allow <p1> Adobe Systems </p1> and <p2> Macromedia </p2> to create more powerful software programmes , enabling them to expand their reach into newer markets .
+Snt:The deal will allow Adobe Systems and Macromedia to create more powerful software programmes , enabling them to expand their reach into newer markets .
+====================
+-----------
+OriginalSnt:CNN is reporting that <p1> Google </p1> has agreed to buy <p2> YouTube </p2> for $ 1.65 billion in stock ; not a bad price for a company started in February 2005 .
+Snt:CNN is reporting that Google has agreed to buy YouTube for $ 1.65 billion in stock ; not a bad price for a company started in February 2005 .
+Google;@;has agreed to buy;@;YouTube
+====================
+-----------
+OriginalSnt:In October , <p1> Google </p1> acquired video sharing site <p2> YouTube </p2> for $ US1.65 billion ( $ 2.21 billion ) .
+Snt:In October , Google acquired video sharing site YouTube for $ US1.65 billion ( $ 2.21 billion ) .
+Google;@;acquired video sharing site;;acquired;@;YouTube;;video sharing site YouTube
+====================
+-----------
+OriginalSnt:<p1> Google </p1> Has Acquired <p2> YouTube </p2>
+Snt:Google Has Acquired YouTube .
+Google;@;Has Acquired;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Google </p1> May Be Buying <p2> YouTube </p2> for 1.6 Billion dollars
+Snt:Google May Be Buying YouTube for 1.6 Billion dollars .
+Google;@;May Be Buying;@;YouTube
+====================
+-----------
+OriginalSnt:After all the speculation on the web recently about <p1> Google </p1> ' s acquisition of <p2> YouTube </p2> , it has finally been confirmed .
+Snt:After all the speculation on the web recently about Google ' s acquisition of YouTube , it has finally been confirmed .
+Google;@;' s acquisition of;@;YouTube
+====================
+-----------
+OriginalSnt:__ __ __ ( Nasdaq : ADBE ) and __ __ __ ( Nasdaq : MACR ) today announced they have either received or been notified they will receive all regulatory clearances necessary to complete <p1> Adobe </p1> ' s pending acquisition of <p2> Macromedia </p2> .
+Snt:__ __ __ ( Nasdaq : ADBE ) and __ __ __ ( Nasdaq : MACR ) today announced they have either received or been notified they will receive all regulatory clearances necessary to complete Adobe ' s pending acquisition of Macromedia .
+Adobe;@;' s pending acquisition of;@;Macromedia
+====================
+-----------
+OriginalSnt:as speculated over the weekend , <p1> Google </p1> pulled the trigger and acquires <p2> YouTube </p2> for $ 1.65 billion...huge windfall for their 67 employees !
+Snt:as speculated over the weekend , Google pulled the trigger and acquires YouTube for $ 1.65 billion...huge windfall for their 67 employees !
+Google;@;pulled the trigger and acquires;@;YouTube
+====================
+-----------
+OriginalSnt:The rumour has now been confirmed by <p1> Google </p1> and are to acquire <p2> Youtube </p2> for $ 1.65 Billion in Stock .
+Snt:The rumour has now been confirmed by Google and are to acquire Youtube for $ 1.65 Billion in Stock .
+Google;@;and are to acquire;@;Youtube
+====================
+-----------
+OriginalSnt:<p1> Google </p1> Acquires <p2> YouTube!! </p2> !
+Snt:Google Acquires YouTube!! !
+Google;@;Acquires;@;YouTube!!
+====================
+-----------
+OriginalSnt:We first heard about this when the <p1> Google </p1> - <p2> Youtube </p2> acquisition news broke , and wrote briefly about it here ( see last paragraph ) .
+Snt:We first heard about this when the Google - Youtube acquisition news broke , and wrote briefly about it here ( see last paragraph ) .
+====================
+-----------
+OriginalSnt:The line of __ products is now controlled by its former rival , <p1> Adobe Systems </p1> , which acquired <p2> Macromedia </p2> on December 14 , 2005 .
+Snt:The line of __ products is now controlled by its former rival , Adobe Systems , which acquired Macromedia on December 14 , 2005 .
+Adobe Systems;@;, which acquired;@;Macromedia
+====================
+-----------
+OriginalSnt:The rumors turned out to be true , <p1> Google </p1> has officially announced the acquisition deal with <p2> YouTube </p2> , for $ 1.65 billion in stock .
+Snt:The rumors turned out to be true , Google has officially announced the acquisition deal with YouTube , for $ 1.65 billion in stock .
+Google;@;has officially announced the acquisition deal with;@;YouTube
+====================
+-----------
+OriginalSnt:This democratization continues on <p1> Google </p1> Video ( soon to swallow <p2> YouTube </p2> whole and complete its domination ) , which offers a number of feature documentaries including one called The Net by German filmmaker Lutz Dammbeck .
+Snt:This democratization continues on Google Video ( soon to swallow YouTube whole and complete its domination ) , which offers a number of feature documentaries including one called The Net by German filmmaker Lutz Dammbeck .
+Google;@;Video ( soon to swallow;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Novartis </p1> Completes Acquisition of 98 % of <p2> Eon Labs </p2>
+Snt:Novartis Completes Acquisition of 98 % of Eon Labs .
+Novartis;@;Completes Acquisition of 98 % of;@;Eon Labs
+====================
+-----------
+OriginalSnt:<p1> Novartis </p1> buys Hexal , <p2> Eon </p2> for 5.6 billion
+Snt:Novartis buys Hexal , Eon for 5.6 billion .
+Novartis;@;buys Hexal ,;;buys;@;Eon;;Hexal , Eon
+====================
+-----------
+OriginalSnt:The Data Warehousing blog speculates about what changes users might expect from <p1> Google </p1> s acquisition of <p2> YouTube </p2> like more ads but the potential for more cool __ - esque features .
+Snt:The Data Warehousing blog speculates about what changes users might expect from Google s acquisition of YouTube like more ads but the potential for more cool __ - esque features .
+Google;@;s acquisition of;@;YouTube
+====================
+-----------
+OriginalSnt:According to Techcrunch , a possible <p1> Google </p1> buyout of <p2> YouTube </p2> is the rumor du jour .
+Snt:According to Techcrunch , a possible Google buyout of YouTube is the rumor du jour .
+Google;@;buyout of;@;YouTube
+====================
+-----------
+OriginalSnt:RR : Did you know that <p1> Google </p1> just bought <p2> YouTube </p2> ?
+Snt:RR : Did you know that Google just bought YouTube ?
+Google;@;just bought;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Viacom </p1> bought <p2> Dreamworks </p2> in 2005 , who are Paramount ' s parent company .
+Snt:Viacom bought Dreamworks in 2005 , who are Paramount ' s parent company .
+Viacom;@;bought;@;Dreamworks
+====================
+-----------
+OriginalSnt:Entertainment giant <p1> VIACOM </p1> has taken over the <p2> DREAMWORKS SKG </p2> studio in a deal worth $ 1.6 billion ( 914 million ) .
+Snt:Entertainment giant VIACOM has taken over the DREAMWORKS SKG studio in a deal worth $ 1.6 billion ( 914 million ) .
+VIACOM;@;has taken over the;@;DREAMWORKS SKG
+====================
+-----------
+OriginalSnt:Other high - profile M &amp;amp; A activity : No. 4 Verizon Communications bought MCI ; SBC Communications Corp. bought AT &amp;amp; T Corp. and renamed itself ( No. 5 ) AT &amp;amp; T Sprint Corp. and Nextel Communications merged to form No. 16 Sprint Nextel Corp. ; No. 19 __ became a repository of the cable and entertainment operations of the old <p1> Viacom </p1> but with newly acquired <p2> DreamWorks SKG </p2> ; and No. 23 Federated Department Stores acquired May Department Stores .
+Snt:Other high - profile M &amp;amp; A activity : No. 4 Verizon Communications bought MCI ; SBC Communications Corp. bought AT &amp;amp; T Corp. and renamed itself ( No. 5 ) AT &amp;amp; T Sprint Corp. and Nextel Communications merged to form No. 16 Sprint Nextel Corp. ; No. 19 __ became a repository of the cable and entertainment operations of the old Viacom but with newly acquired DreamWorks SKG ; and No. 23 Federated Department Stores acquired May Department Stores .
+====================
+-----------
+OriginalSnt:__ are well - known for delivering digital media content for the web , and <p1> Adobe </p1> ' s acquisition of <p2> Macromedia </p2> may bring forth some exciting results .
+Snt:__ are well - known for delivering digital media content for the web , and Adobe ' s acquisition of Macromedia may bring forth some exciting results .
+Adobe;@;' s acquisition of;@;Macromedia
+====================
+-----------
+OriginalSnt:<p1> Google </p1> is in discussions to acquire <p2> YouTube </p2> for $ 1.6 billion , people involved in the talks said yesterday .
+Snt:Google is in discussions to acquire YouTube for $ 1.6 billion , people involved in the talks said yesterday .
+Google;@;is in discussions to acquire;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Adobe </p1> announced late Thursday that it and <p2> Macromedia </p2> have either received or been notified they will receive all regulatory clearances necessary to complete the acquisition , which will cost __ US $ 3.4 billion .
+Snt:Adobe announced late Thursday that it and Macromedia have either received or been notified they will receive all regulatory clearances necessary to complete the acquisition , which will cost __ US $ 3.4 billion .
+====================
+-----------
+OriginalSnt:WSJ.com , Wired : <p1> Adobe Systems Inc. </p1> announced the acquisition of <p2> Macromedia Inc. </p2> for $ 3.4 billion in stock in a deal that will bring together the software of two companies with broad resources to distribute documents , video and other media to personal computers , cellphones and hand - held devices .
+Snt:WSJ.com , Wired : Adobe Systems Inc. announced the acquisition of Macromedia Inc. for $ 3.4 billion in stock in a deal that will bring together the software of two companies with broad resources to distribute documents , video and other media to personal computers , cellphones and hand - held devices .
+Adobe Systems Inc.;@;announced the acquisition of;@;Macromedia Inc.
+====================
+-----------
+OriginalSnt:Re : <p1> Adobe </p1> Acquires <p2> Macromedia </p2> in $ 3.4 Billion Stock Deal
+Snt:Re : Adobe Acquires Macromedia in $ 3.4 Billion Stock Deal .
+Adobe;@;Acquires;@;Macromedia
+====================
+-----------
+OriginalSnt:<p1> Adobe </p1> to buy out <p2> Macromedia </p2>
+Snt:Adobe to buy out Macromedia .
+Adobe;@;to buy out;@;Macromedia
+====================
+-----------
+OriginalSnt:<p1> Viacom </p1> has won the bid to acquire <p2> Dreamworks SKG </p2> , beating out NBC Universal .
+Snt:Viacom has won the bid to acquire Dreamworks SKG , beating out NBC Universal .
+Viacom;@;has won the bid to acquire;@;Dreamworks SKG
+====================
+-----------
+OriginalSnt:Adotas <p1> Google </p1> - Eyed with Alarm : How the <p2> YouTube </p2> Deal Has the Internet in Shackles
+Snt:Adotas Google - Eyed with Alarm : How the YouTube Deal Has the Internet in Shackles .
+====================
+-----------
+OriginalSnt:<p1> Google </p1> confirmed that it will acquire <p2> YouTube </p2> , the leading , consumer video sharing site , for $ 1.65 billion in a stock - for - stock transaction .
+Snt:Google confirmed that it will acquire YouTube , the leading , consumer video sharing site , for $ 1.65 billion in a stock - for - stock transaction .
+Google;;it;@;confirmed that it will acquire;;will acquire;@;YouTube;;YouTube , the leading , consumer video sharing site
+====================
+-----------
+OriginalSnt:Apparently the rumor that <p1> Google </p1> was buying <p2> YouTube </p2> was less of a rumor than someone on the inside letting it slip out to the entire world .
+Snt:Apparently the rumor that Google was buying YouTube was less of a rumor than someone on the inside letting it slip out to the entire world .
+Google;@;was buying;@;YouTube
+====================
+-----------
+OriginalSnt:- <p1> Google </p1> completes <p2> YouTube </p2> takeover
+Snt:- Google completes YouTube takeover .
+Google;@;completes;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Google </p1> Pocketed <p2> YouTube </p2> for $ 1.65 Billion !
+Snt:Google Pocketed YouTube for $ 1.65 Billion !
+Google;@;Pocketed;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Google </p1> paid stunning <p2> YouTube </p2> price : Time Warner CEO , Reuters
+Snt:Google paid stunning YouTube price : Time Warner CEO , Reuters .
+====================
+-----------
+OriginalSnt:18. On Monday , February 21 , 2005 , __ announced it had signed a definitive merger agreement pursuant to which <p1> Novartis AG </p1> will acquire <p2> Eon </p2> .
+Snt:18. On Monday , February 21 , 2005 , __ announced it had signed a definitive merger agreement pursuant to which Novartis AG will acquire Eon .
+Novartis AG;@;will acquire;@;Eon
+====================
+-----------
+OriginalSnt:<p1> Adobe </p1> About to Buy <p2> Macromedia </p2> .
+Snt:Adobe About to Buy Macromedia .
+Adobe;@;About to Buy;@;Macromedia
+====================
+-----------
+OriginalSnt:TMO Reports - <p1> Adobe Systems </p1> Agrees to Buy <p2> Macromedia </p2> for $ 3.4 Billion
+Snt:TMO Reports - Adobe Systems Agrees to Buy Macromedia for $ 3.4 Billion .
+Adobe Systems;@;Agrees to Buy;@;Macromedia
+====================
+-----------
+OriginalSnt:Under terms of the deal , approved by the companies ' boards of directors , __ stockholders will receive 0.69 shares of <p1> Adobe </p1> common stock for every share of their <p2> Macromedia </p2> common stock .
+Snt:Under terms of the deal , approved by the companies ' boards of directors , __ stockholders will receive 0.69 shares of Adobe common stock for every share of their Macromedia common stock .
+====================
+-----------
+OriginalSnt:<p1> Google </p1> Interested in Acquiring <p2> YouTube </p2>
+Snt:Google Interested in Acquiring YouTube .
+Google;@;Interested in Acquiring;@;YouTube
+====================
+-----------
+OriginalSnt:Anyway , in a friendly merger , subject to all the usual regulatory rules , <p1> Adobe Systems </p1> is acquiring <p2> Macromedia </p2> in an all - stock transaction valued at approximately $ 3.4 billion .
+Snt:Anyway , in a friendly merger , subject to all the usual regulatory rules , Adobe Systems is acquiring Macromedia in an all - stock transaction valued at approximately $ 3.4 billion .
+Adobe Systems;@;is acquiring;@;Macromedia
+====================
+-----------
+OriginalSnt:<p1> Google </p1> Closing In on <p2> YouTube </p2> Acquisition ( 09 - Oct - 06 )
+Snt:Google Closing In on YouTube Acquisition ( 09 - Oct - 06 ) .
+====================
+-----------
+OriginalSnt:CXOtoday.com News Business <p1> Adobe </p1> ' s Buy Out Of <p2> Macromedia </p2> May Redefine Design Industry
+Snt:CXOtoday.com News Business Adobe ' s Buy Out Of Macromedia May Redefine Design Industry .
+Adobe;@;' s Buy Out Of;@;Macromedia
+====================
+-----------
+OriginalSnt:Rumours galore this morning on the possability of <p1> Google </p1> aquiring <p2> Youtube </p2> at $ 1.6 Billion .
+Snt:Rumours galore this morning on the possability of Google aquiring Youtube at $ 1.6 Billion .
+Google;@;aquiring;@;Youtube
+====================
+-----------
+OriginalSnt:I thought most of what I had to say about <p1> Google </p1> ' s brilliant acquisition of <p2> YouTube </p2> had already been said , so I was going to pass on writing about it .
+Snt:I thought most of what I had to say about Google ' s brilliant acquisition of YouTube had already been said , so I was going to pass on writing about it .
+Google;@;' s brilliant acquisition of;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Novartis </p1> completes acquisition of approximately 98 % <p2> Eon Labs </p2> , substantially strengthening the leading position of its Sandoz generics unit
+Snt:Novartis completes acquisition of approximately 98 % Eon Labs , substantially strengthening the leading position of its Sandoz generics unit .
+Novartis;@;completes acquisition of approximately 98 %;;completes;@;Eon Labs;;acquisition of approximately 98 % Eon Labs
+====================
+-----------
+OriginalSnt:<p1> Adobe Systems </p1> adquiere a su rival <p2> Macromedia </p2> @ WEB DEVELOPER ' S &amp;amp; DESIGNER ' S JOURNAL
+Snt:Adobe Systems adquiere a su rival Macromedia @ WEB DEVELOPER ' S &amp;amp; DESIGNER ' S JOURNAL .
+====================
+-----------
+OriginalSnt:<p1> Novartis </p1> announces final results of <p2> Eon Labs </p2> tender offer
+Snt:Novartis announces final results of Eon Labs tender offer .
+====================
+-----------
+OriginalSnt:<p1> Novartis </p1> to Buy <p2> Eon Labs </p2> , Hexel
+Snt:Novartis to Buy Eon Labs , Hexel .
+Novartis;@;to Buy;@;Eon Labs
+====================
+-----------
+OriginalSnt:<p1> Google </p1> has acquired the video sharing website <p2> YouTube </p2> for $ 1.65billion ( 883million ) in shares after a large amount of speculation over whether __ was talking about a deal with __ .
+Snt:Google has acquired the video sharing website YouTube for $ 1.65billion ( 883million ) in shares after a large amount of speculation over whether __ was talking about a deal with __ .
+Google;@;has acquired the video sharing website;@;YouTube
+====================
+-----------
+OriginalSnt:Chizen ' s <p1> Adobe </p1> Gets U.S. DOJ OK To Buy <p2> Macromedia </p2> - Forbes.com
+Snt:Chizen ' s Adobe Gets U.S. DOJ OK To Buy Macromedia - Forbes.com .
+Adobe;@;Gets U.S. DOJ OK To Buy;@;Macromedia
+====================
+-----------
+OriginalSnt:Related Posts to <p1> Adobe </p1> s proposed acquisition of <p2> macromedia </p2> clears U.S. department of justice review :
+Snt:Related Posts to Adobe s proposed acquisition of macromedia clears U.S. department of justice review : .
+Adobe;@;s proposed acquisition of;@;macromedia
+====================
+-----------
+OriginalSnt:<p1> Google </p1> aquires <p2> YouTube </p2>
+Snt:Google aquires YouTube .
+Google;@;aquires;@;YouTube
+====================
+-----------
+OriginalSnt:Today , <p1> Google </p1> has confirmed that it is acquiring <p2> YouTube </p2> , a consumer media organization where users can view and share original videos through an Internet experience .
+Snt:Today , Google has confirmed that it is acquiring YouTube , a consumer media organization where users can view and share original videos through an Internet experience .
+Google;;it;@;has confirmed that it is acquiring;;is acquiring;@;YouTube;;a consumer media organization
+====================
+-----------
+OriginalSnt:__ agrees to be acquired by __ __ for $ 3.4 billion , or 0.69 <p1> Adobe </p1> share per <p2> Macromedia </p2> share .
+Snt:__ agrees to be acquired by __ __ for $ 3.4 billion , or 0.69 Adobe share per Macromedia share .
+====================
+-----------
+OriginalSnt:It doesn ' t take long to explain the rationale of the proposed merger between software makers <p1> Adobe Systems </p1> ( ADBE ) and <p2> Macromedia </p2> ( MACR ) .
+Snt:It doesn ' t take long to explain the rationale of the proposed merger between software makers Adobe Systems ( ADBE ) and Macromedia ( MACR ) .
+====================
+-----------
+OriginalSnt:<p1> Google </p1> Is Said to Set Sights on <p2> YouTube </p2> - New York Times
+Snt:Google Is Said to Set Sights on YouTube - New York Times .
+Google;@;Is Said to Set Sights on;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Novartis AG </p1> would then merge Hexal and <p2> Eon </p2> into its Sandoz unit .
+Snt:Novartis AG would then merge Hexal and Eon into its Sandoz unit .
+Novartis AG;@;would then merge Hexal and;@;Eon
+====================
+-----------
+OriginalSnt:<p1> Adobe Systems </p1> plans to acquire <p2> Macromedia </p2> for $ 3.4 billion in stock .
+Snt:Adobe Systems plans to acquire Macromedia for $ 3.4 billion in stock .
+Adobe Systems;@;plans to acquire;@;Macromedia
+====================
+-----------
+OriginalSnt:In the largest acquisition in its corporate history , <p1> Google </p1> has purchased <p2> YouTube </p2> for $ 1.65 billion worth of stocks .
+Snt:In the largest acquisition in its corporate history , Google has purchased YouTube for $ 1.65 billion worth of stocks .
+Google;@;has purchased;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Google </p1> shares rise on $ 1.65bn <p2> YouTube </p2> buy
+Snt:Google shares rise on $ 1.65bn YouTube buy .
+====================
+-----------
+OriginalSnt:For example , if I link to &amp;amp; nbsp ; this excellent performance by The Who , does <p1> Google </p1> ' s purchase of <p2> YouTube </p2> make &amp;amp; nbsp ; it more or less likely that this link will still exist a year from now ?
+Snt:For example , if I link to &amp;amp; nbsp ; this excellent performance by The Who , does Google ' s purchase of YouTube make &amp;amp; nbsp ; it more or less likely that this link will still exist a year from now ?
+====================
+-----------
+OriginalSnt:As the effectiveness of the Paramount Agreements and <p1> Viacom </p1> ' s acquisition of <p2> DreamWorks </p2> Studios were each conditioned upon the other ' s occurrence , and as we and __ Studios were effectively under common control at the time of __ Studios ' acquisition by __ , we have recorded the $ 75 million signing bonus from Paramount , which is approximately $ 49 million on an after tax basis , as an increase to Additional - Paid - in - Capital .
+Snt:As the effectiveness of the Paramount Agreements and Viacom ' s acquisition of DreamWorks Studios were each conditioned upon the other ' s occurrence , and as we and __ Studios were effectively under common control at the time of __ Studios ' acquisition by __ , we have recorded the $ 75 million signing bonus from Paramount , which is approximately $ 49 million on an after tax basis , as an increase to Additional - Paid - in - Capital .
+Viacom;@;' s acquisition of;@;DreamWorks
+====================
+-----------
+OriginalSnt:<p1> Adobe </p1> acquired <p2> Macromedia </p2> !
+Snt:Adobe acquired Macromedia !
+Adobe;@;acquired;@;Macromedia
+====================
+-----------
+OriginalSnt:The sale to <p1> Viacom </p1> marks the end of an independent <p2> DreamWorks </p2> , founded 11 years ago by Jeffrey Katzenberg , Spielberg and Geffen .
+Snt:The sale to Viacom marks the end of an independent DreamWorks , founded 11 years ago by Jeffrey Katzenberg , Spielberg and Geffen .
+====================
+-----------
+OriginalSnt:Then , again , some things never change , which is why the new <p1> Viacom </p1> quickly renewed and won its bid for <p2> DreamWorks </p2> , which analysts speculate could one day also encompass publicly traded __ Animation .
+Snt:Then , again , some things never change , which is why the new Viacom quickly renewed and won its bid for DreamWorks , which analysts speculate could one day also encompass publicly traded __ Animation .
+Viacom;@;quickly renewed and won its bid for;@;DreamWorks
+====================
+-----------
+OriginalSnt:" <p1> Google Inc. </p1> is snapping up <p2> YouTube Inc. </p2> for $ 1.65 billion in a deal that catapults the Internet search leader to a starring role in the online video revolution .
+Snt:" Google Inc. is snapping up YouTube Inc. for $ 1.65 billion in a deal that catapults the Internet search leader to a starring role in the online video revolution .
+Google Inc.;@;is snapping up;@;YouTube Inc.
+====================
+-----------
+OriginalSnt:I won t argue that it doesn t make sense for <p1> Google </p1> to purchase <p2> Youtube </p2> in many ways , but what about from a __ users perspective ?
+Snt:I won t argue that it doesn t make sense for Google to purchase Youtube in many ways , but what about from a __ users perspective ?
+Google;@;to purchase;@;Youtube
+====================
+-----------
+OriginalSnt:<p1> Google </p1> has bought <p2> YouTube </p2> for $ 1.65 - billion in stock .
+Snt:Google has bought YouTube for $ 1.65 - billion in stock .
+Google;@;has bought;@;YouTube
+====================
+-----------
+OriginalSnt:[ ] The Federal Trade Commission has approved <p1> Google </p1> s aquisition of <p2> YouTube </p2> .
+Snt:[ ] The Federal Trade Commission has approved Google s aquisition of YouTube .
+Google;@;s aquisition of;@;YouTube
+====================
+-----------
+OriginalSnt:Modojo Community General Tech <p1> Google </p1> purchases <p2> Youtube </p2>
+Snt:Modojo Community General Tech Google purchases Youtube .
+Google;@;purchases;@;Youtube
+====================
+-----------
+OriginalSnt:Staunton News : <p1> Google </p1> Buys <p2> YouTube.. </p2> .
+Snt:Staunton News : Google Buys YouTube.. .
+Google;@;Buys;@;YouTube..
+====================
+-----------
+OriginalSnt:Full Version : <p1> Google </p1> Buys <p2> Youtube </p2>
+Snt:Full Version : Google Buys Youtube .
+Google;@;Buys;@;Youtube
+====================
+-----------
+OriginalSnt:<p1> Viacom </p1> s Paramount Reaches Deal To Buy <p2> DreamWorks </p2> for $ 1.6 Billion
+Snt:Viacom s Paramount Reaches Deal To Buy DreamWorks for $ 1.6 Billion .
+Viacom;@;s Paramount Reaches Deal To Buy;@;DreamWorks
+====================
+-----------
+OriginalSnt:Chad and Steve announce the <p1> Google </p1> acquisition of <p2> YouTube </p2> .
+Snt:Chad and Steve announce the Google acquisition of YouTube .
+Google;@;acquisition of;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Novartis </p1> To Buy Hexal , <p2> Eon Labs </p2> For $ 8.3 Billion
+Snt:Novartis To Buy Hexal , Eon Labs For $ 8.3 Billion .
+Novartis;@;To Buy Hexal ,;@;Eon Labs
+====================
+-----------
+OriginalSnt:Topic : <p1> Google </p1> Buys <p2> YouTube!!! </p2> ( Read 39 times )
+Snt:Topic : Google Buys YouTube!!! ( Read 39 times ) .
+Google;@;Buys;@;YouTube!!!
+====================
+-----------
+OriginalSnt:The New York Times published on december 12 an article called " <p1> Adobe </p1> ' s Deal for <p2> Macromedia </p2> May Help It Fend Off Microsof " were they say that __ got the control of __ ' s crown jewel : Flash .
+Snt:The New York Times published on december 12 an article called " Adobe ' s Deal for Macromedia May Help It Fend Off Microsof " were they say that __ got the control of __ ' s crown jewel : Flash .
+Adobe;@;' s Deal for;@;Macromedia
+====================
+-----------
+OriginalSnt:The following analysis about <p1> Viacom </p1> ' s purchase of <p2> DreamWorks </p2> in Levine Breaking News seems to be cribbed from Newsweek ' s coverage :
+Snt:The following analysis about Viacom ' s purchase of DreamWorks in Levine Breaking News seems to be cribbed from Newsweek ' s coverage : .
+Viacom;@;' s purchase of;@;DreamWorks
+====================
+-----------
+OriginalSnt:Furthermore , <p1> Novartis </p1> plans to also purchase <p2> Eon Labs </p2> ' one third of active stock on the New York Stock Exchange ( NYSE ) for around $ 1 billion .
+Snt:Furthermore , Novartis plans to also purchase Eon Labs ' one third of active stock on the New York Stock Exchange ( NYSE ) for around $ 1 billion .
+Novartis;@;plans to also purchase;@;Eon Labs
+====================
+-----------
+OriginalSnt:Everyone Has One Blog Archive &amp;amp; uarr <p1> Google </p1> makes a smart move buying <p2> YouTube </p2>
+Snt:Everyone Has One Blog Archive &amp;amp; uarr Google makes a smart move buying YouTube .
+====================
+-----------
+OriginalSnt:( refer to my previous post about <p1> Google </p1> ' s acquisition of <p2> Youtube </p2> here. ) So , it basically allows users to upload and share their videos. < p
+Snt:( refer to my previous post about Google ' s acquisition of Youtube here. ) So , it basically allows users to upload and share their videos. < p .
+Google;@;' s acquisition of;@;Youtube
+====================
+-----------
+OriginalSnt:<p1> Google </p1> to buy <p2> Youtube </p2> for 1.6 billion
+Snt:Google to buy Youtube for 1.6 billion .
+Google;@;to buy;@;Youtube
+====================
+-----------
+OriginalSnt:The purchase by <p1> Novartis </p1> of the 67.7 percent stake in <p2> Eon Labs </p2> held by Santo Holding ( Deutschland ) GmbH , __ __ ' majority shareholder , will be completed shortly following the expiration of the tender offer .
+Snt:The purchase by Novartis of the 67.7 percent stake in Eon Labs held by Santo Holding ( Deutschland ) GmbH , __ __ ' majority shareholder , will be completed shortly following the expiration of the tender offer .
+====================
+-----------
+OriginalSnt:August 2005 <p1> Adobe </p1> and <p2> Macromedia </p2> Stockholders Approve Acquisition
+Snt:August 2005 Adobe and Macromedia Stockholders Approve Acquisition .
+====================
+-----------
+OriginalSnt:<p1> Google </p1> announced yesterday that they have bought <p2> Youtube </p2> for $ 165 billion dollars in stock .
+Snt:Google announced yesterday that they have bought Youtube for $ 165 billion dollars in stock .
+Google;@;announced yesterday that they have bought;@;Youtube
+====================
+-----------
+OriginalSnt:- ABC News - <p1> Adobe </p1> in $ 3.4 Bln Deal for <p2> Macromedia </p2>
+Snt:- ABC News - Adobe in $ 3.4 Bln Deal for Macromedia .
+Adobe;@;in $ 3.4 Bln Deal for;@;Macromedia
+====================
+-----------
+OriginalSnt:<p1> Novartis </p1> completes tender offer for <p2> Eon Labs , Inc. </p2> and purchase of majority stake
+Snt:Novartis completes tender offer for Eon Labs , Inc. and purchase of majority stake .
+Novartis;@;completes tender offer for;@;Eon Labs , Inc.
+====================
+-----------
+OriginalSnt:<p1> Adobe Systems </p1> and <p2> Macromedia Inc. </p2> are joining this year to make a new company , called __ __ .
+Snt:Adobe Systems and Macromedia Inc. are joining this year to make a new company , called __ __ .
+====================
+-----------
+OriginalSnt:14 December - LAWFUEL - The Law News Network - Shearman &amp;amp; Sterling is advising <p1> Viacom </p1> and Paramount Pictures on the acquisition of <p2> DreamWorks </p2> LLC .
+Snt:14 December - LAWFUEL - The Law News Network - Shearman &amp;amp; Sterling is advising Viacom and Paramount Pictures on the acquisition of DreamWorks LLC .
+====================
+-----------
+OriginalSnt:The entry is titled <p1> Adobe </p1> To Acquire <p2> Macromedia </p2> , and is filed under : Web , Tech &amp;amp; Design .
+Snt:The entry is titled Adobe To Acquire Macromedia , and is filed under : Web , Tech &amp;amp; Design .
+====================
+-----------
+OriginalSnt:Ola ' s thoughts : <p1> Google </p1> acquires <p2> YouTube </p2>
+Snt:Ola ' s thoughts : Google acquires YouTube .
+Google;@;acquires;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Google </p1> just ate <p2> YouTube </p2> .
+Snt:Google just ate YouTube .
+Google;@;just ate;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Google </p1> will acquire <p2> YouTube </p2> for a total of $ 1.65 BILLION in stock .
+Snt:Google will acquire YouTube for a total of $ 1.65 BILLION in stock .
+Google;@;will acquire;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Novartis </p1> receives FTC clearance for <p2> Eon Labs </p2> purchase - MarketWatch
+Snt:Novartis receives FTC clearance for Eon Labs purchase - MarketWatch .
+====================
+-----------
+OriginalSnt:<p1> Google </p1> Nabs <p2> YouTube </p2> For $ 1.65bn
+Snt:Google Nabs YouTube For $ 1.65bn .
+Google;@;Nabs;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Adobe </p1> to buy <p2> Macromedia </p2> for $ 3.4 billion wwwk.macromedia.com
+Snt:Adobe to buy Macromedia for $ 3.4 billion wwwk.macromedia.com .
+Adobe;@;to buy;@;Macromedia
+====================
+-----------
+OriginalSnt:<p1> Novartis </p1> to acquire Hexal AG and <p2> Eon Labs </p2>
+Snt:Novartis to acquire Hexal AG and Eon Labs .
+Novartis;@;to acquire Hexal AG and;;to acquire;@;Eon Labs
+Novartis;@;to acquire;@;Hexal AG
+====================
+-----------
+OriginalSnt:After the conversion of certain commercial agreements from debt to advances , <p1> Viacom </p1> expects a net purchase price for <p2> DreamWorks </p2> of about $ 600 million .
+Snt:After the conversion of certain commercial agreements from debt to advances , Viacom expects a net purchase price for DreamWorks of about $ 600 million .
+Viacom;@;expects a net purchase price for;@;DreamWorks
+====================
+-----------
+OriginalSnt:<p1> Google </p1> is reportedly in talks to acquire <p2> YouTube Inc. </p2> for $ 1.6 billion , The Wall Street Journal s online edition reported this afternoon .
+Snt:Google is reportedly in talks to acquire YouTube Inc. for $ 1.6 billion , The Wall Street Journal s online edition reported this afternoon .
+Google;@;is reportedly in talks to acquire;@;YouTube Inc.
+====================
+-----------
+OriginalSnt:<p1> Google </p1> Completes <p2> YouTube </p2> Deal , Price Is $ 1.65 Billion
+Snt:Google Completes YouTube Deal , Price Is $ 1.65 Billion .
+====================
+-----------
+OriginalSnt:Why did <p1> Novartis </p1> acquire <p2> Eon Labs </p2> and integrate it with Sandoz ?
+Snt:Why did Novartis acquire Eon Labs and integrate it with Sandoz ?
+Novartis;@;acquire;@;Eon Labs
+====================
+-----------
+OriginalSnt:However , by the acquisition of the 67.5 % shareholding , <p1> Novartis </p1> will also acquire sole control over <p2> Eon Labs </p2> .
+Snt:However , by the acquisition of the 67.5 % shareholding , Novartis will also acquire sole control over Eon Labs .
+Novartis;@;will also acquire sole control over;@;Eon Labs
+====================
+-----------
+OriginalSnt:<p1> Google </p1> buys <p2> YouTube </p2> Flash application with Users for 1.65 Billion .
+Snt:Google buys YouTube Flash application with Users for 1.65 Billion .
+Google;@;buys;@;YouTube
+====================
+-----------
+OriginalSnt:Speaking at the recent ad : tech conference , Ms Reider said that <p1> Google </p1> had bought <p2> YouTube </p2> at just the right time , Ad Age reports .
+Snt:Speaking at the recent ad : tech conference , Ms Reider said that Google had bought YouTube at just the right time , Ad Age reports .
+Google;@;had bought;@;YouTube
+====================
+-----------
+OriginalSnt:In September , the merger received nearly unanimous approval from both <p1> Adobe </p1> ' s and <p2> Macromedia </p2> ' s shareholders .
+Snt:In September , the merger received nearly unanimous approval from both Adobe ' s and Macromedia ' s shareholders .
+====================
+-----------
+OriginalSnt:When <p1> Google </p1> announced the buying of <p2> YouTube </p2> for 1.65 billions , some people began searching the keyword utube and ending on www.utube.com
+Snt:When Google announced the buying of YouTube for 1.65 billions , some people began searching the keyword utube and ending on www.utube.com .
+Google;@;announced the buying of;@;YouTube
+====================
+-----------
+OriginalSnt:UPDATE : <p1> Google </p1> Announces Acquisition of <p2> YouTube </p2> .
+Snt:UPDATE : Google Announces Acquisition of YouTube .
+Google;@;Announces Acquisition of;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Viacom </p1> Buys <p2> DreamWorks </p2>
+Snt:Viacom Buys DreamWorks .
+Viacom;@;Buys;@;DreamWorks
+====================
+-----------
+OriginalSnt:Really interesting post about the shady dealings behind the <p1> Google </p1> + <p2> YouTube </p2> deal .
+Snt:Really interesting post about the shady dealings behind the Google + YouTube deal .
+====================
+-----------
+OriginalSnt:BREAKING : <p1> Google </p1> To Buy <p2> YouTube </p2> For $ 1.65 Billion
+Snt:BREAKING : Google To Buy YouTube For $ 1.65 Billion .
+Google;@;To Buy;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Viacom </p1> Gets <p2> Dreamworks </p2> __ has bought __ __ Studio .
+Snt:Viacom Gets Dreamworks __ has bought __ __ Studio .
+Viacom;@;Gets;@;Dreamworks
+====================
+-----------
+OriginalSnt:Around that same time , <p1> Viacom </p1> completed its acquisition of <p2> DreamWorks SKG </p2> , so CBS Paramount Television will now distribute __ ' library of films ( such as Shrek and Gladiator ) and TV series ( such as Spin City , which Paramount TV had already syndicated since 2000 , and Father of the Pride ) .
+Snt:Around that same time , Viacom completed its acquisition of DreamWorks SKG , so CBS Paramount Television will now distribute __ ' library of films ( such as Shrek and Gladiator ) and TV series ( such as Spin City , which Paramount TV had already syndicated since 2000 , and Father of the Pride ) .
+Viacom;@;completed its acquisition of;@;DreamWorks SKG
+====================
+-----------
+OriginalSnt:Sumner Redstone , Chairman of the Board and CEO of <p1> Viacom </p1> , said , " The acquisition of <p2> DreamWorks </p2> is an enormous step forward in our ongoing work to unlock the full potential of __ ' s brands and businesses. "
+Snt:Sumner Redstone , Chairman of the Board and CEO of Viacom , said , " The acquisition of DreamWorks is an enormous step forward in our ongoing work to unlock the full potential of __ ' s brands and businesses. "
+Viacom;@;, said , " The acquisition of;@;DreamWorks
+====================
+-----------
+OriginalSnt:Paramount Pictures , a subsidiary of <p1> Viacom </p1> , is acquiring <p2> DreamWorks </p2> in a $ 1.6 billion transaction , which includes $ 774 million in cash ; the remainder of the purchase price is the assumption of debt and certain other obligations .
+Snt:Paramount Pictures , a subsidiary of Viacom , is acquiring DreamWorks in a $ 1.6 billion transaction , which includes $ 774 million in cash ; the remainder of the purchase price is the assumption of debt and certain other obligations .
+Viacom;@;, is acquiring;@;DreamWorks
+====================
+-----------
+OriginalSnt:<p1> Novartis </p1> will buy <p2> Eon Labs </p2> and Hexal
+Snt:Novartis will buy Eon Labs and Hexal .
+Novartis;@;will buy;@;Eon Labs
+====================
+-----------
+OriginalSnt:Will the <p1> Google </p1> purchase of <p2> YouTube </p2> make __ partner MySpace upset ?
+Snt:Will the Google purchase of YouTube make __ partner MySpace upset ?
+Google;@;purchase of;@;YouTube
+====================
+-----------
+OriginalSnt:In a huge deal just announced , <p1> Adobe </p1> has agreed to acquire <p2> Macromedia </p2> in an all - stock transaction valued at $ 3.4 billion .
+Snt:In a huge deal just announced , Adobe has agreed to acquire Macromedia in an all - stock transaction valued at $ 3.4 billion .
+Adobe;@;has agreed to acquire;@;Macromedia
+====================
+-----------
+OriginalSnt:<p1> Viacom </p1> ' buying <p2> Dreamworks </p2> '
+Snt:Viacom ' buying Dreamworks ' .
+Viacom;@;' buying;@;Dreamworks
+====================
+-----------
+OriginalSnt:Publish : Corel CEO Sees Opportunities in <p1> Adobe </p1> - <p2> Macromedia </p2> Merger
+Snt:Publish : Corel CEO Sees Opportunities in Adobe - Macromedia Merger .
+====================
+-----------
+OriginalSnt:<p1> Google </p1> bought <p2> Youtube! </p2> ?
+Snt:Google bought Youtube! ?
+Google;@;bought;@;Youtube!;;Youtube
+====================
+-----------
+OriginalSnt:LISTEN <p1> Google </p1> Weds <p2> YouTube </p2> - KYW ' s Ian Bush and KYW Tech Reporter Bob Bicknell discuss the $ 1.65 billion stock deal that makes __ part of __ .
+Snt:LISTEN Google Weds YouTube - KYW ' s Ian Bush and KYW Tech Reporter Bob Bicknell discuss the $ 1.65 billion stock deal that makes __ part of __ .
+Google;@;Weds;@;YouTube
+====================
+-----------
+OriginalSnt:Shearman &amp;amp; Sterling Advises <p1> Viacom </p1> on <p2> DreamWorks </p2> Acquisition
+Snt:Shearman &amp;amp; Sterling Advises Viacom on DreamWorks Acquisition .
+====================
+-----------
+OriginalSnt:[ ... ] Commentators around the world are still trying to make sense of <p1> Google </p1> s $ 1.7 billion acquisition of <p2> YouTube </p2> : is it the end of a free - wheeling era or the beginning of a Golden Information Age ?
+Snt:[ ... ] Commentators around the world are still trying to make sense of Google s $ 1.7 billion acquisition of YouTube : is it the end of a free - wheeling era or the beginning of a Golden Information Age ?
+Google;@;s $ 1.7 billion acquisition of;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Google </p1> finalises <p2> YouTube </p2> buy with share issue
+Snt:Google finalises YouTube buy with share issue .
+====================
+-----------
+OriginalSnt:When <p1> Viacom </p1> announced its acquisition of <p2> DreamWorks SKG </p2> , __ stated it
+Snt:When Viacom announced its acquisition of DreamWorks SKG , __ stated it .
+Viacom;@;announced its acquisition of;@;DreamWorks SKG
+====================
+-----------
+OriginalSnt:<p1> Google Inc. </p1> snapped up <p2> YouTube Inc. </p2> for US $ 1.65 billion yesterday in a deal that catapults the Internet search leader to a leading role in the online video revolution .
+Snt:Google Inc. snapped up YouTube Inc. for US $ 1.65 billion yesterday in a deal that catapults the Internet search leader to a leading role in the online video revolution .
+Google Inc.;@;snapped up;@;YouTube Inc.
+====================
+-----------
+OriginalSnt:<p1> Adobe </p1> to Acquire <p2> Macromedia </p2> - Industry News
+Snt:Adobe to Acquire Macromedia - Industry News .
+Adobe;@;to Acquire;@;Macromedia
+====================
+-----------
+OriginalSnt:Last week the internet Giant <p1> Google </p1> bought <p2> Youtube </p2> for 1.65 billion Dollars .
+Snt:Last week the internet Giant Google bought Youtube for 1.65 billion Dollars .
+Google;@;bought;@;Youtube
+====================
+-----------
+OriginalSnt:<p1> Google </p1> ( GOOG : NASDAQ ) Snatches Up <p2> YouTube </p2>
+Snt:Google ( GOOG : NASDAQ ) Snatches Up YouTube .
+Google;@;( GOOG : NASDAQ ) Snatches Up;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Google </p1> is buying video - sharing website <p2> YouTube </p2> for $ 1.65bn ( 883m ) in shares after a weekend of speculation that a deal was in the offing .
+Snt:Google is buying video - sharing website YouTube for $ 1.65bn ( 883m ) in shares after a weekend of speculation that a deal was in the offing .
+Google;@;is buying video - sharing website;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Adobe </p1> has just bought <p2> Macromedia </p2> for $ 3.4 Billion !
+Snt:Adobe has just bought Macromedia for $ 3.4 Billion !
+Adobe;@;has just bought;;has bought;@;Macromedia
+====================
+-----------
+OriginalSnt:So , it s finally official that <p1> Google </p1> is acquiring <p2> YouTube </p2> .
+Snt:So , it s finally official that Google is acquiring YouTube .
+Google;@;is acquiring;@;YouTube
+====================
+-----------
+OriginalSnt:Recently , <p1> Adobe Systems Incorporated </p1> acquired <p2> Macromedia , Inc </p2> .
+Snt:Recently , Adobe Systems Incorporated acquired Macromedia , Inc .
+Adobe Systems Incorporated;@;acquired;@;Macromedia , Inc
+====================
+-----------
+OriginalSnt:[ ] BusinessWeek has an article where Microsoft s CEO Steve Ballmer speaks out about , among other things , the recent <p1> Google </p1> - <p2> YouTube </p2> acquisition .
+Snt:[ ] BusinessWeek has an article where Microsoft s CEO Steve Ballmer speaks out about , among other things , the recent Google - YouTube acquisition .
+====================
+-----------
+OriginalSnt:Earlier this month , <p1> Viacom </p1> ( Research ) agreed to buy <p2> DreamWorks </p2> Animation ' s privately held sibling __ __ and as part of that deal , the publicly traded studio will get $ 75 million in cash to pay down debt .
+Snt:Earlier this month , Viacom ( Research ) agreed to buy DreamWorks Animation ' s privately held sibling __ __ and as part of that deal , the publicly traded studio will get $ 75 million in cash to pay down debt .
+Viacom;@;( Research ) agreed to buy;@;DreamWorks
+====================
+-----------
+OriginalSnt:EMediaLive.com : <p1> Adobe </p1> s Proposed Acquisition of <p2> Macromedia </p2> Clears U.S. Department of Justice Review
+Snt:EMediaLive.com : Adobe s Proposed Acquisition of Macromedia Clears U.S. Department of Justice Review .
+Adobe;@;s Proposed Acquisition of;@;Macromedia
+====================
+-----------
+OriginalSnt:With the conclusion of <p1> Adobe Systems Incorporated </p1> s acquisition of <p2> Macromedia , Inc. </p2> , many __ software applications such as Dreamweaver , Flash and Studio are available at discounted rates through the University s existing AJCU __ software agreement .
+Snt:With the conclusion of Adobe Systems Incorporated s acquisition of Macromedia , Inc. , many __ software applications such as Dreamweaver , Flash and Studio are available at discounted rates through the University s existing AJCU __ software agreement .
+Adobe Systems Incorporated;@;s acquisition of;@;Macromedia , Inc.
+====================
+-----------
+OriginalSnt:The announcement is expected this afternoon or evening that <p1> Google </p1> s bought <p2> Youtube </p2> for 1.6 billion .
+Snt:The announcement is expected this afternoon or evening that Google s bought Youtube for 1.6 billion .
+Google;@;s bought;@;Youtube
+====================
+-----------
+OriginalSnt:Yesterday <p1> Adobe Systems </p1> announced it acquired software maker <p2> Macromedia Inc. </p2> in a stock deal worth a reported $ 3.4 billion .
+Snt:Yesterday Adobe Systems announced it acquired software maker Macromedia Inc. in a stock deal worth a reported $ 3.4 billion .
+Adobe Systems;@;announced it acquired software maker;@;Macromedia Inc.
+====================
+-----------
+OriginalSnt:[ ... ] Gizmodo did a pretty good job of coming up with a name of the merger between <p1> Google </p1> Video and <p2> Youtube </p2> .
+Snt:[ ... ] Gizmodo did a pretty good job of coming up with a name of the merger between Google Video and Youtube .
+====================
+-----------
+OriginalSnt:The Commission therefore has concluded that , unremedied , the <p1> Novartis </p1> - <p2> Eon </p2> deal would be likely to result in higher prices and other anticompetitive effects in each of these generic markets .
+Snt:The Commission therefore has concluded that , unremedied , the Novartis - Eon deal would be likely to result in higher prices and other anticompetitive effects in each of these generic markets .
+====================
+-----------
+OriginalSnt:Flash move by <p1> Adobe </p1> to buy up <p2> Macromedia </p2> .
+Snt:Flash move by Adobe to buy up Macromedia .
+Adobe;@;to buy up;@;Macromedia
+====================
+-----------
+OriginalSnt:<p1> Google </p1> makes video play with <p2> YouTube </p2> buy ( October 9 , 2006 )
+Snt:Google makes video play with YouTube buy ( October 9 , 2006 ) .
+Google;@;makes video play with;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Adobe Systems </p1> ' proposed buyout of <p2> Macromedia </p2> is expected to close Saturday , December 3 , both companies said Thursday night .
+Snt:Adobe Systems ' proposed buyout of Macromedia is expected to close Saturday , December 3 , both companies said Thursday night .
+Adobe Systems;@;' proposed buyout of;@;Macromedia
+====================
+-----------
+OriginalSnt:NEWS : <p1> Adobe </p1> ' s Proposed Acquisition of <p2> Macromedia </p2> Clears U.S. Department of Justice
+Snt:NEWS : Adobe ' s Proposed Acquisition of Macromedia Clears U.S. Department of Justice .
+Adobe;@;' s Proposed Acquisition of;@;Macromedia
+====================
+-----------
+OriginalSnt:After roomers spilled around the web last week about <p1> Google </p1> offering $ 1.65 Billion to buy <p2> YouTube </p2> , this offer had been confirmed and __ has accepted .
+Snt:After roomers spilled around the web last week about Google offering $ 1.65 Billion to buy YouTube , this offer had been confirmed and __ has accepted .
+Google;@;offering $ 1.65 Billion to buy;@;YouTube
+====================
+-----------
+OriginalSnt:<p1> Novartis </p1> completes acquisition of 98 % <p2> Eon Labs </p2>
+Snt:Novartis completes acquisition of 98 % Eon Labs .
+Novartis;@;completes acquisition of 98 %;;completes;@;Eon Labs;;acquisition of 98 % Eon Labs
+====================
+-----------
+OriginalSnt:something happened and it didnt go through , so now they are trying again with <p1> Google </p1> now owning <p2> Youtube </p2> .
+Snt:something happened and it didnt go through , so now they are trying again with Google now owning Youtube .
+Google;@;now owning;@;Youtube
+====================
+-----------
+OriginalSnt:Under the deal , announced in December , the <p1> Viacom Inc </p1> unit Paramount would acquire <p2> DreamWorks </p2> studios for the sum that would include cash and the purchase of __ ' debt .
+Snt:Under the deal , announced in December , the Viacom Inc unit Paramount would acquire DreamWorks studios for the sum that would include cash and the purchase of __ ' debt .
+Viacom Inc;;the Viacom Inc unit Paramount;@;unit Paramount would acquire;;would acquire;@;DreamWorks;;DreamWorks studios
+====================
+-----------
+OriginalSnt:NOTE : <p1> Viacom </p1> acquired <p2> Dreamworks </p2> in early 2006 , selling off __ ' past films to finance the purchase .
+Snt:NOTE : Viacom acquired Dreamworks in early 2006 , selling off __ ' past films to finance the purchase .
+Viacom;@;acquired;@;Dreamworks
+====================
+-----------
+OriginalSnt:<p1> Novartis </p1> to Buy Hexal and <p2> Eon Labs </p2>
+Snt:Novartis to Buy Hexal and Eon Labs .
+Novartis;@;to Buy Hexal and;@;Eon Labs
+====================
+-----------
+OriginalSnt:The Redmond company unveiled its new collection of professional graphic design and animation tools Wednesday , moving into the longtime domain of __ __ and the company <p1> Adobe </p1> is acquiring , <p2> Macromedia </p2> .
+Snt:The Redmond company unveiled its new collection of professional graphic design and animation tools Wednesday , moving into the longtime domain of __ __ and the company Adobe is acquiring , Macromedia .
+Adobe;@;is acquiring ,;@;Macromedia
+====================
+-----------
+OriginalSnt:<p1> Google </p1> forced to buy <p2> YouTube </p2> .
+Snt:Google forced to buy YouTube .
+Google;@;forced to buy;@;YouTube
+====================
+-----------
+OriginalSnt:The worst possible outcome for them ( as Internet companies ) would be <p1> Google </p1> acquiring <p2> YouTube </p2> .
+Snt:The worst possible outcome for them ( as Internet companies ) would be Google acquiring YouTube .
+Google;@;acquiring;@;YouTube
+====================
+-----------
+OriginalSnt:Skittish <p1> Adobe </p1> buys <p2> Macromedia </p2> - MarketWatch
+Snt:Skittish Adobe buys Macromedia - MarketWatch .
+Adobe;;Skittish Adobe;@;buys;@;Macromedia;;Macromedia-MarketWatch
+====================
+-----------
+OriginalSnt:__ shareholders will receive 1.38 shares of <p1> Adobe </p1> common stock for each share of <p2> Macromedia </p2> common stock they own at the closing of the acquisition , the companies said .
+Snt:__ shareholders will receive 1.38 shares of Adobe common stock for each share of Macromedia common stock they own at the closing of the acquisition , the companies said .
+====================
+-----------
+OriginalSnt:GOOG - <p1> Google , Inc. </p1> Buys <p2> YouTube </p2> !
+Snt:GOOG - Google , Inc. Buys YouTube !
+Google , Inc.;@;Buys;@;YouTube
+====================
+-----------
+OriginalSnt:Under the deal , announced in December , the <p1> Viacom </p1> Incorporated unit Paramount would acquire <p2> DreamWorks </p2> studios for the sum that would include cash and the purchase of __ ' debt .
+Snt:Under the deal , announced in December , the Viacom Incorporated unit Paramount would acquire DreamWorks studios for the sum that would include cash and the purchase of __ ' debt .
+Viacom;;the Viacom Incorporated unit Paramount;@;Incorporated unit Paramount would acquire;;would acquire;@;DreamWorks;;DreamWorks studios
+====================
+-----------
+OriginalSnt:In 1994 he established the <p1> Andre Agassi </p1> Foundation to help at - risk youth in his hometown , <p2> Las Vegas </p2> , Nevada .
+Snt:In 1994 he established the Andre Agassi Foundation to help at - risk youth in his hometown , Las Vegas , Nevada .
+Andre Agassi;@;Foundation to help at - risk youth in his hometown ,;@;Las Vegas
+====================
+-----------
+OriginalSnt:Birthday - Composer <p1> George Gershwin </p1> ( 1898 - 1937 ) was born in Brooklyn , <p2> New York </p2> .
+Snt:Birthday - Composer George Gershwin ( 1898 - 1937 ) was born in Brooklyn , New York .
+George Gershwin;;Birthday-Composer George Gershwin;@;( 1898 - 1937 ) was born in Brooklyn ,;;was born in;@;Brooklyn;;New York
+====================
+-----------
+OriginalSnt:__ , <p1> Andre - Agassi </p1> , Andre tennis Birthplace : <p2> Las Vegas </p2> , Nev .
+Snt:__ , Andre - Agassi , Andre tennis Birthplace : Las Vegas , Nev .
+Andre - Agassi;@;, Andre tennis Birthplace :;@;Las Vegas
+====================
+-----------
+OriginalSnt:<p1> Franz Kafka </p1> was born at <p2> Prague </p2> , Bohemia on this day in 1883 .
+Snt:Franz Kafka was born at Prague , Bohemia on this day in 1883 .
+Franz Kafka;@;was born at;@;Prague;;Bohemia
+====================
+-----------
+OriginalSnt:He started and helps fund the <p1> Andre Agassi </p1> College Preparatory Academy for underprivileged kids in his home town of <p2> Las Vegas </p2> , Nevada .
+Snt:He started and helps fund the Andre Agassi College Preparatory Academy for underprivileged kids in his home town of Las Vegas , Nevada .
+Andre Agassi;@;College Preparatory Academy for underprivileged kids in his home town of;@;Las Vegas
+====================
+-----------
+OriginalSnt:Born in 1883 , <p1> Franz Kafka </p1> came from a German - speaking Jewish family in <p2> Prague </p2> , Czechoslovakia .
+Snt:Born in 1883 , Franz Kafka came from a German - speaking Jewish family in Prague , Czechoslovakia .
+Franz Kafka;@;came from a German - speaking Jewish family in;@;Prague
+====================
+-----------
+OriginalSnt:Andre Kirk <p1> Agassi </p1> was born on April 29 1970 in <p2> Las Vegas </p2> , Nevada and turned pro in 1986 .
+Snt:Andre Kirk Agassi was born on April 29 1970 in Las Vegas , Nevada and turned pro in 1986 .
+Agassi;@;was born on April 29 1970 in;@;Las Vegas
+====================
+-----------
+OriginalSnt:The partnership includes the creation of new 24 Hour Fitness __ Super - Sport Clubs the first of which debuted in <p1> Agassi </p1> ' s <p2> Las Vegas </p2> hometown
+Snt:The partnership includes the creation of new 24 Hour Fitness __ Super - Sport Clubs the first of which debuted in Agassi ' s Las Vegas hometown .
+====================
+-----------
+OriginalSnt:<p1> Franz Kafka </p1> was born in 1883 in <p2> Prague </p2> , now in the Czech Republic but then part of Austria .
+Snt:Franz Kafka was born in 1883 in Prague , now in the Czech Republic but then part of Austria .
+Franz Kafka;@;was born in 1883 in;@;Prague
+====================
+-----------
+OriginalSnt:Charles Spencer <p1> Chaplin </p1> was born on 16 April 1889 in <p2> London </p2> and died on 25 December 1977 in Corsier sur Vevey in Switzerland .
+Snt:Charles Spencer Chaplin was born on 16 April 1889 in London and died on 25 December 1977 in Corsier sur Vevey in Switzerland .
+Chaplin;@;was born on 16 April 1889 in;@;London
+====================
+-----------
+OriginalSnt:Andre Kirk <p1> Agassi </p1> was born on April 29th 1970 in <p2> Las Vegas </p2> , Nevada .
+Snt:Andre Kirk Agassi was born on April 29th 1970 in Las Vegas , Nevada .
+Agassi;@;was born on April 29th 1970 in;@;Las Vegas
+====================
+-----------
+OriginalSnt:<p1> Franz Kafka </p1> ( 1883 - 1924 ) was born in <p2> Prague </p2> , Czechoslovakia to a Jewish
+Snt:Franz Kafka ( 1883 - 1924 ) was born in Prague , Czechoslovakia to a Jewish .
+Franz Kafka;@;( 1883 - 1924 ) was born in;;was born in;@;Prague;;Czechoslovakia
+====================
+-----------
+OriginalSnt:No one expressed this tragic intuition more powerfully than <p1> Franz Kafka </p1> , a German Jewish writer born in <p2> Prague </p2> in 1883 when the city was still part of the Austrian Empire .
+Snt:No one expressed this tragic intuition more powerfully than Franz Kafka , a German Jewish writer born in Prague in 1883 when the city was still part of the Austrian Empire .
+Franz Kafka;@;, a German Jewish writer born in;@;Prague
+====================
+-----------
+OriginalSnt:<p1> Andre Agassi </p1> ( 1970 - ) Champion tennis player ; born in <p2> Las Vegas </p2> .
+Snt:Andre Agassi ( 1970 - ) Champion tennis player ; born in Las Vegas .
+Andre Agassi;@;( 1970 - ) Champion tennis player ; born in;@;Las Vegas
+====================
+-----------
+OriginalSnt:<p1> Agassi </p1> , an ethnic Armenian , was born and raised in <p2> Las Vegas </p2> , and lives there when not on tour .
+Snt:Agassi , an ethnic Armenian , was born and raised in Las Vegas , and lives there when not on tour .
+Agassi;@;, an ethnic Armenian , was born and raised in;@;Las Vegas
+====================
+-----------
+OriginalSnt:It ' s the birthday of the novelist and short - story writer <p1> Franz Kafka </p1> , ( books by this author ) , born in <p2> Prague </p2> ( 1883 ) .
+Snt:It ' s the birthday of the novelist and short - story writer Franz Kafka , ( books by this author ) , born in Prague ( 1883 ) .
+Franz Kafka;@;, ( books by this author ) , born in;@;Prague
+====================
+-----------
+OriginalSnt:<p1> Andre Agassi </p1> was born on the 29th of April 1970 in <p2> Las Vegas </p2> , Nevada .
+Snt:Andre Agassi was born on the 29th of April 1970 in Las Vegas , Nevada .
+Andre Agassi;@;was born on the 29th of April 1970 in;@;Las Vegas
+====================
+-----------
+OriginalSnt:<p1> Andre Agassi </p1> was born April 29 , 1970 , <p2> Las Vegas </p2> , Nevada .
+Snt:Andre Agassi was born April 29 , 1970 , Las Vegas , Nevada .
+Andre Agassi;@;was born April 29 , 1970 ,;@;Las Vegas
+====================
+-----------
+OriginalSnt:__ __ , actually Charles Spencer <p1> Chaplin </p1> , was born in <p2> London </p2> , England , on April 16th 1889 .
+Snt:__ __ , actually Charles Spencer Chaplin , was born in London , England , on April 16th 1889 .
+Chaplin;@;, was born in;@;London
+====================
+-----------
+OriginalSnt:Born Charles Spencer <p1> Chaplin </p1> , in <p2> London </p2> , in 1989 , he came to America and became the most successful silent film era comedian .
+Snt:Born Charles Spencer Chaplin , in London , in 1989 , he came to America and became the most successful silent film era comedian .
+====================
+-----------
+OriginalSnt:Sir Charles Spencer <p1> Chaplin </p1> Jr was born on April 16 , 1889 in <p2> London </p2> and died on Christmas Day , December 25 , 1977 in Switzerland in his sleep at age 88 .
+Snt:Sir Charles Spencer Chaplin Jr was born on April 16 , 1889 in London and died on Christmas Day , December 25 , 1977 in Switzerland in his sleep at age 88 .
+Chaplin;@;Jr was born on April 16 , 1889 in;@;London
+====================
+-----------
+OriginalSnt:- <p1> Franz Kafka </p1> - ( 1883 - 1924 ) - born in <p2> Prague </p2> , then part of the Austro - Hungarian empire .
+Snt:- Franz Kafka - ( 1883 - 1924 ) - born in Prague , then part of the Austro - Hungarian empire .
+Franz Kafka;@;- ( 1883 - 1924 ) - born in;@;Prague
+====================
+-----------
+OriginalSnt:<p1> Andre Agassi </p1> did a similar thing in his hometown of <p2> Las Vegas </p2> a few years ago .
+Snt:Andre Agassi did a similar thing in his hometown of Las Vegas a few years ago .
+Andre Agassi;@;did a similar thing in his hometown of;@;Las Vegas
+====================
+-----------
+OriginalSnt:The last stand for tennis great <p1> Andre Agassi </p1> gets underway on opening night when the36 - year - old <p2> Las Vegas </p2> native takes on Andrei Pavel of Romania on Center Court .
+Snt:The last stand for tennis great Andre Agassi gets underway on opening night when the36 - year - old Las Vegas native takes on Andrei Pavel of Romania on Center Court .
+====================
+-----------
+OriginalSnt:<p1> Charlie Chaplin </p1> was born on April 15 , 1889 , in <p2> London </p2> , England to Charles __ , Sr. , and Hannah Hill ( Lynn , Kenneth , pg.376 ) .
+Snt:Charlie Chaplin was born on April 15 , 1889 , in London , England to Charles __ , Sr. , and Hannah Hill ( Lynn , Kenneth , pg.376 ) .
+Charlie Chaplin;@;was born on April 15 , 1889 , in;@;London
+====================
+-----------
+OriginalSnt:For years , <p1> Agassi </p1> has raised money for underprivileged youth in his hometown of <p2> Las Vegas </p2> , and founded a school built around his strong belief system .
+Snt:For years , Agassi has raised money for underprivileged youth in his hometown of Las Vegas , and founded a school built around his strong belief system .
+Agassi;@;has raised money for underprivileged youth in his hometown of;@;Las Vegas
+====================
+-----------
+OriginalSnt:Andre Kirk <p1> Agassi </p1> ( born April 29 1970 , in <p2> Las Vegas </p2> , Nevada ) is a former World No. 1 professional tennis player from the United States .
+Snt:Andre Kirk Agassi ( born April 29 1970 , in Las Vegas , Nevada ) is a former World No. 1 professional tennis player from the United States .
+Agassi;@;( born April 29 1970 , in;@;Las Vegas
+====================
+-----------
+OriginalSnt:<p1> Franz Kafka </p1> was born on July 3 , 1883 , in <p2> Prague </p2> .
+Snt:Franz Kafka was born on July 3 , 1883 , in Prague .
+Franz Kafka;@;was born on July 3 , 1883 , in;@;Prague
+====================
+-----------
+OriginalSnt:It ' s the birthday of <p1> George Gershwin </p1> , born Jacob Gershowitz in Brooklyn , <p2> New York </p2> ( 1898 ) .
+Snt:It ' s the birthday of George Gershwin , born Jacob Gershowitz in Brooklyn , New York ( 1898 ) .
+George Gershwin;@;, born Jacob Gershowitz in Brooklyn ,;@;New York
+====================
+-----------
+OriginalSnt:Andre Kirk <p1> Agassi </p1> , ( born April 29 1970 , in <p2> Las Vegas </p2> , Nevada ) is a professional male former World No. 1 tennis player from the United States .
+Snt:Andre Kirk Agassi , ( born April 29 1970 , in Las Vegas , Nevada ) is a professional male former World No. 1 tennis player from the United States .
+Agassi;@;, ( born April 29 1970 , in;@;Las Vegas
+====================
+-----------
+OriginalSnt:__ __ ( Charles Spencer <p1> Chaplin </p1> ) born April 16 , 1889 in Lambeth , <p2> London </p2> , England , UK. Dies : December 25 , 1977 .
+Snt:__ __ ( Charles Spencer Chaplin ) born April 16 , 1889 in Lambeth , London , England , UK. Dies : December 25 , 1977 .
+Chaplin;@;) born April 16 , 1889 in Lambeth ,;@;London
+====================
+-----------
+OriginalSnt:I t ' s the birthday of the filmmaker and actor <p1> Charlie Chaplin </p1> , ( books by this author ) born in <p2> London </p2> ( 1889 ) .
+Snt:I t ' s the birthday of the filmmaker and actor Charlie Chaplin , ( books by this author ) born in London ( 1889 ) .
+Charlie Chaplin;@;, ( books by this author ) born in;@;London
+====================
+-----------
+OriginalSnt:The <p1> Andre Agassi </p1> Charitable Foundation in his home city of <p2> Las Vegas </p2> , Nevada , has raised millions of dollars through its " Grand Slam for Children " benefit concerts .
+Snt:The Andre Agassi Charitable Foundation in his home city of Las Vegas , Nevada , has raised millions of dollars through its " Grand Slam for Children " benefit concerts .
+Andre Agassi;@;Charitable Foundation in his home city of;@;Las Vegas
+====================
+-----------
+OriginalSnt:( Almanac - People ) <p1> Kafka </p1> , Franz author Birthplace : <p2> Prague </p2> Born : 1883 Died : 1924 Information Please Database , .. .
+Snt:( Almanac - People ) Kafka , Franz author Birthplace : Prague Born : 1883 Died : 1924 Information Please Database , .. .
+Kafka;@;, Franz author Birthplace :;@;Prague
+====================
+-----------
+OriginalSnt:<p1> Charlie Chaplin </p1> , who died in 1977 , was born in <p2> London </p2> to music - hall parents .
+Snt:Charlie Chaplin , who died in 1977 , was born in London to music - hall parents .
+Charlie Chaplin;@;, who died in 1977 , was born in;@;London
+====================
+-----------
+OriginalSnt:( Left ) <p1> Andre Agassi </p1> of <p2> Las Vegas </p2> , Nevada , reacts after his win against Gullaume Guillaume Raoux of France , at the U.S. Open Tennis Tournament in New York on Thursday .
+Snt:( Left ) Andre Agassi of Las Vegas , Nevada , reacts after his win against Gullaume Guillaume Raoux of France , at the U.S. Open Tennis Tournament in New York on Thursday .
+Andre Agassi;@;of;@;Las Vegas
+====================
+-----------
+OriginalSnt:<p1> Andre Agassi </p1> , professional tennis player , was born in <p2> Las Vegas </p2> in 1970 .
+Snt:Andre Agassi , professional tennis player , was born in Las Vegas in 1970 .
+Andre Agassi;@;, professional tennis player , was born in;@;Las Vegas
+====================
+-----------
+OriginalSnt:I was born Charles Spencer <p1> Chaplin </p1> in Walworth , <p2> London </p2> on April 16 , 1889 .
+Snt:I was born Charles Spencer Chaplin in Walworth , London on April 16 , 1889 .
+====================
+-----------
+OriginalSnt:Professional tennis player , Andre Kirk <p1> Agassi </p1> ( b.1960 ) has been a lifelong resident of <p2> Las Vegas </p2> .
+Snt:Professional tennis player , Andre Kirk Agassi ( b.1960 ) has been a lifelong resident of Las Vegas .
+Agassi;@;( b.1960 ) has been a lifelong resident of;@;Las Vegas
+====================
+-----------
+OriginalSnt:<p1> Kafka </p1> was born into a Jewish middle - class family in <p2> Prague </p2> , Bohemia ( now in the Czech Republic ) , on July 3 , 1883 .
+Snt:Kafka was born into a Jewish middle - class family in Prague , Bohemia ( now in the Czech Republic ) , on July 3 , 1883 .
+Kafka;@;was born into a Jewish middle - class family in;@;Prague
+====================
+-----------
+OriginalSnt:<p1> Agassi </p1> , a <p2> Las Vegas </p2> Native , retired due to Sciatica caused by two bulging discs in his back .
+Snt:Agassi , a Las Vegas Native , retired due to Sciatica caused by two bulging discs in his back .
+====================
+-----------
+OriginalSnt:__ __ ( 1898 - 1937 ) <p1> George Gershwin </p1> , born in Brooklyn , <p2> New York </p2> on 26 September 1898 , was born the second of four children of Morris and Rose Gershovitz , Russia.. .
+Snt:__ __ ( 1898 - 1937 ) George Gershwin , born in Brooklyn , New York on 26 September 1898 , was born the second of four children of Morris and Rose Gershovitz , Russia.. .
+George Gershwin;@;, born in Brooklyn ,;@;New York
+====================
+-----------
+OriginalSnt:<p1> Franz Kafka </p1> ( born July 3 , 1883 , <p2> Prague </p2> , Bohemia , Austria - Hungary - died June 3 , 1924 , Kierling , near Vienna , Austria ) Czech writer who wrote in German .
+Snt:Franz Kafka ( born July 3 , 1883 , Prague , Bohemia , Austria - Hungary - died June 3 , 1924 , Kierling , near Vienna , Austria ) Czech writer who wrote in German .
+Franz Kafka;@;( born July 3 , 1883 ,;@;Prague
+====================
+-----------
+OriginalSnt:Andre Kirk __ , son of , Emmanuel Mike <p1> Agassi </p1> , was born on April 29 , 1970 in <p2> Las Vegas </p2> Nevada .
+Snt:Andre Kirk __ , son of , Emmanuel Mike Agassi , was born on April 29 , 1970 in Las Vegas Nevada .
+Agassi;@;, was born on April 29 , 1970 in;@;Las Vegas
+====================
+-----------
+OriginalSnt:Andre Kirk <p1> Agassi </p1> was born April 29 , 1970 , in <p2> Las Vegas </p2> , Nevada , to Mike and Elizabeth __ .
+Snt:Andre Kirk Agassi was born April 29 , 1970 , in Las Vegas , Nevada , to Mike and Elizabeth __ .
+Agassi;@;was born April 29 , 1970 , in;@;Las Vegas
+====================
+-----------
+OriginalSnt:<p1> Gershwin </p1> ( 1898 - 1937 ) , was born in Brooklyn , <p2> New York </p2> , the son of
+Snt:Gershwin ( 1898 - 1937 ) , was born in Brooklyn , New York , the son of .
+Gershwin;@;( 1898 - 1937 ) , was born in Brooklyn ,;@;New York
+====================
+-----------
+OriginalSnt:While there is no link with any known location ( other than perhaps <p1> Kafka </p1> ' s hometown of <p2> Prague </p2> ) the surroundings are modern and urban .
+Snt:While there is no link with any known location ( other than perhaps Kafka ' s hometown of Prague ) the surroundings are modern and urban .
+Kafka;@;' s hometown of;@;Prague
+====================
+-----------
+OriginalSnt:The novelist <p1> Franz Kafka </p1> was born of Jewish parentage in <p2> Prague </p2> in 1883 .
+Snt:The novelist Franz Kafka was born of Jewish parentage in Prague in 1883 .
+Franz Kafka;@;was born of Jewish parentage in;@;Prague
+====================
+-----------
+OriginalSnt:Charles Spencer <p1> Chaplin </p1> was born on April 16 , 1889 in <p2> London </p2> , England , to Charles and Hannah __ .
+Snt:Charles Spencer Chaplin was born on April 16 , 1889 in London , England , to Charles and Hannah __ .
+Chaplin;@;was born on April 16 , 1889 in;@;London
+====================
+-----------
+OriginalSnt:<p1> Charlie Chaplin </p1> ' s life began in a poor room somewhere in <p2> London </p2> ; he was on the " Top of the World " , and he died far away from the country he called home land .
+Snt:Charlie Chaplin ' s life began in a poor room somewhere in London ; he was on the " Top of the World " , and he died far away from the country he called home land .
+Charlie Chaplin;@;' s life began in a poor room somewhere in;@;London
+====================
+-----------
+OriginalSnt:<p1> Andre Agassi </p1> is a <p2> Las Vegas </p2> native .
+Snt:Andre Agassi is a Las Vegas native .
+====================
+-----------
+OriginalSnt:....s sound clip ( s ) video clip ( s ) <p1> Andre Agassi </p1> Date of birth ( location ) 1970 <p2> Las Vegas </p2> , Nevada , USA Trivia Has a &amp;amp; .... more from cache
+Snt:....s sound clip ( s ) video clip ( s ) Andre Agassi Date of birth ( location ) 1970 Las Vegas , Nevada , USA Trivia Has a &amp;amp; .... more from cache .
+====================
+-----------
+OriginalSnt:And <p1> Andre Agassi </p1> had a good week in his hometown of <p2> Las Vegas </p2> .
+Snt:And Andre Agassi had a good week in his hometown of Las Vegas .
+Andre Agassi;@;had a good week in his hometown of;@;Las Vegas
+====================
+-----------
+OriginalSnt:__ __ was born Jacob <p1> Gershwin </p1> on Sept. 26 , 1898 in what is now Brooklyn , <p2> New York </p2> .
+Snt:__ __ was born Jacob Gershwin on Sept. 26 , 1898 in what is now Brooklyn , New York .
+====================
+-----------
+OriginalSnt:Andre Kirk <p1> Agassi </p1> was born in the year 1970 in <p2> Las Vegas </p2> .
+Snt:Andre Kirk Agassi was born in the year 1970 in Las Vegas .
+Agassi;@;was born in the year 1970 in;@;Las Vegas
+====================
+-----------
+OriginalSnt:en : <p1> Franz Kafka </p1> ( July 3 , 1883 in <p2> Prague </p2> - June 3 , 1924 in Vienna ) was one of the major German language writers of the 20th century most of whose work was published posthumously .
+Snt:en : Franz Kafka ( July 3 , 1883 in Prague - June 3 , 1924 in Vienna ) was one of the major German language writers of the 20th century most of whose work was published posthumously .
+====================
+-----------
+OriginalSnt:<p1> Chaplin </p1> was born into a <p2> London </p2> music hall family .
+Snt:Chaplin was born into a London music hall family .
+====================
+-----------
+OriginalSnt:<p1> George Gershwin </p1> was born in Brooklyn , <p2> New York </p2> on September 26 , 1898 .
+Snt:George Gershwin was born in Brooklyn , New York on September 26 , 1898 .
+George Gershwin;@;was born in Brooklyn ,;;was born in;@;Brooklyn;;New York
+====================
+-----------
+OriginalSnt:Born : Charles Spencer <p1> Chaplin </p1> , 16 April 1889 , Walworth , <p2> London </p2> , England , UK
+Snt:Born : Charles Spencer Chaplin , 16 April 1889 , Walworth , London , England , UK .
+====================
+-----------
+OriginalSnt:About the Artist : <p1> Charlie Chaplin </p1> ( 1889 1977 ) was born in <p2> London </p2> , England .
+Snt:About the Artist : Charlie Chaplin ( 1889 1977 ) was born in London , England .
+Charlie Chaplin;@;( 1889 1977 ) was born in;;was born in;@;London;;England
+====================
+-----------
+OriginalSnt:<p1> Franz Kafka </p1> was born on 3 July 1883 in <p2> Prague </p2> , the boehmischen capital .
+Snt:Franz Kafka was born on 3 July 1883 in Prague , the boehmischen capital .
+Franz Kafka;@;was born on 3 July 1883 in;@;Prague
+====================
+-----------
+OriginalSnt:<p1> George Gershwin </p1> was born Jacob Gershowitz in 1898 in Brooklyn , <p2> New York </p2> , the son of immigrant parents .
+Snt:George Gershwin was born Jacob Gershowitz in 1898 in Brooklyn , New York , the son of immigrant parents .
+George Gershwin;@;was born Jacob Gershowitz in 1898 in Brooklyn ,;@;New York
+====================
+-----------
+OriginalSnt:<p1> Franz Kafka </p1> ( 1883 - 1924 ) was born of Jewish parents in <p2> Prague </p2> .
+Snt:Franz Kafka ( 1883 - 1924 ) was born of Jewish parents in Prague .
+Franz Kafka;@;( 1883 - 1924 ) was born of Jewish parents in;@;Prague
+====================
+-----------
+OriginalSnt:<p1> George Gershwin </p1> was born September 26 , 1898 in <p2> New York </p2> City .
+Snt:George Gershwin was born September 26 , 1898 in New York City .
+George Gershwin;@;was born September 26 , 1898 in;@;New York
+====================
+-----------
+OriginalSnt:Andre Kirk <p1> Agassi </p1> was born in <p2> Las Vegas </p2> , Nevada on the 29th of April , 1970 .
+Snt:Andre Kirk Agassi was born in Las Vegas , Nevada on the 29th of April , 1970 .
+Agassi;;Andre Kirk Agassi;@;was born in;@;Las Vegas;;Nevada
+====================
+-----------
+OriginalSnt:C harlie __ was born Charles Spencer <p1> Chaplin </p1> in <p2> London </p2> , England on 16 April 1889 .
+Snt:C harlie __ was born Charles Spencer Chaplin in London , England on 16 April 1889 .
+====================
+-----------
+OriginalSnt:<p1> George Gershwin </p1> is a famous American composer who was born in Brooklyn , <p2> New York </p2> , on September 26 , 1898 .
+Snt:George Gershwin is a famous American composer who was born in Brooklyn , New York , on September 26 , 1898 .
+George Gershwin;@;is a famous American composer who was born in Brooklyn ,;@;New York
+====================
+-----------
+OriginalSnt:" This little mother has claws , " says writer <p1> Franz Kafka </p1> of the allure of his hometown of <p2> Prague </p2> .
+Snt:" This little mother has claws , " says writer Franz Kafka of the allure of his hometown of Prague .
+Franz Kafka;@;of the allure of his hometown of;@;Prague
+====================
+-----------
+OriginalSnt:<p1> George Gershwin </p1> was born September 26 , 1898 in Brooklyn , <p2> New York </p2> and he died July 11 , 1937 in Hollywood , California
+Snt:George Gershwin was born September 26 , 1898 in Brooklyn , New York and he died July 11 , 1937 in Hollywood , California .
+George Gershwin;@;was born September 26 , 1898 in Brooklyn ,;@;New York
+====================
+-----------
+OriginalSnt:Andre Kirk <p1> Agassi </p1> , born , April 29 , 1970 , in <p2> Las Vegas </p2> , Nevada has been one of the front line tennis players , even now .
+Snt:Andre Kirk Agassi , born , April 29 , 1970 , in Las Vegas , Nevada has been one of the front line tennis players , even now .
+Agassi;@;, born , April 29 , 1970 , in;@;Las Vegas
+====================
+-----------
+OriginalSnt:__ __ Charles Spencer <p1> Chaplin </p1> was born in Walworth , <p2> London </p2> on April 16 , 1889 .
+Snt:__ __ Charles Spencer Chaplin was born in Walworth , London on April 16 , 1889 .
+Chaplin;@;was born in Walworth ,;@;London
+====================
+-----------
+OriginalSnt:1970 : Born Andre Kirk <p1> Agassi </p1> on April29 in <p2> Las Vegas </p2> .
+Snt:1970 : Born Andre Kirk Agassi on April29 in Las Vegas .
+====================
+-----------
+OriginalSnt:<p1> Franz Kafka </p1> born July 3 in <p2> Prague </p2> - Alstandt , the first child of the merchant Hermann __ ( 1852 - 1931 ) and his wife Julie , n e L wy ( 1856 - 1934 ) .
+Snt:Franz Kafka born July 3 in Prague - Alstandt , the first child of the merchant Hermann __ ( 1852 - 1931 ) and his wife Julie , n e L wy ( 1856 - 1934 ) .
+Franz Kafka;@;born July 3 in;@;Prague
+====================
+-----------
+OriginalSnt:An eight - time Grand Slam tournament champion , tennis legend Andre Kirk <p1> Agassi </p1> ( 1970 - ) was born on this day in <p2> Las Vegas </p2> , Nevada .
+Snt:An eight - time Grand Slam tournament champion , tennis legend Andre Kirk Agassi ( 1970 - ) was born on this day in Las Vegas , Nevada .
+Agassi;@;( 1970 - ) was born on this day in;@;Las Vegas
+====================
+-----------
+OriginalSnt:<p1> Charlie Chaplin </p1> ( b. April 16 , 1889 , <p2> London </p2> , Eng .
+Snt:Charlie Chaplin ( b. April 16 , 1889 , London , Eng .
+Charlie Chaplin;@;( b. April 16 , 1889 ,;@;London
+====================
+-----------
+OriginalSnt:<p1> Charlie Chaplin </p1> was born April 16 , 1889 in <p2> London </p2> , England , to music hall performers .
+Snt:Charlie Chaplin was born April 16 , 1889 in London , England , to music hall performers .
+Charlie Chaplin;@;was born April 16 , 1889 in;@;London
+====================
+-----------
+OriginalSnt:This category lists pages and sites about <p1> George Gershwin </p1> ( 1898 - 1937 ) , born in <p2> New York </p2> to Russian - Jewish parents .
+Snt:This category lists pages and sites about George Gershwin ( 1898 - 1937 ) , born in New York to Russian - Jewish parents .
+George Gershwin;@;( 1898 - 1937 ) , born in;@;New York
+====================
+-----------
+OriginalSnt:Birthday - Film comedian <p1> Charlie Chaplin </p1> ( 1889 - 1977 ) was born in <p2> London </p2> .
+Snt:Birthday - Film comedian Charlie Chaplin ( 1889 - 1977 ) was born in London .
+Charlie Chaplin;;Birthday-Film comedian Charlie Chaplin;@;( 1889 - 1977 ) was born in;;was born in;@;London
+====================
+-----------
+OriginalSnt:<p1> Andre Agassi </p1> is a famous tennis star and native son of <p2> Las Vegas </p2> .
+Snt:Andre Agassi is a famous tennis star and native son of Las Vegas .
+Andre Agassi;@;is a famous tennis star and native son of;@;Las Vegas
+====================
+-----------
+OriginalSnt:The great <p1> Charlie Chaplin </p1> arrived into this world on this day in 1889 , in <p2> London </p2> .
+Snt:The great Charlie Chaplin arrived into this world on this day in 1889 , in London .
+Charlie Chaplin;@;arrived into this world on this day in 1889 , in;@;London
+====================
+-----------
+OriginalSnt:<p1> Franz Kafka </p1> rarely left his home town of <p2> Prague </p2> .
+Snt:Franz Kafka rarely left his home town of Prague .
+Franz Kafka;@;rarely left his home town of;@;Prague
+====================
+-----------
+OriginalSnt:<p1> Franz Kafka </p1> born in <p2> Prague </p2> , which was then part of the Hapsburg empire .
+Snt:Franz Kafka born in Prague , which was then part of the Hapsburg empire .
+Franz Kafka;@;born in;@;Prague
+====================
+-----------
+OriginalSnt:<p1> Andre Agassi </p1> was born on April 29 , 1970 in <p2> Las Vegas </p2> , Nevada .
+Snt:Andre Agassi was born on April 29 , 1970 in Las Vegas , Nevada .
+Andre Agassi;@;was born on April 29 , 1970 in;@;Las Vegas
+====================
+-----------
+OriginalSnt:<p1> George Gershwin </p1> was born Jacob Gershovitz in Brooklyn , <p2> New York </p2> on September 26 , 1898 .
+Snt:George Gershwin was born Jacob Gershovitz in Brooklyn , New York on September 26 , 1898 .
+George Gershwin;@;was born Jacob Gershovitz in Brooklyn ,;@;New York
+====================
+-----------
+OriginalSnt:Where can you see a statue of <p1> Charlie Chaplin </p1> , the famous actor born in East <p2> London </p2> , who became famous in the United States ?
+Snt:Where can you see a statue of Charlie Chaplin , the famous actor born in East London , who became famous in the United States ?
+Charlie Chaplin;@;, the famous actor born in East;@;London
+====================
+-----------
+OriginalSnt:He s a major funder of the <p1> Andre Agassi </p1> College Preparatory Academy in a poor section of <p2> Las Vegas </p2> , his hometown .
+Snt:He s a major funder of the Andre Agassi College Preparatory Academy in a poor section of Las Vegas , his hometown .
+====================
+-----------
+OriginalSnt:<p1> Franz Kafka </p1> was born July 3 rd 1883 in <p2> Prague </p2> , at that time part of Austria - Hungary .
+Snt:Franz Kafka was born July 3 rd 1883 in Prague , at that time part of Austria - Hungary .
+Franz Kafka;@;was born July 3 rd 1883 in;@;Prague
+====================
+-----------
+OriginalSnt:<p1> Franz Kafka </p1> ( born <p2> Prague </p2> July 3 , 1883 died near Vienna June 3 , 1924 ) was a famous Czech - born , German - speaking writer .
+Snt:Franz Kafka ( born Prague July 3 , 1883 died near Vienna June 3 , 1924 ) was a famous Czech - born , German - speaking writer .
+Franz Kafka;@;( born;@;Prague
+====================
+-----------
+OriginalSnt:<p1> George Gershwin </p1> was born September 26 , 1898 in Brooklyn <p2> New York </p2> .
+Snt:George Gershwin was born September 26 , 1898 in Brooklyn New York .
+George Gershwin;@;was born September 26 , 1898 in Brooklyn;@;New York
+====================
+-----------
+OriginalSnt:TRACK 12 - <p1> George Gershwin </p1> , son of Russian immigrants , was born in Brooklyn , <p2> New York </p2> in 1898 .
+Snt:TRACK 12 - George Gershwin , son of Russian immigrants , was born in Brooklyn , New York in 1898 .
+George Gershwin;;TRACK 12-George Gershwin;;son of Russian immigrants;@;, son of Russian immigrants , was born in Brooklyn ,;;was born in;@;Brooklyn;;New York
+====================
+-----------
+OriginalSnt:For those hoping <p1> Agassi </p1> ' s final tournament ends with a title , the <p2> Las Vegas </p2> native holds a 5 - 1 career mark over Roddick .
+Snt:For those hoping Agassi ' s final tournament ends with a title , the Las Vegas native holds a 5 - 1 career mark over Roddick .
+====================
+-----------
+OriginalSnt:The personal library of author <p1> Franz Kafka </p1> is to be returned to his native <p2> Prague </p2> .
+Snt:The personal library of author Franz Kafka is to be returned to his native Prague .
+Franz Kafka;@;is to be returned to his native;@;Prague
+====================
+-----------
+OriginalSnt:It ' s the birthday of composer <p1> George Gershwin </p1> , born Jacob Gershvin in Brooklyn , <p2> New York </p2> ( 1898 ) .
+Snt:It ' s the birthday of composer George Gershwin , born Jacob Gershvin in Brooklyn , New York ( 1898 ) .
+George Gershwin;@;, born Jacob Gershvin in Brooklyn ,;@;New York
+====================
+-----------
+OriginalSnt:<p1> Franz Kafka </p1> , author of The Metamorphosis was born in <p2> Prague </p2> , and Mission Impossible starring Tom Cruise was filmed in this beautiful city .
+Snt:Franz Kafka , author of The Metamorphosis was born in Prague , and Mission Impossible starring Tom Cruise was filmed in this beautiful city .
+Franz Kafka;@;, author of The Metamorphosis was born in;@;Prague
+====================
+-----------
+OriginalSnt:In fairness , David Robinson of the San Antonio Spurs has built an entire school over many years in San Antonio , and I hear that <p1> Andre Agassi </p1> has done the same in his native <p2> Las Vegas </p2> .
+Snt:In fairness , David Robinson of the San Antonio Spurs has built an entire school over many years in San Antonio , and I hear that Andre Agassi has done the same in his native Las Vegas .
+Andre Agassi;@;has done the same in his native;@;Las Vegas
+====================
+-----------
+OriginalSnt:Although he earned the bulk of his fame in the United States and is commonly considered a phenomenon of U.S. culture , <p1> Chaplin </p1> was actually born in <p2> London </p2> , England , and never became a U.S. citizen .
+Snt:Although he earned the bulk of his fame in the United States and is commonly considered a phenomenon of U.S. culture , Chaplin was actually born in London , England , and never became a U.S. citizen .
+Chaplin;@;was actually born in;@;London
+====================
+-----------
+OriginalSnt:<p1> Franz Kafka </p1> ( 1883 - 1924 ) Austrian Czech writer , born in <p2> Prague </p2> best known novels are The Trial ( 1925 ) , The Castle ( 1926 ) and America ( 1927 )
+Snt:Franz Kafka ( 1883 - 1924 ) Austrian Czech writer , born in Prague best known novels are The Trial ( 1925 ) , The Castle ( 1926 ) and America ( 1927 ) .
+Franz Kafka;@;( 1883 - 1924 ) Austrian Czech writer , born in;@;Prague
+====================
+-----------
+OriginalSnt:Excerpt of a message from <p1> Charlie Chaplin </p1> to his native <p2> London </p2> .
+Snt:Excerpt of a message from Charlie Chaplin to his native London .
+Charlie Chaplin;@;to his native;@;London
+====================
+-----------
+OriginalSnt:<p1> Franz Kafka </p1> , b. <p2> Prague </p2> , Bohemia ( then belonging to Austria ) , July 3 , 1883 , d. June 3 , 1924 , has come to be one of the most influential writers of this century .
+Snt:Franz Kafka , b. Prague , Bohemia ( then belonging to Austria ) , July 3 , 1883 , d. June 3 , 1924 , has come to be one of the most influential writers of this century .
+Franz Kafka;@;, b.;@;Prague
+====================
+-----------
+OriginalSnt:He ran his <p1> Andre Agassi </p1> Foundation and held many charity events for his <p2> Las Vegas </p2> hometown .
+Snt:He ran his Andre Agassi Foundation and held many charity events for his Las Vegas hometown .
+====================
+-----------
+OriginalSnt:__ __ - Andre Kirk <p1> Agassi </p1> was born on 29 April 1970 in <p2> Las Vegas </p2> , Nevada .
+Snt:__ __ - Andre Kirk Agassi was born on 29 April 1970 in Las Vegas , Nevada .
+Agassi;@;was born on 29 April 1970 in;@;Las Vegas
+====================
+-----------
+OriginalSnt:fr : <p1> Franz Kafka </p1> ( 3 juillet 1883 , <p2> Prague </p2> - 3 juin 1924 , Kierling ) est un crivain de langue allemande
+Snt:fr : Franz Kafka ( 3 juillet 1883 , Prague - 3 juin 1924 , Kierling ) est un crivain de langue allemande .
+====================
+-----------
+OriginalSnt:Andre Kirk <p1> Agassi </p1> ( born April 29 , 1970 , in <p2> Las Vegas </p2> , Nevada ) is a former World ... When __ started playing tennis , his ball collection filled 60 .. .
+Snt:Andre Kirk Agassi ( born April 29 , 1970 , in Las Vegas , Nevada ) is a former World ... When __ started playing tennis , his ball collection filled 60 .. .
+Agassi;@;( born April 29 , 1970 , in;@;Las Vegas
+====================
+-----------
+OriginalSnt:<p1> Franz Kafka </p1> is born in <p2> Prague </p2> on July 3 to Hermann and Julie .
+Snt:Franz Kafka is born in Prague on July 3 to Hermann and Julie .
+Franz Kafka;@;is born in;@;Prague
+====================
+-----------
+OriginalSnt:<p1> Andre Agassi </p1> was born April 29 , 1970 in <p2> Las Vegas </p2> , Nevada .
+Snt:Andre Agassi was born April 29 , 1970 in Las Vegas , Nevada .
+Andre Agassi;@;was born April 29 , 1970 in;@;Las Vegas
+====================
+-----------
+OriginalSnt:1889 <p1> Charlie Chaplin </p1> , English comedian , was born in <p2> London </p2> .
+Snt:1889 Charlie Chaplin , English comedian , was born in London .
+Charlie Chaplin;@;, English comedian , was born in;@;London
+====================
+-----------
+OriginalSnt:The __ __ College Preparatory Academy located in <p1> Agassi </p1> s home town of <p2> Las Vegas </p2> , Nevada , is a charter school that brings order and hope to a district with the highest crime rate in the city .
+Snt:The __ __ College Preparatory Academy located in Agassi s home town of Las Vegas , Nevada , is a charter school that brings order and hope to a district with the highest crime rate in the city .
+Agassi;@;s home town of;@;Las Vegas
+====================
+-----------
+OriginalSnt:<p1> Andre Agassi </p1> tennis superstar of <p2> Las Vegas </p2> joins America Online co - founder Steve Case in developing Exclusive Resorts a worldwide real estate project of multi - million dollar resort homes for luxury travel .
+Snt:Andre Agassi tennis superstar of Las Vegas joins America Online co - founder Steve Case in developing Exclusive Resorts a worldwide real estate project of multi - million dollar resort homes for luxury travel .
+Andre Agassi;@;tennis superstar of;@;Las Vegas
+====================
+-----------
+OriginalSnt:Mattel co - founder <p1> Ruth Handler </p1> in 1959 created <p2> the Barbie doll </p2> after noticing her daughter preferred playing with paper cut - outs of adult female fashion dolls , . . .
+Snt:Mattel co - founder Ruth Handler in 1959 created the Barbie doll after noticing her daughter preferred playing with paper cut - outs of adult female fashion dolls , . . .
+Ruth Handler;@;in 1959 created;;created;@;the Barbie doll
+====================
+-----------
+OriginalSnt:<p1> Tim Berners - Lee </p1> is the creator of <p2> the World Wide Web </p2> and director of the coordinating body for Web development , the W3C .
+Snt:Tim Berners - Lee is the creator of the World Wide Web and director of the coordinating body for Web development , the W3C .
+Tim Berners - Lee;@;is the creator of;@;the World Wide Web
+====================
+-----------
+OriginalSnt:<p1> Tim Berners - Lee </p1> is the Director of <p2> the World Wide Web </p2> Consortium , Senior Researcher at MIT\ 's CSAIL , and Professor of Computer Science at Southampton ECS
+Snt:Tim Berners - Lee is the Director of the World Wide Web Consortium , Senior Researcher at MIT\ 's CSAIL , and Professor of Computer Science at Southampton ECS .
+====================
+-----------
+OriginalSnt:Watch a webstream - Professor <p1> Tim Berners - Lee </p1> OBE FRS , inventor of <p2> the World Wide Web </p2> talks about its future
+Snt:Watch a webstream - Professor Tim Berners - Lee OBE FRS , inventor of the World Wide Web talks about its future .
+Tim Berners - Lee;@;OBE FRS , inventor of;@;the World Wide Web
+====================
+-----------
+OriginalSnt:<p1> Ruth Handler </p1> is said to be the creator of <p2> the Barbie doll </p2> .
+Snt:Ruth Handler is said to be the creator of the Barbie doll .
+====================
+-----------
+OriginalSnt:Sir <p1> Tim Berners - Lee </p1> OBE is the inventor of <p2> the World Wide Web </p2> .
+Snt:Sir Tim Berners - Lee OBE is the inventor of the World Wide Web .
+Tim Berners - Lee;@;OBE is the inventor of;@;the World Wide Web
+====================
+-----------
+OriginalSnt:Recent celebrity deaths : Alexander Lebed - Russian General who ran for the presidency against Boris Yeltsin ; <p1> Ruth Handler </p1> - inventor of <p2> the Barbie Doll </p2> April 2002 - April 26 2002 .
+Snt:Recent celebrity deaths : Alexander Lebed - Russian General who ran for the presidency against Boris Yeltsin ; Ruth Handler - inventor of the Barbie Doll April 2002 - April 26 2002 .
+Ruth Handler;@;- inventor of;@;the Barbie Doll
+====================
+-----------
+OriginalSnt:<p1> Ruth Handler </p1> is officially recognised as the creator of <p2> the Barbie doll </p2> having come up with the idea for a three dimensional , adult - figured doll in the late fifties .
+Snt:Ruth Handler is officially recognised as the creator of the Barbie doll having come up with the idea for a three dimensional , adult - figured doll in the late fifties .
+Ruth Handler;@;is officially recognised as the creator of;@;the Barbie doll
+====================
+-----------
+OriginalSnt:Does Anyone Know anything about <p1> Ruth Handler </p1> ( She Created <p2> The Barbie Doll </p2> I have to write a 10 report on her?
+Snt:Does Anyone Know anything about Ruth Handler ( She Created The Barbie Doll I have to write a 10 report on her?
+Ruth Handler;@;( She Created;@;The Barbie Doll
+====================
+-----------
+OriginalSnt:<p1> Tim Berners - Lee </p1> is the inventor of <p2> the World Wide Web </p2> , an internet - based hypermedia initiative for global information sharing .
+Snt:Tim Berners - Lee is the inventor of the World Wide Web , an internet - based hypermedia initiative for global information sharing .
+Tim Berners - Lee;@;is the inventor of;@;the World Wide Web
+====================
+-----------
+OriginalSnt:Gnu Girl Gazette Blog Archive <p1> Tim Berners - Lee </p1> the Inventor of <p2> the World Wide Web </p2>
+Snt:Gnu Girl Gazette Blog Archive Tim Berners - Lee the Inventor of the World Wide Web .
+====================
+-----------
+OriginalSnt:News Sir <p1> Tim Berners - Lee </p1> Sir Tim later founded <p2> the World Wide Web </p2> consortium and has been an active proponent of open standards on the internet .
+Snt:News Sir Tim Berners - Lee Sir Tim later founded the World Wide Web consortium and has been an active proponent of open standards on the internet .
+====================
+-----------
+OriginalSnt:. . . 4 . Lack of regulatory Laws When <p1> Tim Berners - Lee </p1> developed <p2> the World Wide Web </p2> in
+Snt:. . . 4 . Lack of regulatory Laws When Tim Berners - Lee developed the World Wide Web in .
+Tim Berners - Lee;@;developed;@;the World Wide Web
+====================
+-----------
+OriginalSnt:<p1> Tim Berners - Lee </p1> is the primary inventor of <p2> the World Wide Web </p2> , the system of text links and multimedia capabilities that made the Internet accessible to mass audiences .
+Snt:Tim Berners - Lee is the primary inventor of the World Wide Web , the system of text links and multimedia capabilities that made the Internet accessible to mass audiences .
+Tim Berners - Lee;@;is the primary inventor of;@;the World Wide Web
+====================
+-----------
+OriginalSnt:Founder <p1> Ruth Handler </p1> in created <p2> the Barbie doll </p2> after noticing her daughter preferred playing with paper cut .
+Snt:Founder Ruth Handler in created the Barbie doll after noticing her daughter preferred playing with paper cut .
+Ruth Handler;@;in created;@;the Barbie doll
+====================
+-----------
+OriginalSnt:2 ) Library Binding Book <p1> Tim Berners - Lee </p1> and the Development of <p2> the World Wide Web </p2> ( Unlocking the Secrets of Science ) ( Unlocking the Secrets of Science ) by Mitchell Lane Publishers .
+Snt:2 ) Library Binding Book Tim Berners - Lee and the Development of the World Wide Web ( Unlocking the Secrets of Science ) ( Unlocking the Secrets of Science ) by Mitchell Lane Publishers .
+====================
+-----------
+OriginalSnt:<p1> Ruth Handler </p1> began production of the company?€?s most famous product - <p2> the Barbie doll </p2> in 1959 .
+Snt:Ruth Handler began production of the company?€?s most famous product - the Barbie doll in 1959 .
+====================
+-----------
+OriginalSnt:Sir Timothy <p1> Berners - Lee </p1> is the director of <p2> the World Wide Web </p2> Consortium ( which oversees its continued development ) , and a senior researcher and holder of . . .
+Snt:Sir Timothy Berners - Lee is the director of the World Wide Web Consortium ( which oversees its continued development ) , and a senior researcher and holder of . . .
+====================
+-----------
+OriginalSnt:In the complex history of innovation flowing to and from the Internet , one major achievement is uncontested : in 1989 - 91 , <p1> Tim Berners - Lee </p1> invented <p2> the World Wide Web </p2> .
+Snt:In the complex history of innovation flowing to and from the Internet , one major achievement is uncontested : in 1989 - 91 , Tim Berners - Lee invented the World Wide Web .
+Tim Berners - Lee;;Tim Berners-Lee;@;invented;@;the World Wide Web
+====================
+-----------
+OriginalSnt:An area of the WWW that <p1> Berners - Lee </p1> has direct involvement is in his role as the Director of <p2> the World Wide Web </p2> Consortium ( WC3 ) which has existed since 1994 .
+Snt:An area of the WWW that Berners - Lee has direct involvement is in his role as the Director of the World Wide Web Consortium ( WC3 ) which has existed since 1994 .
+====================
+-----------
+OriginalSnt:Weaving the Web - <p1> Tim Berners - Lee </p1> : Inventing <p2> the world wide web </p2>
+Snt:Weaving the Web - Tim Berners - Lee : Inventing the world wide web .
+Tim Berners - Lee;@;: Inventing;@;the world wide web
+====================
+-----------
+OriginalSnt:Opis : The history of Barbie dolls and inventor <p1> Ruth Handler </p1> who invented <p2> the Barbie Doll </p2> in 1959 .
+Snt:Opis : The history of Barbie dolls and inventor Ruth Handler who invented the Barbie Doll in 1959 .
+Ruth Handler;;inventor Ruth Handler;@;who invented;;invented;@;the Barbie Doll
+====================
+-----------
+OriginalSnt:The Great Idea Finder : <p1> Tim Berners - Lee </p1> - Photograph and biography of the inventor of <p2> the World Wide Web </p2> , with related links .
+Snt:The Great Idea Finder : Tim Berners - Lee - Photograph and biography of the inventor of the World Wide Web , with related links .
+Tim Berners - Lee;@;- Photograph and biography of the inventor of;@;the World Wide Web
+====================
+-----------
+OriginalSnt:<p1> Tim Berners - Lee </p1> to Deliver Keynote at eCC Bermuda 2001 ; The Creator of <p2> the World Wide Web </p2> to Discuss his Vision for the Future of the Internet .
+Snt:Tim Berners - Lee to Deliver Keynote at eCC Bermuda 2001 ; The Creator of the World Wide Web to Discuss his Vision for the Future of the Internet .
+Tim Berners - Lee;@;to Deliver Keynote at eCC Bermuda 2001 ; The Creator of;@;the World Wide Web
+====================
+-----------
+OriginalSnt:Lilli is the doll that would inspire <p1> Ruth Handler </p1> to design <p2> the Barbie doll </p2> .
+Snt:Lilli is the doll that would inspire Ruth Handler to design the Barbie doll .
+Ruth Handler;@;to design;@;the Barbie doll
+====================
+-----------
+OriginalSnt:Barbie Doll Creator Ruth Handler To Be Featured on PBS Series , Doll Collecting , <p1> Ruth Handler </p1> , the creator of <p2> the Barbie doll </p2> , will be featured next week in a
+Snt:Barbie Doll Creator Ruth Handler To Be Featured on PBS Series , Doll Collecting , Ruth Handler , the creator of the Barbie doll , will be featured next week in a .
+Ruth Handler;@;, the creator of;@;the Barbie doll
+====================
+-----------
+OriginalSnt:In 1994 , <p1> Berners - Lee </p1> founded <p2> the World Wide Web </p2> Consortium ( W3C ) at the Massachusetts Institute of Technology .
+Snt:In 1994 , Berners - Lee founded the World Wide Web Consortium ( W3C ) at the Massachusetts Institute of Technology .
+====================
+-----------
+OriginalSnt:Ruth Handler After fighting breast cancer and undergoing a mastectomy in 1970 <p1> Ruth Handler </p1> , one of the creators of <p2> the Barbie Doll </p2> , surveyed the market for a suitable prosthetic breast .
+Snt:Ruth Handler After fighting breast cancer and undergoing a mastectomy in 1970 Ruth Handler , one of the creators of the Barbie Doll , surveyed the market for a suitable prosthetic breast .
+Ruth Handler;@;, one of the creators of;@;the Barbie Doll
+====================
+-----------
+OriginalSnt:<p1> Berners - Lee </p1> still heads <p2> the World Wide Web </p2> Consortium ( W3C ) at the Massachusetts Institute of Technology in Boston , but is one of the least recognised gurus in the world .
+Snt:Berners - Lee still heads the World Wide Web Consortium ( W3C ) at the Massachusetts Institute of Technology in Boston , but is one of the least recognised gurus in the world .
+====================
+-----------
+OriginalSnt:The Great Idea Finder : <p1> Tim Berners - Lee </p1> Photograph and biography of the inventor of <p2> the World Wide Web </p2> , with related links .
+Snt:The Great Idea Finder : Tim Berners - Lee Photograph and biography of the inventor of the World Wide Web , with related links .
+Tim Berners - Lee;@;Photograph and biography of the inventor of;@;the World Wide Web
+====================
+-----------
+OriginalSnt:<p1> Tim Berners - Lee </p1> ( born June 8 , 1955 ) is the inventor of <p2> the World Wide Web </p2> and . . . developerWorks Interviews : Tim Berners - Lee ( podcast/audio plus transcript ) . . .
+Snt:Tim Berners - Lee ( born June 8 , 1955 ) is the inventor of the World Wide Web and . . . developerWorks Interviews : Tim Berners - Lee ( podcast/audio plus transcript ) . . .
+Tim Berners - Lee;@;( born June 8 , 1955 ) is the inventor of;@;the World Wide Web
+====================
+-----------
+OriginalSnt:In 1996 the University of Southampton was the first university to award <p1> Tim Berners - Lee </p1> an honorary degree in recognition of his role in developing <p2> the World Wide Web </p2> .
+Snt:In 1996 the University of Southampton was the first university to award Tim Berners - Lee an honorary degree in recognition of his role in developing the World Wide Web .
+Tim Berners - Lee;@;an honorary degree in recognition of his role in developing;@;the World Wide Web
+====================
+-----------
+OriginalSnt:TIM BERNERS - LEE STARTED A REVOLUTION , BUT IT DIDN ' T GO EXACTLY AS PLANNED . . . And <p1> Tim Berners - Lee </p1> , 41 , the creator of <p2> the World Wide Web </p2> , no doubt does .
+Snt:TIM BERNERS - LEE STARTED A REVOLUTION , BUT IT DIDN ' T GO EXACTLY AS PLANNED . . . And Tim Berners - Lee , 41 , the creator of the World Wide Web , no doubt does .
+Tim Berners - Lee;@;, 41 , the creator of;@;the World Wide Web
+====================
+-----------
+OriginalSnt:Designed by the British software engineer TIM BERNERS - LEE ( 1955 - ) the web is a By the end of 1990 <p1> Berners - Lee </p1> circulated his work on <p2> the World Wide Web </p2>
+Snt:Designed by the British software engineer TIM BERNERS - LEE ( 1955 - ) the web is a By the end of 1990 Berners - Lee circulated his work on the World Wide Web .
+====================
+-----------
+OriginalSnt:<p1> Tim Berners - Lee </p1> laid the conceptual foundation for <p2> the World Wide Web </p2> .
+Snt:Tim Berners - Lee laid the conceptual foundation for the World Wide Web .
+Tim Berners - Lee;@;laid the conceptual foundation for;@;the World Wide Web
+====================
+-----------
+OriginalSnt:Fascinating facts about <p1> Ruth Handler </p1> inventor of <p2> the Barbie doll </p2> in 1959 .
+Snt:Fascinating facts about Ruth Handler inventor of the Barbie doll in 1959 .
+Ruth Handler;@;inventor of;@;the Barbie doll
+====================
+-----------
+OriginalSnt:Local , National and International events in 2002 . . <p1> Ruth Handler </p1> dies , inventor of <p2> the Barbie doll </p2> .
+Snt:Local , National and International events in 2002 . . Ruth Handler dies , inventor of the Barbie doll .
+Ruth Handler;@;dies , inventor of;@;the Barbie doll
+====================
+-----------
+OriginalSnt:Inventor <p1> Ruth Handler </p1> - Facts about the inventor of <p2> the Barbie Doll </p2> .
+Snt:Inventor Ruth Handler - Facts about the inventor of the Barbie Doll .
+Ruth Handler;@;- Facts about the inventor of;@;the Barbie Doll
+====================
+-----------
+OriginalSnt:Founder <p1> Ruth Handler </p1> created <p2> the Barbie doll </p2> in after noticing that her daughter preferred to play with paper cut .
+Snt:Founder Ruth Handler created the Barbie doll in after noticing that her daughter preferred to play with paper cut .
+Ruth Handler;;Founder Ruth Handler;@;created;@;the Barbie doll
+====================
+-----------
+OriginalSnt:<p1> Ruth Handler </p1> ( co - founder of Mattel Toys ) created <p2> the Barbie Doll </p2> in 1959 .
+Snt:Ruth Handler ( co - founder of Mattel Toys ) created the Barbie Doll in 1959 .
+Ruth Handler;@;( co - founder of Mattel Toys ) created;;created;@;the Barbie Doll
+====================
+-----------
+OriginalSnt:Queen Elizabeth dubs <p1> Tim Berners - Lee </p1> a knight , in recognition of his contributions to <p2> the World Wide Web </p2> .
+Snt:Queen Elizabeth dubs Tim Berners - Lee a knight , in recognition of his contributions to the World Wide Web .
+====================
+-----------
+OriginalSnt:<p1> Tim Berners - Lee </p1> is credited with inventing <p2> the World Wide Web </p2> .
+Snt:Tim Berners - Lee is credited with inventing the World Wide Web .
+Tim Berners - Lee;@;is credited with inventing;@;the World Wide Web
+====================
+-----------
+OriginalSnt:Title : <p1> Tim Berners - Lee </p1> ( M . I . T . ) , father of <p2> the World Wide Web </p2> . . .
+Snt:Title : Tim Berners - Lee ( M . I . T . ) , father of the World Wide Web . . .
+Tim Berners - Lee;@;( M . I . T . ) , father of;@;the World Wide Web
+====================
+-----------
+OriginalSnt:<p1> Tim Berners - Lee </p1> over view : invented <p2> the World Wide Web </p2> during 1990 - 1991 , while working at CERN , the European Particle Physics Laboratory in Geneva .
+Snt:Tim Berners - Lee over view : invented the World Wide Web during 1990 - 1991 , while working at CERN , the European Particle Physics Laboratory in Geneva .
+Tim Berners - Lee;;Tim Berners-Lee;@;over view : invented;;invented;@;the World Wide Web
+====================
+-----------
+OriginalSnt:When <p1> Wolfgang Amadeus Mozart </p1> moved to <p2> Vienna </p2> in the early 1780 ' s , he knew very well where he was going .
+Snt:When Wolfgang Amadeus Mozart moved to Vienna in the early 1780 ' s , he knew very well where he was going .
+====================
+-----------
+OriginalSnt:<p1> Albert Einstein </p1> wins the <p2> Nobel Prize </p2> for rectal bottle - rocketry .
+Snt:Albert Einstein wins the Nobel Prize for rectal bottle - rocketry .
+Albert Einstein;@;wins the;;wins;@;Nobel Prize;;the Nobel Prize
+====================
+-----------
+OriginalSnt:Whereas <p1> President Truman </p1> established the <p2> Presidential Medal of Freedom </p2> in 1945
+Snt:Whereas President Truman established the Presidential Medal of Freedom in 1945 .
+====================
+-----------
+OriginalSnt:inspiration to Xanadu , but <p1> Nelson </p1> dislikes <p2> the World Wide Web </p2> , XML and all
+Snt:inspiration to Xanadu , but Nelson dislikes the World Wide Web , XML and all .
+====================
+-----------
+OriginalSnt:<p1> Yahoo </p1> beats <p2> Microsoft </p2> to punch with IE update
+Snt:Yahoo beats Microsoft to punch with IE update .
+====================
+-----------
+OriginalSnt:<p1> John McCain </p1> awarded <p2> Purple Heart </p2> for wounds suffered in Iraq debate
+Snt:John McCain awarded Purple Heart for wounds suffered in Iraq debate .
+John McCain;@;awarded;@;Purple Heart
+====================
+-----------
+OriginalSnt:<p1> Albert Einstein </p1> received his <p2> Nobel Prize </p2> for the Quantum theory ( rather than the theory of relativity ) .
+Snt:Albert Einstein received his Nobel Prize for the Quantum theory ( rather than the theory of relativity ) .
+Albert Einstein;@;received his;;received;@;Nobel Prize;;his Nobel Prize
+====================
+-----------
+OriginalSnt:( Washington : Ucs News ) In a Rose Garden ceremony , President George W . Bush awarded Arizona Senator <p1> John McCain </p1> the order of the <p2> Purple Heart </p2> .
+Snt:( Washington : Ucs News ) In a Rose Garden ceremony , President George W . Bush awarded Arizona Senator John McCain the order of the Purple Heart .
+====================
+-----------
+OriginalSnt:<p1> Wolfgang Amadeus Mozart </p1> s arrival in <p2> Vienna </p2> on March 16 , 1781 marked a period of great change in his life and music .
+Snt:Wolfgang Amadeus Mozart s arrival in Vienna on March 16 , 1781 marked a period of great change in his life and music .
+====================
+-----------
+OriginalSnt:Raymond V . <p1> Damadian </p1> was denied a share of the 2003 <p2> Nobel Prize </p2> for Medicine , which was awarded to Paul Lauterbur and Sir Peter Mansfield for developing Magnetic resonance imaging .
+Snt:Raymond V . Damadian was denied a share of the 2003 Nobel Prize for Medicine , which was awarded to Paul Lauterbur and Sir Peter Mansfield for developing Magnetic resonance imaging .
+====================
+-----------
+OriginalSnt:Pemberton 's bookkeeper <p1> Frank Robinson </p1> named the mixture <p2> Coca - Cola </p2> - , and wrote it out in his distinct script .
+Snt:Pemberton 's bookkeeper Frank Robinson named the mixture Coca - Cola - , and wrote it out in his distinct script .
+====================
+-----------
+OriginalSnt:<p1> Kamen </p1> showed off <p2> the Segway </p2> on ABC 's Good Morning America Monday morning in an exhibition that last week seemed like it would be the first public look at the mystery device .
+Snt:Kamen showed off the Segway on ABC 's Good Morning America Monday morning in an exhibition that last week seemed like it would be the first public look at the mystery device .
+====================
+-----------
+OriginalSnt:<p1> Albert Einstein </p1> won the <p2> Nobel Prize </p2> for Physics in 1921
+Snt:Albert Einstein won the Nobel Prize for Physics in 1921 .
+Albert Einstein;@;won the;@;Nobel Prize
+====================
+-----------
+OriginalSnt:Computer activist <p1> Ted Nelson </p1> proposed a much more advanced form of <p2> the World Wide Web </p2> , called Xanadu , in his seminal work Computer Lib .
+Snt:Computer activist Ted Nelson proposed a much more advanced form of the World Wide Web , called Xanadu , in his seminal work Computer Lib .
+====================
+-----------
+OriginalSnt:In that ruling in December 2003 , Judge Richard G. Stearns dismissed Tevas lawsuit because <p1> Pfizer </p1> had not accused <p2> Teva </p2> of infringing its Zoloft patent and __ had no reasonable basis to expect __ would do so .
+Snt:In that ruling in December 2003 , Judge Richard G. Stearns dismissed Tevas lawsuit because Pfizer had not accused Teva of infringing its Zoloft patent and __ had no reasonable basis to expect __ would do so .
+====================
+-----------
+OriginalSnt:NEW DELHI : Pharma major <p1> Pfizer </p1> has filed a lawsuit against Ranbaxy and <p2> Teva </p2> , alleging infringement on its product Accupril ( generic Quinapril ) .
+Snt:NEW DELHI : Pharma major Pfizer has filed a lawsuit against Ranbaxy and Teva , alleging infringement on its product Accupril ( generic Quinapril ) .
+====================
+-----------
+OriginalSnt:. . . Back in America , fund raising for the pedestal was going particularly slowly , so <p1> Joseph Pulitzer </p1> noted for the <p2> Pulitzer Prize </p2> opened up the editorial pages . . .
+Snt:. . . Back in America , fund raising for the pedestal was going particularly slowly , so Joseph Pulitzer noted for the Pulitzer Prize opened up the editorial pages . . .
+====================
+-----------
+OriginalSnt:After <p1> Pfizer </p1> refused to bring suit against <p2> Teva </p2> or to provide it with a covenant not to sue , __ filed an action seeking a declaration of non - infringement and invalidity .
+Snt:After Pfizer refused to bring suit against Teva or to provide it with a covenant not to sue , __ filed an action seeking a declaration of non - infringement and invalidity .
+====================
+-----------
+OriginalSnt:2 <p1> Yahoo! </p1> and <p2> Microsoft </p2> plan to make the interoperability between their respective IM services broadly available to consumers in the coming months .
+Snt:2 Yahoo! and Microsoft plan to make the interoperability between their respective IM services broadly available to consumers in the coming months .
+====================
+-----------
+OriginalSnt:From then on <p1> Mozart </p1> resided in <p2> Vienna </p2> .
+Snt:From then on Mozart resided in Vienna .
+====================
+-----------
+OriginalSnt:<p1> Albert Einstein </p1> explained the photoelectric effect and received his only <p2> Nobel Prize </p2> .
+Snt:Albert Einstein explained the photoelectric effect and received his only Nobel Prize .
+Albert Einstein;@;explained the photoelectric effect and received his only;@;Nobel Prize
+====================
+-----------
+OriginalSnt:<p1> Yahoo </p1> taking on Google , <p2> Microsoft </p2> for AOL ?
+Snt:Yahoo taking on Google , Microsoft for AOL ?
+====================
+-----------
+OriginalSnt:<p1> Mozart </p1> lived in <p2> Vienna </p2> for ten years .
+Snt:Mozart lived in Vienna for ten years .
+====================
+-----------
+OriginalSnt:The opinion says someone informed imminent Gluck ' s death to <p1> Mozart </p1> and he returned to <p2> Vienna </p2> .
+Snt:The opinion says someone informed imminent Gluck ' s death to Mozart and he returned to Vienna .
+====================
+-----------
+OriginalSnt:<p1> John Pemberton </p1> - Inventor of <p2> Coca - Cola </p2> -
+Snt:John Pemberton - Inventor of Coca - Cola - .
+John Pemberton;@;- Inventor of;@;Coca - Cola
+====================
+-----------
+OriginalSnt:<p1> Pfizer </p1> brought a patent - infringement suit against <p2> Teva Pharmaceuticals </p2> ,
+Snt:Pfizer brought a patent - infringement suit against Teva Pharmaceuticals , .
+====================
+-----------
+OriginalSnt:1921 <p1> Albert Einstein </p1> wins <p2> Nobel prize </p2>
+Snt:1921 Albert Einstein wins Nobel prize .
+Albert Einstein;@;wins;@;Nobel prize
+====================
+-----------
+OriginalSnt:" <p1> Yahoo </p1> rebuffs <p2> Microsoft </p2> offer " FT.com 2 : 01 PM
+Snt:" Yahoo rebuffs Microsoft offer " FT.com 2 : 01 PM .
+====================
+-----------
+OriginalSnt:Such contrapuntal movements can be found in those same quartets heard by young <p1> Mozart </p1> on his fateful visit to <p2> Vienna </p2> .
+Snt:Such contrapuntal movements can be found in those same quartets heard by young Mozart on his fateful visit to Vienna .
+====================
+-----------
+OriginalSnt:" <p1> Yahoo! </p1> Snipes at <p2> Microsoft </p2> " TheStreet.com 4 : 06 PM
+Snt:" Yahoo! Snipes at Microsoft " TheStreet.com 4 : 06 PM .
+====================
+-----------
+OriginalSnt:<p1> John Steinbeck </p1> also earned alot of awards , one being the <p2> Pulitzer Prize </p2> in 1940 .
+Snt:John Steinbeck also earned alot of awards , one being the Pulitzer Prize in 1940 .
+John Steinbeck;@;also earned alot of awards , one being the;@;Pulitzer Prize
+====================
+-----------
+OriginalSnt:<p1> Mozart </p1> spent two months and came back to <p2> Vienna </p2> on June 4 .
+Snt:Mozart spent two months and came back to Vienna on June 4 .
+====================
+-----------
+OriginalSnt:Soon after , <p1> Mozart </p1> was summoned to <p2> Vienna </p2> by Archbishop Colloredo , but unhappy with his treatment there , __ requested a discharge .
+Snt:Soon after , Mozart was summoned to Vienna by Archbishop Colloredo , but unhappy with his treatment there , __ requested a discharge .
+====================
+-----------
+OriginalSnt:<p1> Damadian </p1> was passed over for a <p2> Nobel prize </p2> ( 2003 ) for the discovery and development of MRI .
+Snt:Damadian was passed over for a Nobel prize ( 2003 ) for the discovery and development of MRI .
+====================
+-----------
+OriginalSnt:<p1> Pfizer </p1> settles patent suits against <p2> Teva </p2>
+Snt:Pfizer settles patent suits against Teva .
+====================
+-----------
+OriginalSnt:<p1> John Steinbeck </p1> was awarded the nation 's highest literary honor , the <p2> Pulitzer Prize </p2> for literature .
+Snt:John Steinbeck was awarded the nation 's highest literary honor , the Pulitzer Prize for literature .
+John Steinbeck;@;was awarded the nation 's highest literary honor , the;@;Pulitzer Prize
+====================
+-----------
+OriginalSnt:<p1> Pfizer </p1> sues <p2> Teva </p2> , Sandoz
+Snt:Pfizer sues Teva , Sandoz .
+====================
+-----------
+OriginalSnt:In 1886 , <p1> Frank Robinson </p1> used his own pen and ink to script the first <p2> Coca - Cola </p2> - trademark .
+Snt:In 1886 , Frank Robinson used his own pen and ink to script the first Coca - Cola - trademark .
+====================
+-----------
+OriginalSnt:<p1> Robinson </p1> came up with the <p2> Coca - Cola </p2> - .
+Snt:Robinson came up with the Coca - Cola - .
+====================
+-----------
+OriginalSnt:In 1781 , <p1> Mozart </p1> visited <p2> Vienna </p2> in the company of his employer , the harsh Prince - Archbishop Colloredo , and had a falling out with him .
+Snt:In 1781 , Mozart visited Vienna in the company of his employer , the harsh Prince - Archbishop Colloredo , and had a falling out with him .
+====================
+-----------
+OriginalSnt:<p1> Pemberton </p1> sold <p2> Coca - Cola </p2> - out of the pharmacy he worked at .
+Snt:Pemberton sold Coca - Cola - out of the pharmacy he worked at .
+====================
+-----------
+OriginalSnt:Pemberton 's bookkeeper <p1> Frank Robinson </p1> came up with the name <p2> Coca - Cola </p2> - for the new drink and created the name using Spencerian script .
+Snt:Pemberton 's bookkeeper Frank Robinson came up with the name Coca - Cola - for the new drink and created the name using Spencerian script .
+====================
+-----------
+OriginalSnt:<p1> Dean Kamen </p1> ( left ) , inventor of <p2> the Segway Human Transporter </p2> Human Transporter wearing the Plantronics Voyager 510 Bluetooth Headset
+Snt:Dean Kamen ( left ) , inventor of the Segway Human Transporter Human Transporter wearing the Plantronics Voyager 510 Bluetooth Headset .
+Dean Kamen;@;( left ) , inventor of;@;the Segway Human Transporter
+====================
+-----------
+OriginalSnt:<p1> Pfizer </p1> Announces Settlement With <p2> Teva </p2> on Patents Covering Cancer Medicine and Antibiotic
+Snt:Pfizer Announces Settlement With Teva on Patents Covering Cancer Medicine and Antibiotic .
+====================
+-----------
+OriginalSnt:<p1> Mozart </p1> dies on December 5 , 1791 , in <p2> Vienna </p2> following a protracted illness ( probably a chronic kidney disease that brought on uremia , but __ suspected he had been poisioned ) .
+Snt:Mozart dies on December 5 , 1791 , in Vienna following a protracted illness ( probably a chronic kidney disease that brought on uremia , but __ suspected he had been poisioned ) .
+====================
+-----------
+OriginalSnt:<p1> Mozart </p1> was buried in a <p2> Vienna </p2> suburb , with little ceremony and in an unmarked grave , in accordance with prevailing custom .
+Snt:Mozart was buried in a Vienna suburb , with little ceremony and in an unmarked grave , in accordance with prevailing custom .
+====================
+-----------
+OriginalSnt:Pemberton and <p1> Robinson </p1> marketed <p2> Coca - Cola </p2> - as both a patent medicine and a refreshing beverage .
+Snt:Pemberton and Robinson marketed Coca - Cola - as both a patent medicine and a refreshing beverage .
+====================
+-----------
+OriginalSnt:According to the company 's website , <p1> Kamen </p1> was first inspired to create <p2> the Segway </p2> after seeing a man in a
+Snt:According to the company 's website , Kamen was first inspired to create the Segway after seeing a man in a .
+====================
+-----------
+OriginalSnt:Michelin has also partnered with <p1> Dean Kamen </p1> ( inventor of <p2> the Segway </p2> ) and is working with him on wheels for the Segway and the iBOT .
+Snt:Michelin has also partnered with Dean Kamen ( inventor of the Segway ) and is working with him on wheels for the Segway and the iBOT .
+Dean Kamen;@;( inventor of;@;the Segway
+====================
+-----------
+OriginalSnt:<p1> Dean Kamen </p1> is the inventor of <p2> the Segway Human Transporter </p2> Human Transporter as well as countless other inventions including the iBot , a wheelchair that can actually climb stairs and the first handheld insulin pump .
+Snt:Dean Kamen is the inventor of the Segway Human Transporter Human Transporter as well as countless other inventions including the iBot , a wheelchair that can actually climb stairs and the first handheld insulin pump .
+Dean Kamen;@;is the inventor of;@;the Segway Human Transporter
+====================
+-----------
+OriginalSnt:<p1> John Steinbeck </p1> is probably most famous for his <p2> Pulitzer Prize </p2> winning epic , The Grapes of Wrath , but he is also well known for Of Mice and Men , East of Eden and The Red Pony .
+Snt:John Steinbeck is probably most famous for his Pulitzer Prize winning epic , The Grapes of Wrath , but he is also well known for Of Mice and Men , East of Eden and The Red Pony .
+====================
+-----------
+OriginalSnt:* Atlanta pharmacist <p1> John Pemberton </p1> invented <p2> Coca - Cola </p2> - in 1886 .
+Snt:* Atlanta pharmacist John Pemberton invented Coca - Cola - in 1886 .
+John Pemberton;@;invented;@;Coca - Cola
+====================
+-----------
+OriginalSnt:. . . <p1> John Pemberton </p1> concocted the <p2> Coca Cola </p2> formula in a three legged brass kettle in . . .
+Snt:. . . John Pemberton concocted the Coca Cola formula in a three legged brass kettle in . . .
+John Pemberton;@;concocted the;@;Coca Cola
+====================
+-----------
+OriginalSnt:<p1> Nelson </p1> sees <p2> the World Wide Web </p2> as a massively nerfed version of his original dream .
+Snt:Nelson sees the World Wide Web as a massively nerfed version of his original dream .
+====================
+-----------
+OriginalSnt:<p1> Albert Einstein </p1> ( 1879 - 1955 ) was the <p2> Nobel Prize </p2> winner in 1921 for physics .
+Snt:Albert Einstein ( 1879 - 1955 ) was the Nobel Prize winner in 1921 for physics .
+====================
+-----------
+OriginalSnt:<p1> John Pemberton </p1> was the inventor of <p2> Coca Cola </p2>
+Snt:John Pemberton was the inventor of Coca Cola .
+John Pemberton;@;was the inventor of;@;Coca Cola
+====================
+-----------
+OriginalSnt:?€?It was <p1> Harry Truman </p1> who created the <p2> Presidential Medal of Freedom </p2> when he signed Executive Order 58011 , ?€? The President said .
+Snt:?€?It was Harry Truman who created the Presidential Medal of Freedom when he signed Executive Order 58011 , ?€? The President said .
+====================
+-----------
+OriginalSnt:<p1> Pfizer </p1> , the world ' s biggest drug maker , sued <p2> Teva Pharmaceutical Industries </p2> to block a generic version of the painkiller Celebrex , the world ' s top - selling arthritis drug .
+Snt:Pfizer , the world ' s biggest drug maker , sued Teva Pharmaceutical Industries to block a generic version of the painkiller Celebrex , the world ' s top - selling arthritis drug .
+====================
+-----------
+OriginalSnt:1886 <p1> John Pemberton </p1> begins selling medicinal syrup as a fountain drink , creating <p2> Coca - Cola </p2> - .
+Snt:1886 John Pemberton begins selling medicinal syrup as a fountain drink , creating Coca - Cola - .
+John Pemberton;@;begins selling medicinal syrup as a fountain drink , creating;@;Coca - Cola
+====================
+-----------
+OriginalSnt:Last fall , Dr . Raymond V . <p1> Damadian </p1> was denied a <p2> Nobel Prize </p2> for his role in the development of magnetic resonance imaging .
+Snt:Last fall , Dr . Raymond V . Damadian was denied a Nobel Prize for his role in the development of magnetic resonance imaging .
+====================
+-----------
+OriginalSnt:Prize Fight : <p1> Raymond Damadian </p1> refuses to take his failure to win a <p2> Nobel Prize </p2> , for a prototype MRI
+Snt:Prize Fight : Raymond Damadian refuses to take his failure to win a Nobel Prize , for a prototype MRI .
+====================
+-----------
+OriginalSnt:<p1> Dean Kamen </p1> is best known as the inventor of <p2> the Segway </p2> Scooter .
+Snt:Dean Kamen is best known as the inventor of the Segway Scooter .
+Dean Kamen;@;is best known as the inventor of;@;the Segway
+====================
+-----------
+OriginalSnt:<p1> Nelson </p1> hates <p2> the World Wide Web </p2> , the Internet , XML and all embedded markup , and regards Berners - Lee 's work as a gross over - simplification of his own work .
+Snt:Nelson hates the World Wide Web , the Internet , XML and all embedded markup , and regards Berners - Lee 's work as a gross over - simplification of his own work .
+====================
+-----------
+OriginalSnt:<p1> Mozart </p1> died in <p2> Vienna </p2> at age 35 of uremia , a kidney disorder that was caused by his excessive consumption of alcohol .
+Snt:Mozart died in Vienna at age 35 of uremia , a kidney disorder that was caused by his excessive consumption of alcohol .
+====================
+-----------
+OriginalSnt:Established by <p1> President Truman </p1> as a wartime honor , the <p2> Presidential Medal of Freedom </p2> was reintroduced by President Kennedy as a way to honor civilian service .
+Snt:Established by President Truman as a wartime honor , the Presidential Medal of Freedom was reintroduced by President Kennedy as a way to honor civilian service .
+====================
+-----------
+OriginalSnt:<p1> Mozart </p1> who became a free musician in <p2> Vienna </p2> often held concerts by subscription as one of his means to make his living.These
+Snt:Mozart who became a free musician in Vienna often held concerts by subscription as one of his means to make his living.These .
+====================
+-----------
+OriginalSnt:Albert Einstein , one of the greatest scientific thinkers , was born in Ulm , Germany . <p1> Einstein </p1> was awarded the <p2> Nobel Prize </p2> for physics in 1921 .
+Snt:Albert Einstein , one of the greatest scientific thinkers , was born in Ulm , Germany . Einstein was awarded the Nobel Prize for physics in 1921 .
+Einstein;@;was awarded the;@;Nobel Prize
+====================
+-----------
+OriginalSnt:Albert Einstein , in a condolence letter to the family of the chemist who , like <p1> Einstein </p1> won a <p2> Nobel Prize </p2> but unlike him believed that the future of science was in its application .
+Snt:Albert Einstein , in a condolence letter to the family of the chemist who , like Einstein won a Nobel Prize but unlike him believed that the future of science was in its application .
+Einstein;@;won a;@;Nobel Prize
+====================
+-----------
+OriginalSnt:<p1> Pfizer </p1> sues Ranbaxy , <p2> Teva </p2> for product infringement
+Snt:Pfizer sues Ranbaxy , Teva for product infringement .
+====================
+-----------
+OriginalSnt:<p1> Kamen </p1> unveiled <p2> the Segway </p2> .
+Snt:Kamen unveiled the Segway .
+====================
+-----------
+OriginalSnt:<p1> Steinbeck </p1> received the <p2> Pulitzer Prize </p2> in 1940 and the Nobel Prize for Literature in 1962 .
+Snt:Steinbeck received the Pulitzer Prize in 1940 and the Nobel Prize for Literature in 1962 .
+Steinbeck;@;received the;;received;@;Pulitzer Prize;;the Pulitzer Prize
+Steinbeck;@;received the;;received;@;Nobel Prize;;the Nobel Prize
+====================
+-----------
+OriginalSnt:<p1> Yahoo </p1> Rejects <p2> Microsoft </p2> Search Offer
+Snt:Yahoo Rejects Microsoft Search Offer .
+====================
+-----------
+OriginalSnt:Just a year later , in 1762 , <p1> Mozart </p1> performed in <p2> Vienna </p2> for the Archduchess Maria Theresia .
+Snt:Just a year later , in 1762 , Mozart performed in Vienna for the Archduchess Maria Theresia .
+====================
+-----------
+OriginalSnt:<p1> Einstein </p1> received a variety of honours in his lifetime from the 1921 <p2> Nobel Prize </p2> in physics to an offer ( which he did not accept ) of the presidency of Israel after Chaim Weizmanns death in 1952 .
+Snt:Einstein received a variety of honours in his lifetime from the 1921 Nobel Prize in physics to an offer ( which he did not accept ) of the presidency of Israel after Chaim Weizmanns death in 1952 .
+Einstein;@;received a variety of honours in his lifetime from the 1921;;received;@;Nobel Prize;;a variety of honours
+====================
+-----------
+OriginalSnt:How many times did <p1> Albert Einstein </p1> win a <p2> Nobel Prize </p2> for physics?
+Snt:How many times did Albert Einstein win a Nobel Prize for physics?
+Albert Einstein;@;win a;@;Nobel Prize
+====================
+-----------
+OriginalSnt:<p1> Albert Einstein </p1> received his <p2> Nobel Prize </p2> for the Quantum theory ( rather than the theory of relativity ) .
+Snt:Albert Einstein received his Nobel Prize for the Quantum theory ( rather than the theory of relativity ) .
+Albert Einstein;@;received his;;received;@;Nobel Prize;;his Nobel Prize
+====================
+-----------
+OriginalSnt:( Washington : Ucs News ) In a Rose Garden ceremony , President George W . Bush awarded Arizona senator <p1> john McCain </p1> the order of the <p2> Purple Heart </p2> .
+Snt:( Washington : Ucs News ) In a Rose Garden ceremony , President George W . Bush awarded Arizona senator john McCain the order of the Purple Heart .
+====================
+-----------
+OriginalSnt:The discovery revolutionized biology , and won <p1> Crick </p1> and Watson the <p2> Nobel Prize </p2> in 1962 along with their colleague Maurice Wilkins .
+Snt:The discovery revolutionized biology , and won Crick and Watson the Nobel Prize in 1962 along with their colleague Maurice Wilkins .
+====================
+-----------
+OriginalSnt:James Watson and <p1> Francis Crick </p1> uncovered the mystery of DNA and won the <p2> Nobel prize </p2> for a little two - page paper ?— two pages .
+Snt:James Watson and Francis Crick uncovered the mystery of DNA and won the Nobel prize for a little two - page paper ?— two pages .
+====================
+-----------
+OriginalSnt:If you throw in spawning cosmology and modern string theory it 's no wonder <p1> Albert Einstein </p1> won the <p2> Nobel Prize </p2> in Physics in 1921 .
+Snt:If you throw in spawning cosmology and modern string theory it 's no wonder Albert Einstein won the Nobel Prize in Physics in 1921 .
+Albert Einstein;@;won the;@;Nobel Prize
+====================
+-----------
+OriginalSnt:If you throw in spawning cosmology and modern string theory it 's no wonder <p1> Albert Einstein </p1> won the <p2> Nobel Prize </p2> in Physics in 1921 .
+Snt:If you throw in spawning cosmology and modern string theory it 's no wonder Albert Einstein won the Nobel Prize in Physics in 1921 .
+Albert Einstein;@;won the;@;Nobel Prize
+====================
+-----------
+OriginalSnt:<p1> Joseph Pulitzer </p1> Is Renowned For Creating the <p2> Pulitzer Prize </p2> , First . . .
+Snt:Joseph Pulitzer Is Renowned For Creating the Pulitzer Prize , First . . .
+====================
+-----------
+OriginalSnt:So each is inevitably disappointed .  - <p1> Albert Einstein </p1> ( 1879 - 1955 ) German born American Physicist &amp;amp; <p2> Nobel Prize </p2> Winner
+Snt:So each is inevitably disappointed . - Albert Einstein ( 1879 - 1955 ) German born American Physicist &amp;amp; Nobel Prize Winner .
+====================
+-----------
+OriginalSnt:. . . Back in America , fund raising for the pedestal was going particularly slowly , so <p1> Joseph Pulitzer </p1> noted for the <p2> Pulitzer Prize </p2> opened up the editorial pages . . .
+Snt:. . . Back in America , fund raising for the pedestal was going particularly slowly , so Joseph Pulitzer noted for the Pulitzer Prize opened up the editorial pages . . .
+====================
+-----------
+OriginalSnt:[ * <p1> Crick </p1> received a <p2> Nobel Prize </p2> for discovering the structure of DNA . ]
+Snt:[ * Crick received a Nobel Prize for discovering the structure of DNA . ] .
+Crick;@;received a;@;Nobel Prize
+====================
+-----------
+OriginalSnt:<p1> Albert Einstein </p1> explained the photoelectric effect and received his only <p2> Nobel Prize </p2> .
+Snt:Albert Einstein explained the photoelectric effect and received his only Nobel Prize .
+Albert Einstein;@;explained the photoelectric effect and received his only;@;Nobel Prize
+====================
+-----------
+OriginalSnt:Why did Watson and <p1> Crick </p1> win the <p2> Nobel Prize </p2> ?
+Snt:Why did Watson and Crick win the Nobel Prize ?
+Crick;@;win the;@;Nobel Prize
+====================
+-----------
+OriginalSnt:Why did Watson and <p1> Crick </p1> win the <p2> Nobel Prize </p2> ?
+Snt:Why did Watson and Crick win the Nobel Prize ?
+Crick;@;win the;@;Nobel Prize
+====================
+-----------
+OriginalSnt:For examples , the discovery of the structure of the DNA double helix was attributed to Professor <p1> Francis Crick </p1> ( co - winner of the <p2> Nobel Prize </p2> in Medicine , 1962 ) who was a physicist by training .
+Snt:For examples , the discovery of the structure of the DNA double helix was attributed to Professor Francis Crick ( co - winner of the Nobel Prize in Medicine , 1962 ) who was a physicist by training .
+Francis Crick;@;( co - winner of the;@;Nobel Prize
+====================
+-----------
+OriginalSnt:Watson , along with Dr . <p1> Francis Crick </p1> and Dr . Maurice Wilkins , won the 1962 <p2> Nobel Prize </p2> in Physiology or Medicine for solving the molecular structure of DNA .
+Snt:Watson , along with Dr . Francis Crick and Dr . Maurice Wilkins , won the 1962 Nobel Prize in Physiology or Medicine for solving the molecular structure of DNA .
+Francis Crick;@;and Dr . Maurice Wilkins , won the 1962;@;Nobel Prize
+====================
+-----------
+OriginalSnt:They published their findings in the journal Nature in April of 1953 ; the discovery was considered tremendously significant , and in 1962 Watson and <p1> Crick </p1> and their collaborator Maurice Wilkins were awarded the <p2> Nobel Prize </p2> in Medicine .
+Snt:They published their findings in the journal Nature in April of 1953 ; the discovery was considered tremendously significant , and in 1962 Watson and Crick and their collaborator Maurice Wilkins were awarded the Nobel Prize in Medicine .
+Crick;@;and their collaborator Maurice Wilkins were awarded the;@;Nobel Prize
+====================
+-----------
+OriginalSnt:<p1> Steinbeck </p1> receives a <p2> Pulitzer Prize </p2> and Ford receives an Oscar .
+Snt:Steinbeck receives a Pulitzer Prize and Ford receives an Oscar .
+Steinbeck;@;receives a;@;Pulitzer Prize
+====================
+-----------
+OriginalSnt:UC San Diego professor <p1> Francis Crick </p1> received <p2> Nobel Prize </p2> in Medicine .
+Snt:UC San Diego professor Francis Crick received Nobel Prize in Medicine .
+Francis Crick;;UC San Diego professor Francis Crick;@;received;@;Nobel Prize
+====================
+-----------
+OriginalSnt:<p1> John Steinbeck </p1> also earned alot of awards , one being the <p2> Pulitzer Prize </p2> in 1940 .
+Snt:John Steinbeck also earned alot of awards , one being the Pulitzer Prize in 1940 .
+John Steinbeck;@;also earned alot of awards , one being the;@;Pulitzer Prize
+====================
+-----------
+OriginalSnt:James Watson and <p1> Francis Crick </p1> describe double helix structure of DNA ( receive <p2> Nobel Prize </p2> in 1962 ) .
+Snt:James Watson and Francis Crick describe double helix structure of DNA ( receive Nobel Prize in 1962 ) .
+Francis Crick;@;describe double helix structure of DNA ( receive;@;Nobel Prize
+====================
+-----------
+OriginalSnt:More than Fifty years ago , James Watson and <p1> Francis Crick </p1> discovered the structure of DNA for which they received the <p2> Nobel Prize </p2> .
+Snt:More than Fifty years ago , James Watson and Francis Crick discovered the structure of DNA for which they received the Nobel Prize .
+Francis Crick;@;discovered the structure of DNA for which they received the;@;Nobel Prize
+====================
+-----------
+OriginalSnt:A good deal of the credit for these discoveries has gone to <p1> Francis Crick </p1> who , together with James Watson , won the <p2> Nobel Prize </p2> for having determined the nature of DNA .
+Snt:A good deal of the credit for these discoveries has gone to Francis Crick who , together with James Watson , won the Nobel Prize for having determined the nature of DNA .
+Francis Crick;@;who , together with James Watson , won the;@;Nobel Prize
+====================
+-----------
+OriginalSnt:Although she was instrumental in the discovery of the structure of DNA , <p1> Crick </p1> and Watson are credited with the discovery and received a <p2> Nobel Prize </p2> for the achievement .
+Snt:Although she was instrumental in the discovery of the structure of DNA , Crick and Watson are credited with the discovery and received a Nobel Prize for the achievement .
+Crick;@;and Watson are credited with the discovery and received a;@;Nobel Prize
+====================

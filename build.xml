@@ -1,0 +1,117 @@
+<?xml version="1.0"?>
+<project name="Parser" default="doc">
+	<!-- properies -->
+	<property name="program_name" value="ACMParser" />
+	<property name="src.dir" value="src" />
+	<property name="report.dir" value="report" />
+	<property name="classes.dir" value="classes" />
+	<property name="lib.dir" value="lib" />
+	<property name="dist.dir" value="" />
+	<property name="doc.dir" value="doc" />
+	<property name="name" value="main" />
+	<property name="main_class" value="org.whuims.function.bilangcorpus.ranking.CorpusWorker" />
+
+	<!-- 定义classpath -->
+	<path id="master-classpath">
+		<fileset file="${lib.dir}/*.jar" />
+		<pathelement path="${classes.dir}" />
+	</path>
+	<path id="another-classpath">
+		<fileset file="../${program_name}/lib/*.jar" />
+		<pathelement path="${classes.dir}" />
+	</path>
+
+	<!-- 初始化任务 -->
+	<target name="init">
+	</target>
+
+	<!-- 编译 -->
+	<target name="compile" depends="init" description="compile the source files">
+		<mkdir dir="${classes.dir}" />
+		<javac srcdir="../${program_name}/src" destdir="${classes.dir}" target="1.7">
+			<classpath refid="another-classpath" />
+		</javac>
+		<javac srcdir="${src.dir}" destdir="${classes.dir}" target="1.7">
+			<classpath refid="master-classpath" />
+		</javac>
+
+		<copy todir="${classes.dir}" preservelastmodified="true">
+			<fileset dir="${src.dir}">
+				<include name="*.xml" />
+				<include name="**/*.properties" />
+				<include name="**/*.vm" />
+				<exclude name="**/.*" />
+			</fileset>
+		</copy>
+	</target>
+
+	<!-- 测试 -->
+	<target name="test" depends="compile" description="run junit test">
+		<mkdir dir="${report.dir}" />
+		<junit printsummary="on" haltonfailure="false" failureproperty="tests.failed" showoutput="true">
+			<classpath refid="master-classpath" />
+			<formatter type="plain" />
+			<batchtest todir="${report.dir}">
+				<fileset dir="${classes.dir}">
+					<include name="**test/*" />
+				</fileset>
+			</batchtest>
+		</junit>
+		<fail if="tests.failed">
+			***********************************************************
+			**** One or more tests failed! Check the output ... ****
+			***********************************************************
+		</fail>
+	</target>
+	<!--生成lib中的path声明-->
+	<pathconvert property="libs" pathsep=" ">
+		<!--mapper,对路径组合方式进行控制-->
+		<mapper>
+			<!--chainedmapper 作用是联合多个mapper-->
+			<chainedmapper>
+				<!--过滤文件，将路径去掉，只保留文件名-->
+				<flattenmapper />
+				<!--过滤+转换器，将所有的文件名前面都加上一个lib，我们知道lib目录下面有jar包，  
+                    lib/*的作用其实是将jar包名与路径进行组合形成如：lib/google.jar这样的相对路径  
+                 -->
+				<globmapper from="*" to="lib/*" />
+			</chainedmapper>
+		</mapper>
+		<!--按照mapper定义的格式组合lib目录下面的所有jar文件，形成诸如lib/jar1.jar lib/jar2.jar的字符串-->
+		<fileset dir="lib">
+			<include name="*.jar" />
+		</fileset>
+	</pathconvert>
+
+	<!-- 打包成jar -->
+	<target name="pack" depends="test" description="make .jar file">
+		<!-- <mkdir dir="${dist.dir}" />-->
+		<copy todir="${classes.dir}">
+			<fileset dir="${lib.dir}" />
+		</copy>
+		<jar destfile="${name}.jar" basedir="${classes.dir}">
+			<manifest>
+				<attribute name="Main-Class" value="${main_class}" />
+				<attribute name="Class-Path" value="${libs}" />
+			</manifest>
+			<exclude name="**/*Test.*" />
+			<exclude name="**/Test*.*" />
+		</jar>
+	</target>
+
+	<!-- 输出api文档
+	 -->
+	<target name="doc" depends="pack" description="create api doc">
+		<mkdir dir="${doc.dir}" />
+		<javadoc destdir="${doc.dir}" author="true" version="true" use="true" windowtitle="Test API">
+			<packageset dir="${src.dir}/org/" defaultexcludes="yes">
+				<include name="**" />
+			</packageset>
+			<doctitle>
+				<![CDATA[<h1>Hello, test</h1>]]></doctitle>
+		<bottom>
+			<![CDATA[<i>All Rights Reserved.</i>]]></bottom>
+	<tag name="todo" scope="all" description="To do:" />
+</javadoc>
+</target>
+</project>

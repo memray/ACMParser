@@ -1,0 +1,13 @@
+ex.	ABB_ex
+EX.	ABB_EX
+(ex.	ABB_ex
+(EX.	ABB_EX
+[ex.	ABB_ex
+[EX.	ABB_EX
+apt.	ABB_apt
+APT.	ABB_APT
+Apt.	ABB_Apt
+A.E.A	ABB_AEA
+e.g.	eg
+e.g	eg
+St.	ABB_ST

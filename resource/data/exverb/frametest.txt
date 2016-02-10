@@ -1,0 +1,22 @@
+The Berkeley FrameNet project is creating an on-line lexical resource for English, based on frame semantics and supported by corpus evidence. 
+The aim is to document the range of semantic and syntactic combinatory possibilities– valences–of each word in each of its senses, through computer-assisted annotation of example sentences and automatic tabulation and display of the annotation results. 
+The major product of this work, the FrameNet lexical database, currently contains more than 10,000 lexical units (defined below), more than 6,000 of which are fully annotated, in nearly 800 hierarchically-related semantic frames, exemplified in more than 135,000 annotated sentences. 
+Beginning with Release 1.3, the quality of FrameNet data is monitored by a consistency management system. 
+The database has gone through three releases, and is now in use by hundreds of researchers, teachers, and students around the world. (See the FrameNet Users page on our web-site). 
+Active research projects are seeking to produce comparable frame-semantic lexicons for other languages and to devise means of automatically labeling running text with semantic frame information.
+
+
+A lexical unit (LU) is a pairing of a word with a meaning. 
+Typically, each sense of a polysemous word belongs to a different semantic frame, a script-like conceptual structure that describes a particular type of situation, object, or event along with its participants and props. 
+For example, the Apply heat frame describes a common situation involving a Cook, some Food, and a Heating Instrument, and is evoked by words such as bake, blanch, boil, broil, brown, simmer, steam, etc. 
+We call these roles frame elements(FEs) and the frame-evoking words are LUs in the Apply heat frame. 
+Some frames are more abstract, such as Change position on a scale, which is evoked by LUs such as decline, decrease, gain, plummet, rise, etc.,and has FEs such as Item, Attribute, Initial value and Final value.
+In the simplest case, the frame-evoking LU is a verb and the FEs are its syntactic dependents:
+
+
+The lexical entry for a predicating word, derived from such annotations, identifies the frame which underlies a given meaning and specifies the ways in which FEs are realized in structures headed by the word.
+Many common nouns, such as artifacts like hat or tower, typically serve as dependents rather than clearly evoking their own frames. 
+The main purpose of annotating such items is to identify the most common predicates that govern phrases headed by them, and thus to illustrate the ways in which these common nouns function as FEs within frames evoked by the governing predicates.
+
+We do recognize that artifact and natural kind nouns also have a minimal frame structure of their own.
+For example, artifacts often occur together with expressions indicating their sub-type, the material of which they are made, their manner of production, and their purpose/use; these are defined as FEs in the frames for various types of artifacts. Consider two example sentences from the Clothing frame.

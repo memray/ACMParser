@@ -1,0 +1,75 @@
+[NP]_APP based on [NP]_MET
+[NP of NP]_APP based on [NP]_MET 
+[NP]_APP based on [NP]_MET and [NP]_MET 
+research on [NP]_APP based on [NP]_MET 
+a [NP]_APP based on [NP]_MET
+research of [NP]_APP based on [NP]_MET 
+[VP NP]_APP based on [NP]_MET
+[NP]_APP and [NP]_APP based on [NP]_MET 
+[NP]_APP based on [NP of NP]_MET 
+[NP of NP]_APP based on [NP]_MET and [NP]_MET 
+research on [NP of NP]_APP based on [NP]_MET 
+study on [NP]_APP based on [NP]_MET 
+research and [NP of NP]_APP based on [NP]_MET 
+study of [NP]_APP based on [NP]_MET 
+[NP]_APP using [NP]_MET
+an [NP]_APP based on [NP]_MET 
+the [NP of NP]_APP based on [NP]_MET
+[NP VP NP]_APP based on [NP]_MET
+a [NP of NP]_APP based on [NP]_MET
+[NP]_APP with [NP]_MET
+[NP VP]_APP based on [NP]_MET
+[NP]_APP based on the [NP]_MET
+the [NP]_APP based on [NP]_MET
+study on [NP of NP]_APP based on [NP]_MET
+[NP of NP of NP]_APP based on [NP]_MET
+a [NP]_APP based on [NP]_MET and [NP]_MET
+[NP of NP]_APP using [NP]_MET
+research on the [NP of NP]_APP based on [NP]_MET
+research on the [NP]_APP based on [NP]_MET
+[NP of the NP]_APP based on [NP]_MET
+[NP of NP VP]_APP based on [NP]_MET
+[NP of NP]_APP based on the [NP]_MET
+research of [NP]_APP based on [NP]_MET and [NP]_MET
+a [NP]_APP based on the [NP]_MET
+[NP]_APP using [NP]_MET and [NP]_MET
+an [NP]_APP based on [NP]_MET and [NP]_MET
+
+==========copy without annonation attached below====================
+#NP based on NP
+#NP of NP based on NP
+#NP based on NP and NP
+#research on NP based on NP
+#a NP based on NP
+#research of NP based on NP
+#VP NP based on NP
+#NP and NP based on NP
+#NP based on NP of NP
+#NP of NP based on NP and NP
+#research on NP of NP based on NP
+#study on NP based on NP
+#research and NP of NP based on NP
+#study of NP based on NP
+#NP using NP
+#an NP based on NP
+#the NP of NP based on NP
+#NP VP NP based on NP
+#a NP of NP based on NP
+#NP with NP
+#NP VP based on NP
+#NP based on the NP
+#the NP based on NP
+#study on NP of NP based on NP 
+#NP of NP of NP based on NP
+#a NP based on NP and NP
+#NP of NP using NP
+#research on the NP of NP based on NP
+#research on the NP based on NP
+#NP of the NP based on NP
+#NP of NP VP based on NP
+#NP of NP based on the NP
+#research of NP based on NP and NP
+#research and design of NP based on NP
+#a NP based on the NP
+#NP using NP and NP
+#an NP based on NP and NP

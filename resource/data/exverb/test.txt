@@ -1,0 +1,73 @@
+Discriminative learning methods , such as Maximum Entropy Markov Models, Projection Based Markov Models, Conditional Random Fields, Sequence AdaBoost, Sequence Perceptron, Hidden Markov Support Vector Machines and Maximum-Margin Markov Networks, overcome the limitations of HMMs.
+Electronically available multi-modal data is unprecedented in terms of its volume, variety, velocity, (and veracity).
+Mining scientific data for patterns and relationships has been a common practice for decades , and the very simple use of self-mutating genetic algorithms is nothing new , either . 
+The development of compositional distributional models of semantics reconciling the empirical aspects of distributional semantics with the compositional aspects of formal semantics is a popular topic in the contemporary literature.
+I don’t have anything to say to you.
+In this paper we present a general natural language processing system called CARAMEL . 
+The guide contains dead links and omits sites.
+This paper shows that the output of state of the art Open IE systems is rife with uninformative and incoherent extractions . 
+In this paper, we present, validate, and implements a general natural language processing system called CARAMEL . 
+he go downstairs quickly and eat an apple.
+The model is independent of any particular set of relations and uses an extended definition for semantic relations. 
+he gave Tom and Peter two books.
+In this paper, the data is a collection of sentences, each of which contains a number of target verbs and other annotations.
+Paris is located in French.
+
+We describe latent Dirichlet allocation (LDA), a generative probabilistic model for collections of discrete data such as text corpora.
+LDA is a three-level hierarchical Bayesian model, in which each item of a collection is modeled as a finite mixture over an underlying set of topics.
+Each topic is, in turn, modeled as an infinite mixture over an underlying set of topic probabilities.
+In the context of text modeling, the topic probabilities provide an explicit representation of a document.
+We present efficient approximate inference techniques based on variational methods and an EM algorithm for empirical Bayes parameter estimation.
+We report results in document modeling, text classification, and collaborative filtering, comparing to a mixture of unigrams model and the probabilistic LSI model.
+
+Bell, based in Los Angeles, makes and distributes electronic, computer and building products.
+She looks very beautiful.
+The accident happened as the night was falling.
+If you know who did it, you should tell the teacher.
+He talked to him in order to secure the account.
+The man has been killed by the police.
+Effects caused by the protein are important.
+Sam eats red meat
+Sam took out a 3 million dollar load.
+Sam took out a $ 3 million loan.
+Sam , my brother , arrived.
+The Australian Broadcasting Corporation ( ABC ).
+He should leave.
+Kennedy has been killed.
+Kennedy was killed.
+Bill is big and honest.
+They either ski or snowboard.
+He says that you like to swim.
+I am certain that he did it.
+I admire the fact that you are honest.
+Bill is an honest man.
+What she said makes sense.
+What he said is not true.
+That she lied was suspected by everyone.
+She gave me a raise.
+They win the lottery
+There is a ghost in the room.
+They come here with out legal permission.
+Forces engaged in fighting after insurgents attacked.
+I like dogs as well as cats.
+Bill is not a scientist.
+The director is 65 years old.
+90% of Australians like him, the most of any country.
+The guy, John said, left early in the morning.
+We have no information on whether users are at risk.
+They heard about you missing classes.
+Both the boys and the girls are here.
+I saw a cat in a hat.
+I saw a cat with a telescope.
+He is responsible for meals.
+He purchased it without paying a premium.
+They shut down the station.
+About 200 people came to the party.
+I saw the book which you bought.
+Last night, I swam in the pool.
+I don't have anything to say to you.
+Truffles picked during the spring are tasty.
+Bill tried to shoot, demonstrating his incompetence.
+He says that you like to swim.
+I am ready to leave.
+Tom likes to eat fish.

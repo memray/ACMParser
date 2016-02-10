@@ -14,4 +14,7 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+<<<<<<< HEAD
 lib/stanford-corenlp-3.5.1-models.jar
+=======
+>>>>>>> 45cade11c64774a7eccb13e588d69f05a4b5dfe2

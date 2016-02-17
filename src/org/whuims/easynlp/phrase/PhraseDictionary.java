@@ -63,6 +63,7 @@ public class PhraseDictionary {
 
 	/**
 	 * Check whether the given words is included in the dictionary
+	 * a signal, 0 denotes not found, 2 denotes exactly match, 1 means match partly
 	 * @param words
 	 * @return
      */

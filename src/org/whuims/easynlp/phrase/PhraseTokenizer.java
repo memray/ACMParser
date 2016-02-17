@@ -96,7 +96,8 @@ public class PhraseTokenizer {
 		for (String str : lines) {
 			str = str.toLowerCase().trim();
 			String[] array = str.split("\\s+");
-			if (array.length > 1)
+			// array.length > 1 means only keep phrases
+//			if (array.length > 1)
 				dict.addPhrase(array, "NN", 1);
 		}
 	}
@@ -127,7 +128,7 @@ public class PhraseTokenizer {
 				tempList.add(tokens[offset]);
 				signal = dict.exists(tempList);
 				if (signal == 0) {
-					if (tempList.size() == 1) {// 当前词不能同词典中任何词汇形成pefix
+					if (tempList.size() == 1) {// 当前词不能work as the prefix of 任何词汇in词典中
 						// match，该词需要独立成词
 						words.add(sent.getWords().get(i));
 						i = offset;
@@ -186,6 +187,12 @@ public class PhraseTokenizer {
 		return sent;
 	}
 
+	/**
+	 * Used for add a word/phrase into the result list
+	 * @param tempList
+	 * @param words
+	 * @param isPhrase
+     */
     private void addWordOrPhrase(List<String> tempList, List<Word> words, boolean isPhrase) {
         String token = StringUtils.join(tempList, PHRASE_DELIMITER);
         String postag = dict.getWordType(StringUtils.join(tempList, " ").trim());

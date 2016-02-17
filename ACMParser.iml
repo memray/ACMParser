@@ -54,7 +54,7 @@
       <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="false" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="module-library">
       <library name="ejml-0.23.jar">
         <CLASSES>
@@ -137,7 +137,7 @@
           <root url="jar://$MODULE_DIR$/lib/commons-lang3-3.3.2.jar!/" />
         </CLASSES>
         <JAVADOC>
-          <root url="jar:file:/H:/Packages/commons/commons-lang3-3.3.2/commons-lang3-3.3.2-javadoc.jar!/" />
+          <root url="jar:file://H:/Packages/commons/commons-lang3-3.3.2/commons-lang3-3.3.2-javadoc.jar!/" />
         </JAVADOC>
         <SOURCES>
           <root url="file://H:/Packages/commons/commons-lang3-3.3.2/src" />
@@ -151,6 +151,17 @@
         </CLASSES>
         <JAVADOC />
         <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="lucene-core-4.10.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/lucene-core-4.10.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://H:/Packages/Lucene/lucene-4.10.2/core/src/java" />
+        </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
@@ -171,6 +182,17 @@
         </CLASSES>
         <JAVADOC />
         <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="lucene-analyzers-common-4.10.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/lucene-analyzers-common-4.10.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://H:/Packages/Lucene/lucene-4.10.2/analysis/common" />
+        </SOURCES>
       </library>
     </orderEntry>
     <orderEntry type="module-library">
@@ -413,7 +435,5 @@
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="lucene-analyzers-common-4.10.2" level="project" />
-    <orderEntry type="library" name="lucene-core-4.10.2" level="project" />
   </component>
 </module>

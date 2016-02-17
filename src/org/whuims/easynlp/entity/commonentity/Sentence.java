@@ -171,6 +171,21 @@ public class Sentence implements ContentUnit, Serializable {
 	}
 
 	/**
+	 * return the keywords and keyphrases only included in the text
+	 * @return
+     */
+	public ArrayList<String> getKeywords() {
+		ArrayList<String> keywordList = new ArrayList<>();
+		StringBuilder sb = new StringBuilder();
+		for (Word word : words) {
+			if(word.isTerm())
+				keywordList.add(word.getText());
+		}
+		return keywordList;
+
+	}
+
+	/**
 	 * 返回最原始的语句
 	 * @return
      */
@@ -218,5 +233,6 @@ public class Sentence implements ContentUnit, Serializable {
 	public void setLattices(String lattices) {
 		this.lattices = lattices;
 	}
+
 
 }

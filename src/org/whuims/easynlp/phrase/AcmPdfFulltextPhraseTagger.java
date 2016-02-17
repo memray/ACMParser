@@ -43,14 +43,15 @@ public class AcmPdfFulltextPhraseTagger {
     }
 
     public static void parseSingleFile(){
-        String basepath = "H:\\Dropbox\\PhD@Pittsburgh\\1.Researh\\NSF\\20160125_analyzer_v1\\textbook_analyzer\\data\\";
+        String basepath = "/home/memray/Project/textbook_analyzer/data/";
+//        String basepath = "H:\\Dropbox\\PhD@Pittsburgh\\1.Researh\\NSF\\20160125_analyzer_v1\\textbook_analyzer\\data\\";
         String inputFilePath = basepath + "corpus_textbook+sigir.txt";
-        String outputFilepath = basepath + "corpus_textbook+sigir_term_phrase.txt";
+        String outputFilepath = basepath + "corpus_textbook+sigir_term_keyword_only.txt";
 
         int count = 0;
 
         try {
-            BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(new File(outputFilepath), false),"utf8"));
+//            BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(new File(outputFilepath), false),"utf8"));
             List<String> lines = FileUtils.readLines(new File(inputFilePath), "utf8");
             String id,text;
             for(String line : lines){
@@ -65,13 +66,14 @@ public class AcmPdfFulltextPhraseTagger {
                 // phrases are connected with underline, and wrapped with <term></term>
     //                String output = sent.getPhraseWrappedText().toLowerCase().replaceAll("-lsb- ", "[").replaceAll(" -rsb-", "]").replaceAll("-lcb- ", "{").replaceAll(" -rcb-", "}").replaceAll("-lrb- ", "(").replaceAll(" -rrb-", ")").replaceAll(" -lab-", "<").replaceAll(" -rab-", ">");
                 // phrases are connected with underline
-                text = sent.getTextWithWordAndPhrase().toLowerCase().replaceAll("-lsb- ", "[").replaceAll(" -rsb-", "]").replaceAll("-lcb- ", "{").replaceAll(" -rcb-", "}").replaceAll("-lrb- ", "(").replaceAll(" -rrb-", ")").replaceAll(" -lab-", "<").replaceAll(" -rab-", ">");
+//                text = sent.getTextWithWordAndPhrase().toLowerCase().replaceAll("-lsb- ", "[").replaceAll(" -rsb-", "]").replaceAll("-lcb- ", "{").replaceAll(" -rcb-", "}").replaceAll("-lrb- ", "(").replaceAll(" -rrb-", ")").replaceAll(" -lab-", "<").replaceAll(" -rab-", ">");
+                text = sent.getKeywords().stream().reduce((t, u) -> t + " " + u).get();
 
-                writer.write(id+'\t'+text+"\n");
+//                writer.write(id+'\t'+text+"\n");
                 System.out.println(text);
                 System.out.println("\n-------------------------------------------------------\n\n\n\n\n");
             }
-            writer.close();
+//            writer.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
